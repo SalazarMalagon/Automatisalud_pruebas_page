@@ -1,1 +1,3519 @@
-function _0x37fa(){var _0xe0a593=['4\x20-\x20Signos\x20mínimos\x20de\x20infección','4.\x20Afectación\x20Leve','Ejercicios\x20progresivos','Manejo\x20de\x20la\x20nutrición,\x20facilitar\x20la\x20ingestión\x20y\x20digestión\x20adecuadas\x20de\x20nutrientes','Proporcionar\x20un\x20programa\x20de\x20entrenamiento\x20de\x20fuerza\x20compatible\x20con\x20la\x20edad\x20y\x20el\x20estado\x20de\x20salud','Incremento\x20de\x20la\x20tolerancia\x20y\x20función','Enseñanza\x20de\x20actividades','Plan\x20de\x20movilización\x20temprana','Nivel\x20de\x20energía\x20adecuado','Optimizar\x20nutrición','3.\x20Moderado','Soporte\x20con\x20lactancia\x20materna','Mejora\x20de\x20ingesta\x20calórica/proteica','4\x20=\x20Ansiedad\x20leve','Precauciones\x20para\x20la\x20aspiración:\x20Prevenir\x20aspiración\x20mediante\x20posición\x20y\x20control\x20de\x20alimentación.','4.\x20Dolor\x20leve','Manejo\x20de\x20la\x20medicación:\x20Preparación,\x20administración\x20y\x20evaluación\x20del\x20efecto\x20de\x20medicamentos','Analgesia\x20para\x20facilitar\x20respiración','5.\x20Estabilidad\x20de\x20la\x20marcha\x20no\x20comprometida','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales.\x20Aplica\x20a\x20todos\x20los\x20contactos\x20con\x20el\x20paciente.','Mantenimiento\x20de\x20funciones\x20residuales','Monitorización\x20respiratoria\x20\x20\x20Vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O2\x20para\x20detectar\x20signos\x20de\x20deterioro.','Higiene\x20oral','Manejo\x20de\x20vías\x20respiratorias:\x20mantener\x20limpieza\x20y\x20permeabilidad.','Indicar\x20signos\x20de\x20alarma\x20del\x20lactante\x20(hipotonia,\x20dificultad\x20para\x20respirar,\x20vomito\x20persistente','Oxigenoterapia\x20:\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20del\x20paciente.','1\x20-\x20Infección\x20severa','Documentar\x20estado\x20de\x20la\x20piel','Identificación\x20de\x20riesgos','detectar\x20cambios\x20tempranos\x20que\x20indiquen\x20deterioro','Terapia\x20con\x20diuréticos:\x20administrar\x20y\x20evaluar\x20respuesta\x20al\x20tratamiento','Estado\x20nutricional\x20adecuado\x20de\x20alimentos\x20y\x20liquidos','2.\x20Raramente\x20demuestra\x20recordar\x20con\x20precisión\x20información\x20a\x20corto,\x20mediano\x20y\x20largo\x20plazo','Manejo\x20de\x20ascitis\x20(paracentesis\x20con\x20técnica\x20estéril)','1.\x20Movilidad\x20independiente\x20gravemente\x20comprometida','Prevenir\x20tensión\x20sobre\x20sutura','1.\x20Movilidad\x20gravemente\x20comprometida','3,\x20Medianamente\x20adecuada','Estimulación\x20cognitiva,\x20orientación,\x20apoyo\x20familiar','3.\x20Movilidad\x20independiente\x20moderadamente\x20comprometida','2.\x20Afectación\x20Sustancial','5.\x20Consistentemente\x20positivo','Curación\x20progresiva','Fomentar\x20la\x20participacion\x20de\x20decisiones\x20y\x20rutinas','Valoración\x20de\x20la\x20movilidad','5.\x20Mantenimiento\x20de\x20funciones\x20residuales\x20no\x20comprometido','2.\x20Capacidad\x20raramente\x20demostrada\x20de\x20realización\x20independiente\x20de\x20actividades\x20de\x20la\x20vida\x20diaria','Ganancia\x20o\x20estabilización\x20de\x20peso\x20adecuada','Prevención\x20de\x20úlceras\x20por\x20presión:\x20cambiar\x20de\x20posición,\x20mantener\x20piel\x20limpia\x20y\x20seca','Ventilación\x20eficaz','2.\x20Peristalsis\x20\x20Sustancialmente\x20comprometida','Ayudar\x20a\x20asegurar\x20que\x20el\x20lactante\x20se\x20sujeta\x20bien\x20a\x20la\x20mama','5\x20-\x20Sin\x20infección','5.\x20No\x20comprometido','4.\x20Sustancial','Orientación\x20de\x20la\x20realidad','Aspiración\x20de\x20secreciones:\x20retirar\x20secreciones\x20mediante\x20técnica\x20estéril.','Medidas\x20de\x20seguridad\x20(etiquetado,\x20supervisión)','5.\x20Movilidad\x20independiente\x20no\x20comprometida','Manejo\x20de\x20la\x20medicación\x20cardiovascular:\x20supervisar\x20la\x20administración\x20correcta\x20de\x20fármacos\x20como\x20antihipertensivos,\x20diuréticos,\x20anticoagulantes\x20o\x20vasodilatadores,\x20controlando\x20efectos\x20y\x20adherencia','Monitorización\x20de\x20signos\x20vitales:\x20controlar\x20periódicamente\x20temperatura,\x20FC,\x20FR,\x20PA\x20y\x20SpO₂\x20para\x20detectar\x20cambios\x20tempranos.','3\x20=\x20Moderadamente\x20comprometido','3.\x20A\x20veces\x20demuestra\x20gestión\x20eficaz\x20del\x20duelo','Educación','Ayudar\x20a\x20identificar\x20estrategias\x20personales\x20de\x20afrontamiento','Evita\x20la\x20exposición\x20a\x20amenazas\x20para\x20la\x20salud','Control\x20de\x20infecciones\x20\x20\x20Aplicar\x20y\x20supervisar\x20técnicas\x20de\x20asepsia','Cuidados\x20de\x20heridas:\x20realizar\x20curaciones\x20asépticas\x20si\x20hay\x20lesiones','Terapia\x20de\x20ejercicios:\x20ambulación','Asistencia\x20en\x20el\x20autocuidado','Parámetros\x20inflamatorios\x20estables','Monitorizar\x20los\x20cambios\x20en\x20el\x20estado\x20hídrico\x20utilizando\x20datos\x20obtenidos\x20regularmente','Educación\x20y\x20soporte\x20familiar','3\x20.\x20Levemente\x20comprometido','Aislamiento','Monitorización\x20hemodinámica:\x20observar\x20la\x20perfusión\x20tisular,\x20saturación\x20de\x20oxígeno,\x20llenado\x20capilar\x20y\x20presión\x20venosa\x20central\x20si\x20aplica','1.\x20Nunca\x20demostrado','5.\x20Función\x20física\x20y\x20cognitiva\x20no\x20comprometida','Enseñanza\x20de\x20la\x20movilización','Evaluar\x20riesgo','2537793KTzifW','Ejercicios\x20terapéuticos\x20progresivos','1\x20-\x20Desviacion\x20grave\x20del\x20rango\x20normal','Manejo\x20de\x20vías\x20respiratorias:\x20mantener\x20permeabilidad\x20y\x20limpieza\x20de\x20vías\x20respiratorias\x20(succión,\x20posición,\x20humidificación).','Disminución\x20de\x20edema','4.\x20Riesgo\x20de\x20caídas\x20leve','Fomentar\x20una\x20deambulación\x20independiente\x20dentro\x20de\x20los\x20límites\x20de\x20seguridad','Precauciones\x20estándar','Fototerapia\x20según\x20indicación\x20médica','Evitar\x20el\x20uso\x20de\x20esparadrapos\x20y\x20demás\x20sustancias\x20irritantes\x20para\x20la\x20piel','Balance\x20hídrico\x20normal','5\x20-\x20Sin\x20desviación\x20del\x20rango\x20normal','4\x20=\x20Leve','2,\x20Inadecuada','5.\x20Siempre\x20demuestra\x20mantenimiento\x20de\x20la\x20orientación\x20temporal\x20y\x20espacial','4.\x20Movilidad\x20levemente\x20comprometida','3,\x20Medianamente\x20adecuado','Educación\x20sanitaria.','Reorientación\x20continua','Disminuir\x20nivel\x20del\x20dolor\x20(escala\x20EVA)','5\x20.\x20Ninguno','4.\x20Desviación\x20leve\x20del\x20rango\x20de\x20movilidad\x20normal','Equilibrio\x20emocional','Orientación\x20continua\x20en\x20tiempo,\x20espacio\x20y\x20lugar','Evaluar\x20comunicación','Manejo\x20del\x20dolor\x20y\x20del\x20sueño','5\x20-\x20No\x20comprometido','Control\x20glucémico','3\x20.\x20Moderadamente\x20comprometido','4.\x20Capacidad\x20de\x20cambio\x20de\x20posición\x20en\x20cama\x20levelmente\x20comprometida','Referir\x20a\x20terapia\x20ocupacional','Control\x20de\x20los\x20sintomas','Aplicar\x20conductas\x20de\x20prevencion\x20de\x20caidas','Participacion\x20activa\x20en\x20el\x20ejercicio','Comunicación\x20calmada','Promover\x20higiene\x20del\x20sueño','5.\x20Sin\x20caídas\x20durante\x20estancia','Fomento\x20de\x20la\x20seguridad\x20del\x20anciano\x20frágil','Fisioterapia\x20respiratoria','4\x20-\x20Desequilibrio\x20mínimo','Control','Conducta\x20de\x20Prevención\x20de\x20Caídas','Parámetros\x20metabólicos\x20normales','4.\x20Riesgo\x20de\x20complicaciones\x20por\x20inmovilidad\x20sustancialmente\x20mitigado','1.\x20Función\x20física\x20y\x20cognitiva\x20gravemente\x20comprometida','1,\x20Gravemente\x20comprometido','Explicar\x20el\x20modo\x20correcto\x20de\x20manipular\x20la\x20leche\x20extraída','Informar\x20sobre\x20los\x20beneficios\x20psicológicos\x20y\x20fisiológicos\x20de\x20la\x20lactancia\x20materna','1.Severamente\x20comprometido','Autocontrol\x20de\x20la\x20ansiedad','2\x20-\x20Desequilibrio\x20moderado','4.\x20A\x20menudo\x20positivo','2.\x20Desviación\x20sustancial\x20del\x20rango\x20normal','Manejo\x20de\x20vías\x20respiratorias','Uso\x20de\x20técnicas\x20adyuvantes\x20para\x20el\x20dolor','2.\x20Ansiedad\x20sustancial','5.\x20Herida\x20extensamente\x20cicatrizada','3.\x20Desviación\x20moderada\x20del\x20rango\x20de\x20movilidad\x20normal','Establecer\x20una\x20relación\x20de\x20confianza\x20y\x20terapéutica\x20con\x20el\x20niño\x20y\x20sus\x20cuidadores','Control\x20del\x20dolor\x20farmacológico\x20o\x20no\x20farmacológico','3.\x20A\x20veces\x20positivo','4\x20=\x20Riesgo\x20leve','4\x20.\x20Levemente\x20comprometido','Posición\x20semifowler','2.\x20Riesgo\x20de\x20complicaciones\x20por\x20inmovilidad\x20levemente\x20mitigado','Mantener\x20entorno\x20tranquilo,\x20iluminado\x20y\x20con\x20rutinas\x20estable','Oxigenoterapia','Apoyo\x20y\x20educación\x20familiar','4\x20-\x20Casi\x20normal','5.\x20Independencia\x20siempre\x20demostrada','1\x20-\x20Severamente\x20comprometido','1.\x20Nada\x20satisfecho','4,\x20Adecuado','4.\x20Desviación\x20leve\x20del\x20rango\x20normal','1\x20-\x20Ansiedad\x20severa','Manejar\x20dolor,\x20evaluar\x20y\x20tratar\x20molestias\x20fisicas\x20o\x20que\x20generen\x20cambios\x20que\x20aumenten\x20la\x20confusion','4.\x20Conocimiento\x20sustancial','Reconoce\x20las\x20señales\x20tempranas\x20del\x20hambre','5173668kqeLCp','Reducción\x20de\x20bilirrubina,\x20adecuada\x20alimentación','4.\x20Peristalsis\x20Levemente\x20comprometida','Monitorización\x20de\x20signos\x20vitales:Controlar\x20periódicamente\x20temperatura,\x20FC,\x20FR,\x20PA\x20y\x20SpO₂\x20para\x20detectar\x20cambios\x20tempranos','4.\x20Leve','3,\x20Leve','4.\x20Independencia\x20frecuentemente\x20demostrada','4,\x20Sin\x20edema','Broncodilatadores\x20según\x20orden','Monitorización\x20de\x20signos\x20vitales:\x20controlar\x20presión\x20arterial,\x20frecuencia\x20cardíaca,\x20temperatura\x20y\x20frecuencia\x20respiratoria,\x20identificando\x20signos\x20tempranos\x20de\x20desequilibrio\x20metabólico\x20o\x20hemodinámico','Instruir\x20en\x20las\x20técnicas\x20de\x20esterilización\x20del\x20equipo\x20de\x20alimentación','Monitorización\x20neurológica:\x20valorar\x20nivel\x20de\x20conciencia,\x20reflejos,\x20respuesta\x20pupilar\x20y\x20motora','Expulsar\x20los\x20gases\x20del\x20lactante\x20frecuentemente\x20durante\x20y\x20después\x20de\x20la\x20toma','Comunicacion\x20terapeutica:\x20usar\x20frases\x20cortas,\x20evitar\x20confrontaciones','Fototerapia','1.\x20Integridad\x20Gravemente\x20comprometida','Manejo\x20de\x20la\x20eliminación\x20urinaria:\x20controlar\x20diuresis,\x20peso\x20diario\x20y\x20presencia\x20de\x20edema','Educación\x20familiar','Estrategias\x20de\x20profilaxis\x20trombótica\x20(ejercicios,\x20medias\x20antrombotiacas)','2.\x20Dolor\x20sustancial','Coordinar\x20con\x20nutrición\x20y\x20pediatría\x20seguimiento\x20interdisciplinario','5.\x20Sin\x20dolor','Cuidado\x20de\x20herida\x20con\x20técnica\x20aséptica','signos\x20inflamatorios\x20controlados','2\x20-\x20Ocasionales\x20caídas','Valoración\x20de\x20disfagia\x20(logopeda)','Valoración\x20continua\x20del\x20dolor','4.\x20Integridad\x20de\x20la\x20piel\x20levemente\x20comprometida','2\x20=\x20Sustancialmente\x20comprometido','Alentar\x20la\x20verbalización\x20de\x20sentimientos,\x20percepciones\x20y\x20miedos','3.\x20Estabilidad\x20de\x20la\x20marcha\x20moderadamente\x20comprometida','Registro\x20escrito/agenda','4.\x20Frecuentemente\x20demostrado','Protección\x20contra\x20infecciones:\x20establecer\x20medidas\x20preventivas\x20frente\x20a\x20\x20exposición\x20a\x20agentes\x20patógenos','1.\x2010\x20o\x20más\x20caídas\x20durante\x20estancia','7.Protección\x20contra\x20infecciones:\x20establecer\x20medidas\x20preventivas\x20frente\x20a\x20\x20exposición\x20a\x20agentes\x20patógenos.','Limitar\x20uso\x20de\x20laxantes\x20según\x20indicación','Valoración\x20del\x20dolor\x20y\x20confort\x20cada\x20turno','Educacion\x20al\x20paciente\x20y\x20su\x20familia\x20sobre\x20el\x20proceso\x20de\x20la\x20enfermedad','Reducción\x20de\x20ansiedad','2.\x20Sustancialmente\x20comprometido','Correcta\x20adherencia\x20al\x20regimen\x20de\x20medicacion','3\x20-\x20Moderadamente\x20comprometido','Manejo\x20precautorio\x20(oxígeno\x20portátil)','2.\x20Algo\x20satisfecho','Cicatrización\x20progresiva','Manejo\x20de\x20la\x20medicación:\x20supervisar\x20administración\x20de\x20anticoagulantes,\x20antihipertensivos\x20o\x20antiplaquetarios\x20prescritos','2,\x20Moderado','Equilibrio.','Manejo\x20ambiental','Comunicacion','Equilibrio\x20hídrico\x20y\x20electrólitos\x20dentro\x20de\x20parámetros','2.\x20Raramente\x20demuestra\x20gestión\x20eficaz\x20del\x20duelo','Colaborar\x20con\x20equipo\x20médico\x20para\x20manejo\x20de\x20factores\x20de\x20riesgo','5.\x20Sin\x20desviación\x20del\x20nivel\x20normal\x20de\x20electrolitos','Controlar\x20factores\x20ambientales','Termorregulacion\x20del\x20neonato','1\x20-\x20No\x20controla\x20las\x20náuseas','2\x20.\x20Sustancialmente\x20comprometido','Control\x20de\x20nauseas\x20y\x20vomitos','Manipulacion\x20esteril/\x20limpia\x20de\x20los\x20dispositivos','Prevención\x20de\x20complicaciones:\x20enseñar\x20medidas\x20preventivas\x20ante\x20hipoglucemia,\x20infecciones,\x20desequilibrio\x20hídrico\x20y\x20alteraciones\x20térmicas','10vhUKwu','4.\x20Valores\x20con\x20desviación\x20leve\x20del\x20rango\x20normal','Promover\x20el\x20lavado\x20de\x20manos','Oxigenoterapia:\x20Administrar\x20oxígeno\x20para\x20mejorar\x20la\x20oxigenación.','Monitorizar\x20si\x20se\x20producen\x20alteraciones\x20en\x20la\x20integridad\x20de\x20la\x20piel\x20y\x20tratarlas\x20adecuadamente','Buen\x20autoestima','Cuidados\x20de\x20las\x20extremidades:\x20mantener\x20la\x20elevación,\x20cambios\x20de\x20posición\x20frecuentes\x20y\x20protección\x20contra\x20el\x20frío\x20o\x20la\x20presión\x20excesiva','1\x20-\x20Caídas\x20frecuentes','1.\x20Desviación\x20grave\x20del\x20rango\x20normal','Buena\x20integridad\x20tisular:\x20piel\x20y\x20membrana\x20(temperatura,\x20sensibilidad,\x20hidratacion)','5.\x20Habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha\x20no\x20comprometida','5.\x20Sin\x20riesgo\x20de\x20caídas','Conocimiento\x20de\x20una\x20dieta\x20adecuada','Control\x20de\x20laboratorio','2.\x20Escaso','Hidratacion\x20de\x20la\x20piel','Nutrición\x20adecuada','Evaluar\x20dolor\x20con\x20escala\x20estandarizada\x20(EVA),\x20administrar\x20analgésicos\x20según\x20prescripción,\x20favorecer\x20posición\x20de\x20confort','2.\x20Habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha\x20sustancialmentemente\x20comprometida','1.\x20Capacidad\x20de\x20cambio\x20de\x20posición\x20en\x20cama\x20gravemente\x20comprometida','Anticoagulación\x20según\x20protocolo','1.\x20Independencia\x20nunca\x20demostrada','Motivar\x20la\x20exposicion\x20del\x20neonato\x20a\x20la\x20luz\x20solar','Ausencia\x20de\x20lesiones\x20por\x20presión','Controlar\x20los\x20resultados\x20de\x20laboratorio\x20relevantes\x20en\x20la\x20retención\x20de\x20líquidos','Monitorización\x20de\x20la\x20glucemia:\x20controlar\x20niveles\x20de\x20glucosa\x20capilar\x20y\x20sérica\x20según\x20protocolo','2.\x20Movilidad\x20independiente\x20sustancialmente\x20comprometida','2.\x20Raramente\x20demostrado','Promover\x20ingesta\x20de\x20liquidos','3.\x20Signos\x20moderados\x20de\x20infección','4.\x20Función\x20física\x20y\x20cognitiva\x20levemente\x20comprometida','1\x20-\x20Severamente\x20baja','3\x20.\x20Moderado','Restablecimiento\x20del\x20tránsito\x20intestinal','3.\x20Integridad\x20de\x20la\x20piel\x20moderadamente\x20comprometida','Cuidados\x20de\x20la\x20piel,\x20Mantener\x20la\x20integridad\x20cutánea,\x20especialmente\x20en\x20zonas\x20de\x20presión\x20o\x20incisión','Regulación\x20de\x20la\x20temperatura:\x20Prevenir\x20hipo/hipertermia\x20según\x20condición.','3\x20-\x20Levemente\x20disminuida','Fomentar\x20el\x20uso\x20de\x20técnicas\x20no\x20farmacológicas\x20antes,\x20durante\x20y\x20después\x20de\x20los\x20tratamientos\x20(relajacion,\x20musicoterapia,\x20imaginacion\x20simple\x20dirigida)','Proporcionar\x20o\x20remitir\x20a\x20psicoterapia','Asesoramiento\x20nutricional','Manejo\x20de\x20liquidos/electrolitos','2\x20-\x20Moderadamente\x20baja','Monitorización\x20respiratoria:\x20observar\x20ritmo\x20y\x20esfuerzo.','3.\x20Afectación\x20Moderada','Proporcionar\x20oportunidades\x20de\x20práctica\x20de\x20actividad\x20física','Asegurar\x20espacios\x20sin\x20obstaculos','Aumentar\x20nivel\x20de\x20energia','Evaluar\x20estado\x20neurologico\x20y\x20registrar\x20cambios\x20del\x20compaortamiento\x20o\x20cognicion','Controlar\x20la\x20toma\x20de\x20líquido','2.\x20Riesgo\x20Sustancial','Monitorizar\x20signos\x20de\x20sangrado','Cuidado\x20de\x20heridas\x20según\x20protocolo\x20de\x20quemaduras','1.\x20Nunca\x20demuestra\x20mantenimiento\x20de\x20la\x20orientación\x20temporal\x20y\x20espacial','Oxigenoterapia:\x20administrar\x20O₂\x20según\x20saturación.','Promoción\x20de\x20la\x20nutrición','Mantenimiento\x20del\x20equilibrio\x20hidroelectrolítico','Hidratación','4.\x20Adecuado','Administracion\x20de\x20analgesicos\x20segun\x20necesidad','Apoyo\x20emocional\x20y\x20promoción\x20de\x20la\x20expresión\x20emocional','Estabilidad\x20hemodinámica','3.\x20Moderadamente\x20comprometido','Control\x20de\x20infecciones:\x20Supervisar\x20y\x20aplicar\x20políticas\x20de\x20control\x20hospitalario.','Reposición\x20con\x20fórmulas','Nivel\x20de\x20ansiedad\x20reducido','Mantenimiento\x20de\x20dispositivos\x20invasivos:\x20prevenir\x20infecciones\x20y\x20obstrucciones\x20en\x20catéteres\x20o\x20drenajes.','1.\x20Desviación\x20grave\x20del\x20rango\x20de\x20movilidad\x20normal','4.\x20Estabilidad\x20de\x20la\x20marcha\x20levemente\x20comprometida','Sin\x20episodios\x20de\x20aspiración','Bilirrubina\x20dentro\x20de\x20valores\x20normales','5.\x20Integridad\x20de\x20la\x20piel\x20conservada','Severidad\x20de\x20la\x20infección','264RfXelC','4.\x20Levemente\x20comprometido','Intervenciones\x20de\x20apoyo\x20para\x20AVD','Mantenimiento\x20de\x20dispositivos\x20invasivos:\x20Cuidar\x20y\x20vigilar\x20accesos\x20IV,\x20catéteres\x20o\x20sondas\x20para\x20evitar\x20contaminación.','Termorregulación','Monitorizar\x20ingesta/evacuación','Ayudar\x20asegurar\x20que\x20el\x20lactante\x20se\x20sujeta\x20bien\x20a\x20la\x20mama\x20(monitorizar\x20una\x20alineación\x20correcta\x20del\x20lactante,\x20sujeción,\x20compresión\x20areolar\x20y\x20deglución\x20audible)','1\x20.\x20Severamente\x20comprometido','1.\x20Nunca\x20demuestra\x20gestión\x20eficaz\x20del\x20duelo','2.\x20Integridad\x20Sustancialmente\x20comprometida','Integridad\x20cutánea\x20preservada','Prevencion\x20en\x20la\x20depresion\x20postparto','5.\x20Sin\x20desviación\x20del\x20rango\x20de\x20movilidad\x20normal','Educacion\x20para\x20prevencion\x20de\x20infecciones','Apoyo\x20psicológico','Conocimiento:\x20manejo\x20de\x20la\x20enfermedad\x20aguda','5.\x20Conocimiento\x20extenso','1,\x20Severo','Disminución\x20de\x20la\x20ansiedad:\x20enseñar\x20control\x20respiratorio\x20y\x20relajación.','Orientación\x20temporal\x20y\x20espacial\x20mantenida','Medición\x20de\x20temperatura,\x20antipiréticos,\x20baños\x20tibios,\x20hidratación.','Manejo\x20del\x20estado\x20de\x20animo','Oxigenoterapia\x20\x20\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20de\x20paciente\x20para\x20mantener\x20saturación\x20O2','Ambiente\x20estructurado\x20y\x20de\x20bajo\x20estímulo','Manejo\x20del\x20dolor','Bienestar\x20físico.','1.\x20Valores\x20con\x20desviación\x20grave\x20del\x20rango\x20normal','Monitorización\x20de\x20signos\x20vitales:\x20Recogida\x20y\x20análisis\x20de\x20datos\x20fisiológicos\x20para\x20detectar\x20cambios\x20o\x20complicaciones','Manejo\x20de\x20la\x20energía:\x20planificar\x20actividades\x20con\x20períodos\x20de\x20descanso\x20adecuados','2.\x20Signos\x20sustanciales\x20de\x20infección','Vinculo\x20padres\x20hijo\x20fuerte','Educación\x20sobre\x20cuidado\x20del\x20cordón\x20umbilical','Educación\x20sobre\x20signos\x20de\x20sangrado','4.\x20Muy\x20satisfecho','Estabilidad\x20clínica\x20del\x20neonato','Modificación\x20del\x20estilo\x20de\x20vida:\x20promover\x20actividad\x20física\x20regular,\x20dieta\x20equilibrada\x20y\x20control\x20del\x20peso','Cuidado\x20de\x20piel:\x20aplicación\x20de\x20apósitos\x20avanzados\x20(hidrocoloides,\x20antimicrobianos)','4\x20.\x20Leve','datosProPai','5\x20-\x20Balance\x20adecuado','1\x20-\x20Severamente\x20disminuida','Estado\x20cardiovascular:\x20perfusión\x20tisular:\x20eficacia\x20de\x20la\x20circulación\x20sistémica\x20para\x20aportar\x20oxígeno\x20a\x20tejidos.','Disminución\x20de\x20la\x20ansiedad','Establecimiento\x20de\x20la\x20lactancia\x20materna','Vigilancia\x20temprana','3.\x20Función\x20física\x20y\x20cognitiva\x20moderadamente\x20comprometida','Enseñanza/procedimiento/tratamiento\x20\x20\x20Educar\x20a\x20paciente\x20y\x20familia\x20sobre\x20el\x20uso\x20del\x20oxígeno,\x20ejercicios\x20respiratorios\x20y\x20medidas\x20preventivas.','Seleccionar\x20la\x20estrategia\x20de\x20solución\x20de\x20problemas\x20adecuada\x20al\x20nivel\x20de\x20desarrollo\x20y\x20la\x20función\x20cognitiva\x20del\x20paciente','Cicatrización\x20de\x20heridas:Estado\x20de\x20infección','Ambiente\x20seguro,\x20reorientación,\x20control\x20de\x20causas\x20fisiológicas','3.\x20Desviación\x20moderada\x20del\x20nivel\x20normal\x20de\x20electrolitos','Enseñanza\x20sobre\x20actividad\x20y\x20ejercicio:\x20educar\x20sobre\x20ritmo\x20y\x20autocuidado.','Saturación\x20O2\x20>\x2092\x5c%','Apoyo\x20emocional','Manejo\x20del\x20confort\x20(Entorno,\x20temperatura,\x20descanso)','Ejercicios\x20de\x20equilibrio\x20a\x20tolerancia','Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20mediante\x20control\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos.','Movilización\x20precoz','Pruebas\x20de\x20coagulación','Fomento\x20del\x20descanso:\x20establecer\x20periodos\x20de\x20descanso\x20adecuados.','Aumentar\x20el\x20afrontamiento','2.\x20Sustancial','1.\x20Nunca\x20positivo','4.\x201\x20a\x203\x20caídas\x20durante\x20estancia','Reanimación\x20cardiopulmonar:\x20aplicar\x20protocolos\x20de\x20soporte\x20vital\x20avanzado.','Menor\x20riesgo\x20de\x20complicaciones\x20por\x20inmovilidad','4\x20=\x20Levemente\x20comprometido','Equilibrio\x20electrolítico\x20estable','Monitorización\x20respiratoria:\x20vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O₂','Enseñar\x20y\x20practicar\x20estrategias\x20mnemotécnicas','Memoria\x20funcional\x20conservada','Valoración\x20del\x20dolor:\x20control\x20del\x20dolor,\x20analgesia\x20multimodal,\x20evaluación\x20continua\x20del\x20dolor','5.\x20Movilidad\x20no\x20comprometida','Vigilancia\x20de\x20la\x20herida','Educación\x20sobre\x20proceso\x20de\x20duelo','Mantenimiento\x20de\x20piel\x20intacta\x20en\x20zonas\x20de\x20riesgo','4.\x20Frecuentemente\x20demuestra\x20recordar\x20con\x20precisión\x20información\x20a\x20corto,\x20mediano\x20y\x20largo\x20plazo','Manejo\x20de\x20líquidos:\x20restaurar\x20volumen\x20circulante\x20eficaz.','evitar\x20polifarmacia','No\x20ocurrencia\x20de\x20caídas','Adaptación\x20del\x20entorno\x20físico','Rutinas\x20estables','5.\x20Sin\x20afectación\x20funcional\x20derivada\x20del\x20dolor','Mejora\x20de\x20estado\x20nutricional','2\x20=\x20Ansiedad\x20moderada–alta','Comentar\x20los\x20métodos\x20anticonceptivos','Determinar\x20cómo\x20afronta\x20la\x20familia\x20las\x20transiciones','1.\x20Habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha\x20gravemente\x20comprometida','Aceptacion\x20del\x20estado\x20de\x20salud','Ejercicios\x20de\x20equilibrio','3\x20=\x20Riesgo\x20moderado','4\x20.\x20Adecuado','3.\x20Desviación\x20moderada\x20del\x20rango\x20normal','3.\x20A\x20veces\x20demostrado','1.\x20Integridad\x20de\x20la\x20piel\x20severamente\x20comprometida','1,\x20Capacidad\x20nunca\x20demostrada\x20de\x20realización\x20independiente\x20de\x20actividades\x20de\x20la\x20vida\x20diaria','4\x20-\x20Levemente\x20comprometido','Control\x20del\x20dolor\x20a\x20niveles\x20tolerables','5\x20=\x20Ninguno','Supervisión\x20al\x20alimentarse','1\x20.\x20Severo','Apoyo\x20para\x20deambulación','Incremento\x20de\x20movimiento\x20funcional','1.\x20Riesgo\x20de\x20complicaciones\x20por\x20inmovilidad\x20no\x20mitigado','Reorientación\x20y\x20ambiente\x20calmado','Oxigenoterapia\x20:\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20del\x20paciente','5\x20-\x20Normal','Mantenimiento\x20del\x20rango\x20de\x20movilidad','1.\x20Dolor\x20grave','Apoyo\x20a\x20la\x20rehabilitación\x20y\x20movilidad\x20temprana','3.\x20Moderadamente\x20satisfecho','Monitorizar\x20drenajes','Mostrar\x20a\x20los\x20progenitores\x20técnicas\x20para\x20calmar\x20al\x20lactante','5\x20-\x20Sin\x20ansiedad','3.\x20Riesgo\x20Moderado','Posición\x20semifowler,\x20aspiración,\x20control\x20de\x20vía\x20aérea,\x20educación\x20al\x20cuidador.','Educación\x20para\x20la\x20salud\x20cardiovascular:\x20enseñar\x20a\x20paciente\x20y\x20familia\x20sobre\x20factores\x20de\x20riesgo,\x20dieta\x20saludable,\x20control\x20de\x20estrés,\x20actividad\x20física\x20segura\x20y\x20signos\x20de\x20alarma','1.\x20Ningún\x20conocimiento','Ausencia\x20de\x20signos\x20de\x20aspiración','3.\x20Movilidad\x20moderadamente\x20comprometida','Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20medianteControl\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos','1.\x20Herida\x20nada\x20cicatrizada','Monitorización\x20de\x20signos\x20de\x20sobrecarga:\x20observar\x20disnea,\x20edema,\x20distensión\x20venosa\x20yugular\x20y\x20crepitantes\x20pulmonares','Manejo\x20de\x20la\x20nutrición:\x20Asegurar\x20aporte\x20nutricional\x20que\x20fortalezca\x20la\x20respuesta\x20inmune.','1.\x20Gravemente\x20comprometido','3\x20=\x20Ansiedad\x20moderada','Ausencia\x20de\x20infecciones','Manejo\x20ambiental:\x20confort','3.\x20Levemente\x20comprometido','Mantener\x20hidratación\x20y\x20oxigenación','Promover\x20lactancia\x20frecuente','Promover\x20dieta\x20rica\x20en\x20fibra','5.\x20Peristalsis\x20No\x20comprometida','Educación\x20sobre\x20manejo\x20del\x20dolor','Terapia\x20de\x20grupo','Correcta\x20tecnica\x20para\x20lactancia','4\x20-\x20Ansiedad\x20mínima','Educación\x20prenatal/postparto','Control\x20del\x20riesgo\x20cardiovascular:\x20planificar\x20medidas\x20preventivas\x20para\x20diabetes\x20tipo\x202,\x20dislipidemia\x20y\x20obesidad','Monitorización\x20cardiovascular:\x20controlar\x20signos\x20vitales,\x20frecuencia\x20cardíaca,\x20presión\x20arterial\x20y\x20ritmo\x20cardíaco','Control\x20de\x20ingesta/diuresis','Favorecer\x20actividades\x20para\x20modificar\x20los\x20factores\x20de\x20riesgo\x20identificados','5.\x20Siempre\x20demuestra\x20gestión\x20eficaz\x20del\x20duelo','5\x20=\x20No\x20comprometido\x20(óptimo)','1.\x20Grave','Rehabilitación\x20supervisada','Enseñanza\x20de\x20medidad\x20de\x20prevencion\x20a\x20la\x20familia\x20dependiendo\x20de\x20la\x20etapa\x20en\x20la\x20que\x20se\x20encuentre\x20el\x20niño(a)','Prevención\x20de\x20desequilibrio\x20electrolítico:\x20controlar\x20niveles\x20séricos\x20de\x20sodio,\x20potasio\x20y\x20otros\x20electrolitos','Monitorización\x20neurovascular,\x20control\x20TA\x20y\x20FC','Reposición\x20de\x20líquidos:\x20administrar\x20líquidos\x20oral\x20o\x20intravenosamente\x20según\x20indicación','Fomento\x20del\x20autocuidado:\x20promover\x20la\x20participación\x20activa\x20del\x20paciente\x20en\x20su\x20tratamiento,\x20higiene,\x20control\x20dietético\x20y\x20actividad\x20física','4.\x20Frecuentemente\x20demuestra\x20gestión\x20eficaz\x20del\x20duelo','1\x20-\x20Desequilibrio\x20severo','Control\x20de\x20infecciones:\x20implementar\x20y\x20supervisar\x20prácticas\x20de\x20asepsia\x20e\x20higiene\x20en\x20la\x20atención\x20directa','3\x20-\x20Infección\x20leve','5\x20=\x20Sin\x20ansiedad','3\x20-\x20Riesgo\x20moderado\x20de\x20caída,\x20sin\x20caídas\x20recientes','Cambio\x20de\x20vendajes\x20y\x20apósitos\x20regularmente','2.\x20Afectación\x20funcional\x20sustancial\x20derivada\x20del\x20dolor','Respuesta\x20satisfactoria\x20a\x20la\x20medicacion','Manejo\x20ambiental:\x20confort:\x20adecuar\x20temperatura,\x20iluminación\x20y\x20ruido.','4.\x20Escaso','Permeabilidad\x20de\x20las\x20vías\x20aéreas:\x20grado\x20de\x20permeabilidad\x20y\x20ausencia\x20de\x20obstrucciones','Educacion\x20autoconfort','3\x20=\x20Moderado','Coordinación\x20con\x20nutrición\x20clínica','4.\x20Desviación\x20leve\x20del\x20nivel\x20normal\x20de\x20electrolitos','1\x20=\x20Severamente\x20comprometido','Mantener\x20la\x20fuerza\x20muscular','4\x20-\x20Desviación\x20leve\x20del\x20rango\x20normal','Ventilación\x20efectiva','2.\x20Independencia\x20raramente\x20demostrada','1.\x20Riesgo\x20de\x20caídas\x20grave','Manejo\x20de\x20la\x20medicación:\x20supervisar\x20la\x20administración\x20correcta\x20de\x20insulina,\x20antidiabéticos,\x20diuréticos\x20o\x20soluciones\x20IV\x20según\x20el\x20caso,\x20controlando\x20su\x20eficacia\x20y\x20efectos\x20secundarios','Educacion\x20sobre\x20tecnicas\x20de\x20masajes\x20para\x20la\x20prevencion\x20de\x20la\x20mastitis','Administracion\x20de\x20antiemeticos','Tolerancia\x20a\x20la\x20vía\x20oral\x20segura','Bienestar\x20fisico','Control\x20de\x20causas\x20fisiológicas','Nivel\x20de\x20ansiedad.','5.\x20Riesgo\x20de\x20complicaciones\x20por\x20inmovilidad\x20completamente\x20mitigado','Educación\x20al\x20paciente','Ajusta\x20las\x20estrategias\x20de\x20control\x20de\x20riesgos','2\x20-\x20Moderadamente\x20disminuida','Prevención\x20de\x20dificultad\x20ante\x20la\x20lactancia','3\x20-\x20Desviación\x20moderada\x20del\x20rango\x20normal','Supervisión','Distracción','Ayudar\x20al\x20paciente\x20y\x20familia\x20a\x20identificar\x20las\x20áreas\x20de\x20esperanza\x20en\x20la\x20vida','3.\x20A\x20veces\x20demuestra\x20mantenimiento\x20de\x20la\x20orientación\x20temporal\x20y\x20espacial','Ofrecer\x20escucha\x20activa\x20y\x20apoyo\x20emocional\x20frente\x20a\x20la\x20ansiedad,\x20miedo\x20o\x20frustracion','Disminución\x20de\x20niveles\x20de\x20bilirrubina','Valoración\x20nutricional','2\x20.\x20Moderadamente\x20comprometido','Escucha\x20activa','2.\x20Moderadamente\x20comprometido','Almacena\x20de\x20forma\x20segura\x20la\x20leche\x20materna','Prevención\x20de\x20maceración','Animar\x20al\x20paciente\x20a\x20identificar\x20sus\x20puntos\x20fuertes\x20y\x20sus\x20capacidades','Indicar\x20signos\x20de\x20alarma\x20para\x20la\x20materna\x20(fiebre,\x20dolor\x20en\x20senos,\x20dolor\x20de\x20cabeza\x20persistente,\x20signos\x20de\x20infeccion)','Apoyo\x20emocional:\x20brindar\x20escucha\x20activa,\x20seguridad\x20y\x20acompañamiento\x20frente\x20al\x20estrés\x20de\x20la\x20enfermedad\x20crónica\x20o\x20los\x20síntomas\x20persistentes','Manejo\x20ambiental:\x20seguridad','Control\x20del\x20dolor','Educación\x20sobre\x20respiración\x20diafragmática.','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales','4,\x20Adecuada','Ausencia\x20de\x20signos\x20infecciosos','Emolientes/medicación\x20según\x20indicación','2\x20-\x20Sustancialmente\x20comprometido','Educación\x20sobre\x20medidas\x20preventivas','3.\x20Ansiedad\x20moderada','Reposición\x20de\x20líquidos:\x20administrar\x20líquidos\x20según\x20indicación\x20y\x20evaluar\x20respuesta','Aumento\x20de\x20peso\x20adecuado\x20para\x20la\x20edad','2,\x20Comprometido','1,\x20Gravemente\x20inadecuada','Adaptación\x20familiar','Monitoreo\x20de\x20coloración\x20en\x20la\x20piel\x20y\x20mucosas','Técnicas\x20de\x20transferencia\x20asistida','Ganancia\x20de\x20peso\x20adecuada','Información\x20clara','Monitorización\x20de\x20ruidos\x20intestinales','Manejo\x20de\x20vías\x20respiratorias:\x20asegurar\x20la\x20permeabilidad\x20de\x20las\x20vías\x20respiratorias\x20por\x20posición,\x20succión\x20o\x20humidificación','Monitorización\x20respiratoria:\x20evaluar\x20ritmo,\x20profundidad\x20y\x20ruidos\x20respiratorios.','162435EOGjRp','Función\x20física\x20y\x20cognitiva\x20mantenida','Adaptación\x20del\x20entorno\x20y\x20seguridad\x20ambiental','2.\x20Raramente\x20demuestra\x20mantenimiento\x20de\x20la\x20orientación\x20temporal\x20y\x20espacial','2,\x20Inadecuado','Temperatura\x20corporal\x20normal','Control\x20de\x20liquidos','Fomento\x20de\x20la\x20seguridad','lavado\x20de\x20manos\x20y\x20manejo\x20estéril\x20de\x20las\x20lesiones.','Usar\x20comunicación\x20no\x20verbal\x20y\x20ayudas\x20(tablas,\x20dispositivos)','Cuidado\x20local\x20de\x20heridas\x20y\x20mucosas\x20segun\x20protocolo','Ausencia\x20de\x20episodios\x20hemorrágicos','Expansión\x20pulmonar\x20adecuada','1,\x20Gravemente\x20inadecuado','4.\x20Ansiedad\x20leve','Educar\x20a\x20los\x20padres\x20sobre\x20la\x20importancia\x20de\x20una\x20dieta\x20equilibrada','Fisioterapia','Identificar\x20factores\x20de\x20riesgo','Disminuir\x20la\x20severidad\x20del\x20linfedema','9199lyiXrh','Prevención\x20de\x20la\x20deshidratación:\x20fomentar\x20la\x20ingesta\x20adecuada\x20y\x20reconocer\x20signos\x20de\x20hipovolemia','Cambios\x20posturales\x20para\x20prevención\x20de\x20lesiones','2\x20.\x20Sustancial','2.\x20Perfusión\x20tisular\x20sustancialmente\x20comprometida\x20en\x20zonas\x20de\x20riesgo','Ventilación\x20adecuada,\x20gases\x20arteriales\x20normales\x20.','Ayudar\x20a\x20mantener\x20un\x20ciclo\x20normal\x20del\x20sueño\x20y\x20vigilia','2\x20-\x20Desviación\x20sustancial\x20del\x20rango\x20normal','Control\x20de\x20infecciones','3.\x20Capacidad\x20a\x20veces\x20demostrada\x20de\x20realización\x20independiente\x20de\x20actividades\x20de\x20la\x20vida\x20diaria','4.\x20Integridad\x20Levemente\x20comprometida','2.\x20Estabilidad\x20de\x20la\x20marcha\x20sustancialmente\x20comprometida','2.\x20Raramente\x20positivo','Balance\x20hídrico/líquidos\x20IV\x20según\x20orden','11283264ZxkFJD','Control\x20Cognitivo','Aspiración\x20estéril','Afrontamiento\x20de\x20la\x20enfermedad.','Control\x20del\x20riesgo:\x20accidente\x20cerebrovascular','Control\x20de\x20ansiedad','2.\x20Mantenimiento\x20de\x20funciones\x20residuales\x20sustancialmente\x20comprometido','Promover\x20el\x20contacto\x20piel\x20a\x20piel','Educación\x20continua\x20al\x20paciente\x20y/o\x20familia','Terapia\x20del\x20habla','3,\x20Parcialmente\x20mantenido','Administrar\x20laxantes\x20segun\x20necesidad','Control\x20de\x20líquidos:\x20registrar\x20ingresos\x20y\x20egresos,\x20vigilar\x20edema\x20y\x20balance\x20hídrico','2\x20-\x20Control\x20mínimo\x20de\x20las\x20náuseas','2.\x20Movilidad\x20sustancialmente\x20comprometida','Ofrecer\x20suplementos\x20nutricionales\x20según\x20corresponda','5.\x20Sin\x20desviación\x20del\x20rango\x20normal','1.\x20Afectación\x20Grave','Prevencion\x20lesiones\x20por\x20presion','Ejercicio\x20supervisado,\x20nutrición\x20adecuada,\x20vigilancia\x20de\x20fármacos','2.\x20Conocimiento\x20escaso','Confort\x20físico\x20mejorado','Fomento\x20del\x20descanso:\x20promover\x20descanso\x20para\x20reducir\x20consumo\x20energético.','5\x20.\x20No\x20comprometido\x20(óptimo)','Manejo\x20de\x20estreñimiento\x20(fibra,\x20líquidos,\x20laxantes\x20según\x20orden)','5.\x20Sin\x20\x20afectación','2.\x20Riesgo\x20de\x20caídas\x20sustancial','Aspiración\x20de\x20secreciones','Fomentar\x20la\x20expresión\x20de\x20sentimientos\x20de\x20una\x20forma\x20cómoda\x20para\x20el\x20niño,\x20escribiendo,\x20dibujando\x20o\x20jugando','3\x20-\x20Ansiedad\x20leve','Piel\x20intacta,\x20sin\x20lesiones','Correcta\x20cicatrizacion\x20de\x20las\x20heridas','3.\x20Conocimiento\x20moderado','Reposición\x20IV\x20según\x20indicación','Monitorización\x20hemodinámica,\x20administración\x20de\x20líquidos,\x20antibióticos\x20según\x20indicación,\x20oxigenoterapia.','3.\x20Herida\x20moderadamente\x20cicatrizada','2\x20-\x20Infección\x20moderada','Revisar\x20medicamentos\x20(sedantes/anticolinérgicos)\x20y\x20coordinar\x20con\x20médico','Peso\x20diario','5.\x20Completamente\x20satisfecho','Control\x20del\x20drenaje','3.\x20Capacidad\x20de\x20cambio\x20de\x20posición\x20en\x20cama\x20moderadamente\x20comprometida','Apoyo\x20al\x20autocuidado:\x20Fomentar\x20la\x20independencia\x20del\x20paciente\x20en\x20el\x20cuidado\x20posoperatorio','Apoyo\x20psicosocial','Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20mediante\x20control\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluido','Enseñar\x20técnicas\x20de\x20estimulación\x20temprana\x20en\x20el\x20hogar','Manejo\x20de\x20dispositivos','Estado\x20circulatorio','Regeneración\x20epitelial','Prevención\x20de\x20trombosis\x20venosa\x20profunda:\x20Promover\x20ejercicios\x20de\x20piernas\x20en\x20cama,\x20fomentar\x20la\x20deambulación\x20temprana','4.\x20Frecuentemente\x20demuestra\x20mantenimiento\x20de\x20la\x20orientación\x20temporal\x20y\x20espacial','Prevención\x20de\x20accidentes\x20cerebrovasculares:\x20educar\x20sobre\x20factores\x20de\x20riesgo,\x20adherencia\x20al\x20tratamiento\x20antihipertensivo\x20y\x20control\x20de\x20peso','5.Oxigenoterapia\x20:\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20del\x20paciente.','3.\x20Mantenimiento\x20de\x20funciones\x20residuales\x20moderadamente\x20comprometido','Estado\x20respiratorio:\x20ventilación:\x20efectividad\x20en\x20el\x20intercambio\x20y\x20movimiento\x20de\x20aire.','Control\x20de\x20náuseas','Nutrición\x20adecuada\x20para\x20cicatrización','Manejo\x20según\x20pediatra:\x20soporte\x20de\x20lactancia','1.\x20Perfusión\x20tisular\x20severamente\x20comprometida\x20en\x20zonas\x20de\x20riesgo','Control\x20de\x20la\x20ansiedad:\x20enseñar\x20técnicas\x20de\x20relajación.','Uso\x20correcto\x20de\x20ayudas','Prevención\x20de\x20hiperglucemia:\x20fomentar\x20adherencia\x20al\x20tratamiento,\x20dieta\x20equilibrada\x20y\x20control\x20del\x20estrés','Eliminación\x20adecuada','Valoración\x20de\x20signos\x20de\x20infección','Administración\x20de\x20analgesia\x20prescrita\x20y\x20uso\x20de\x20técnicas\x20adyuvantes','Vía\x20aérea\x20permeable','3.\x20Habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha\x20moderadamente\x20comprometida','Cuidados\x20en\x20la\x20fiebre:\x20Intervención\x20ante\x20variaciones\x20térmicas.','Introducir\x20actividades\x20de\x20resolución\x20de\x20problemas','5.\x20Ninguno','Actividades\x20de\x20la\x20vida\x20diaria\x20realizadas\x20con\x20apoyo\x20mínimo','Completar\x20las\x20evaluaciones\x20materna\x20y\x20del\x20recién\x20nacido\x20mientras\x20se\x20permite\x20al\x20progenitor\x20sostener\x20al\x20recién\x20nacido','3.\x20Peristalsis\x20Moderadamente\x20comprometida','3.\x20Dolor\x20moderado','5.\x20Integridad\x20No\x20comprometida','4.\x20Perfusión\x20tisular\x20levemente\x20comprometida\x20en\x20zonas\x20de\x20riesgo','550656BkmPYO','Mantener\x20el\x20estado\x20fisiologico\x20del\x20neonato','Evaluación\x20de\x20riesgos\x20de\x20seguridad','3848124lsaDIx','1.\x20Estabilidad\x20de\x20la\x20marcha\x20gravemente\x20comprometida','2.\x20Herida\x20escasamente\x20cicatrizada','Optimizar\x20nutrición\x20e\x20hidratación','5\x20=\x20Sin\x20riesgo','Manejo\x20hemodinámico:\x20mantener\x20presión\x20arterial\x20y\x20gasto\x20cardíaco\x20mediante\x20líquidos\x20o\x20fármacos\x20vasoactivos.','Realizar\x20cultivos','4.\x20Herida\x20sustancialmente\x20cicatrizada','Orientacion\x20y\x20estimulacion\x20cognitiva,\x20reorientar\x20frecuentemente\x20a\x20la\x20persona','1\x20=\x20Severo','5.\x20Perfusión\x20tisular\x20no\x20comprometida\x20en\x20zonas\x20de\x20riesgo','Educar\x20a\x20la\x20familia\x20sobre\x20la\x20importancia\x20de\x20mantener\x20el\x20calor\x20en\x20el\x20neonato','Educación\x20para\x20la\x20salud:\x20Instruir\x20al\x20paciente\x20sobre\x20dieta,\x20adherencia\x20al\x20tratamiento,\x20autocontrol\x20de\x20glucemia,\x20hidratación\x20y\x20signos\x20de\x20alarma','1.\x20Desviación\x20grave\x20del\x20nivel\x20normal\x20de\x20electrolitos','Nivel\x20de\x20Infeccion','1.\x20Peristalsis\x20Gravemente\x20comprometida','Cuidados\x20críticos:\x20monitorizar\x20y\x20responder\x20ante\x20cambios\x20hemodinámicos\x20o\x20respiratorios\x20graves.','3.\x20Riesgo\x20de\x20complicaciones\x20por\x20inmovilidad\x20moderadamente\x20mitigado','Ausencia\x20de\x20complicaciones\x20trombóticas\x20o\x20físicas','2.\x20Desviación\x20sustancial\x20del\x20rango\x20de\x20movilidad\x20normal','Manejo\x20de\x20vías\x20respiratorias\x20\x20\x20Mantener\x20la\x20permeabilidad\x20de\x20las\x20vías\x20respiratorias\x20mediante\x20posición,\x20succión\x20o\x20humidificación.','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales.\x20Aplica\x20a\x20todos\x20los\x20contactos\x20con\x20el\x20paciente','Reforzar\x20la\x20sensibilidad\x20de\x20los\x20padres\x20hacia\x20las\x20necesidades\x20del\x20niño','Monitorizar\x20el\x20peso\x20y\x20la\x20talla\x20del\x20lactante','Lavado\x20de\x20manos','Asegurar\x20dieta\x20hipercalórica\x20e\x20hiperproteica\x20según\x20indicación\x20médica','Prevención\x20de\x20caídas','Manejo\x20de\x20líquidos:\x20Favorecer\x20hidratación.','Prevención\x20de\x20caídas.','Disminucion\x20ansiedad','Mantener\x20un\x20equilibrio\x20hidrico','Protección\x20contra\x20infecciones\x20\x20\x20Implementar\x20medidas\x20preventivas\x20frente\x20a\x20agentes\x20patógenos\x20y\x20minimizar\x20riesgos\x20de\x20broncoaspiración\x20o\x20colonización.','Marcha\x20Segura','Entrenamiento\x20para\x20la\x20deglución:\x20Enseñar\x20técnicas\x20seguras\x20de\x20deglución.','1\x20.\x20Severamente\x20alterado','Vigilancia\x20de\x20signos\x20neurológicos','Determinar\x20el\x20estado\x20hídrico\x20basal','1.\x20Ninguno','Medidas\x20no\x20farmacologicas\x20para\x20el\x20dolor\x20(posicionamiento\x20técnicas\x20de\x20relajación,\x20aplicacion\x20calor/frío)','3\x20.\x20Levemente\x20alterado','Protección\x20contra\x20infecciones:\x20establecer\x20medidas\x20preventivas\x20frente\x20a\x20\x20exposición\x20a\x20agentes\x20patógenos.','Manejo\x20adecuado\x20ante\x20la\x20depresion\x20postparto','Fomento\x20del\x20contacto\x20piel\x20a\x20piel','5.\x20Siempre\x20demostrado','3.\x20Leve\x20alteración','Apoyo\x20emocional:\x20reducir\x20ansiedad\x20o\x20temor\x20asociados\x20al\x20agotamiento.','Adaptación\x20del\x20hogar','Reposo,\x20equilibrio\x20entre\x20actividad\x20y\x20descanso,\x20apoyo\x20emocional.','Succionar\x20si\x20NVO\x20(nada\x20via\x20oral)','4\x20-\x20Riesgo\x20mínimo\x20de\x20caída','Monitorización\x20hemodinámica:\x20valorar\x20presión\x20arterial,\x20venosa\x20central\x20y\x20frecuencia\x20cardíaca','2\x20=\x20Riesgo\x20moderado-alto','Apoyo\x20emocional:\x20brindar\x20acompañamiento,\x20escucha\x20activa\x20y\x20contención\x20ante\x20ansiedad\x20o\x20miedo\x20relacionados\x20con\x20la\x20condición\x20cardiovascular','Estado\x20respiratorio:\x20ventilación:\x20efectividad\x20en\x20el\x20intercambio\x20y\x20movimiento\x20de\x20aire','Terapia\x20de\x20ejercicio:\x20equilibrio','Ejercicios\x20de\x20rango\x20de\x20movilidad\x20pasivos\x20y\x20activos','Administración\x20de\x20analgésicos','Apoyo\x20y\x20expresión\x20emocional','Técnicas\x20de\x20relajación','3.\x20Integridad\x20Moderadamente\x20comprometida','Brindar\x20apoyo\x20al\x20cuidador','Uso\x20de\x20formula\x20para\x20el\x20neonato\x20segun\x20indicación','2.\x20Desviación\x20sustancial\x20del\x20nivel\x20normal\x20de\x20electrolitos','2\x20=\x20Sustancial','3.\x204\x20a\x206\x20caídas\x20durante\x20estancia','Terapia\x20de\x20compresión:\x20aplicar\x20vendajes\x20o\x20medias\x20de\x20compresión\x20según\x20indicación\x20para\x20mejorar\x20el\x20retorno\x20venoso','4.\x20Afectación\x20funcional\x20leve\x20derivada\x20del\x20dolor','Ausencia\x20de\x20infección','Revisar\x20medicamentos','1\x20=\x20Ansiedad\x20severa','Valoración\x20de\x20seguridad\x20del\x20paciente','Profilaxis\x20antibiótica','5.\x20Extenso','Posicionamiento\x20adecuado\x20al\x20comer','Ejercicios\x20de\x20respiración\x20profunda'];_0x37fa=function(){return _0xe0a593;};return _0x37fa();}function _0x4ba1(_0x534b47,_0x46d4b4){_0x534b47=_0x534b47-0x13a;var _0x37fa9c=_0x37fa();var _0x4ba17d=_0x37fa9c[_0x534b47];return _0x4ba17d;}var _0x51af54=_0x4ba1;(function(_0x1c3649,_0x5a4dcd){var _0x9feae=_0x4ba1,_0x1db54a=_0x1c3649();while(!![]){try{var _0x3251d3=parseInt(_0x9feae(0x205))/0x1*(parseInt(_0x9feae(0x3d2))/0x2)+-parseInt(_0x9feae(0x2fd))/0x3+parseInt(_0x9feae(0x262))/0x4+-parseInt(_0x9feae(0x389))/0x5*(parseInt(_0x9feae(0x34b))/0x6)+parseInt(_0x9feae(0x1f2))/0x7+parseInt(_0x9feae(0x213))/0x8+-parseInt(_0x9feae(0x25f))/0x9;if(_0x3251d3===_0x5a4dcd)break;else _0x1db54a['push'](_0x1db54a['shift']());}catch(_0x43847b){_0x1db54a['push'](_0x1db54a['shift']());}}}(_0x37fa,0xeed41),window[_0x51af54(0x3f8)]={'Digestivas':{'Eliminación\x20intestinal\x20alterada\x20/\x20Motilidad\x20gastrointestinal\x20alterada':{'noc':[_0x51af54(0x251),_0x51af54(0x3aa)],'nic':[_0x51af54(0x22b),'Movilización'],'trans':[_0x51af54(0x21b),'Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales.\x20Aplica\x20a\x20todos\x20los\x20contactos\x20con\x20el\x20paciente',_0x51af54(0x370)],'b6_por_noc':{'Restablecimiento\x20del\x20tránsito\x20intestinal':[_0x51af54(0x3d9),'2\x20.\x20Sustancialmente\x20comprometido','3\x20.\x20Moderadamente\x20comprometido',_0x51af54(0x33b),_0x51af54(0x22a)],'Eliminación\x20adecuada':[_0x51af54(0x3d9),'2\x20.\x20Sustancialmente\x20comprometido','3\x20.\x20Moderadamente\x20comprometido','4\x20.\x20Levemente\x20comprometido',_0x51af54(0x22a)]}},'Hiperbilirrubinemia\x20neonatal\x20(si\x20hay\x20foco\x20digestivo\x20neonatal)':{'noc':[_0x51af54(0x34c)],'nic':[_0x51af54(0x325),_0x51af54(0x359),_0x51af54(0x24c)],'trans':['Educación\x20continua\x20al\x20paciente\x20y/o\x20familia',_0x51af54(0x277),_0x51af54(0x370)],'b6_por_noc':{'Reducción\x20de\x20bilirrubina,\x20adecuada\x20alimentación':['1\x20.\x20Severamente\x20comprometido',_0x51af54(0x385),_0x51af54(0x319),_0x51af54(0x33b),_0x51af54(0x22a)]}},'Ingesta\x20nutricional\x20inadecuada\x20/\x20Nutrición\x20desequilibrada:\x20inferior\x20a\x20las\x20necesidades\x20del\x20organismo.':{'noc':[_0x51af54(0x2dc),_0x51af54(0x166)],'nic':[_0x51af54(0x1b8),'Manejo\x20de\x20síntomas\x20(náuseas/vómitos)','Suplementos',_0x51af54(0x1d3)],'trans':['Educación\x20continua\x20al\x20paciente\x20y/o\x20familia',_0x51af54(0x277),'Valoración\x20del\x20dolor\x20y\x20confort\x20cada\x20turno'],'b6_por_noc':{'Mejora\x20de\x20estado\x20nutricional':[_0x51af54(0x3d9),_0x51af54(0x385),'3\x20.\x20Moderadamente\x20comprometido',_0x51af54(0x33b),_0x51af54(0x22a)],'Ganancia\x20o\x20estabilización\x20de\x20peso\x20adecuada':['1\x20.\x20Severamente\x20comprometido',_0x51af54(0x385),'3\x20.\x20Moderadamente\x20comprometido','4\x20.\x20Levemente\x20comprometido',_0x51af54(0x22a)]}},'Riesgo\x20de\x20alteración\x20del\x20equilibrio\x20hidroelectrolítico':{'noc':[_0x51af54(0x3c1)],'nic':['Educación\x20sobre\x20signos\x20de\x20deshidratación','Monitorizar\x20electrolitos/diuresis/estado\x20hidroelectrolítico',_0x51af54(0x234)],'trans':[_0x51af54(0x21b),_0x51af54(0x277),_0x51af54(0x370)],'b6_por_noc':{'Mantenimiento\x20del\x20equilibrio\x20hidroelectrolítico':[_0x51af54(0x3d9),'2\x20.\x20Sustancialmente\x20comprometido',_0x51af54(0x319),_0x51af54(0x33b),_0x51af54(0x22a)]}},'Riesgo\x20de\x20deterioro\x20en\x20los\x20roles\x20de\x20padre/hijo\x20(si\x20enfermedad\x20digestiva\x20afecta\x20cuidado/familia)':{'noc':[_0x51af54(0x1ea),'Mejora\x20de\x20desempeño\x20en\x20roles\x20identificados'],'nic':[_0x51af54(0x23e),'Plan\x20de\x20cuidado\x20compartido\x20con\x20la\x20familia'],'trans':[_0x51af54(0x21b),_0x51af54(0x277),_0x51af54(0x370)],'b6_por_noc':{'Mejora\x20de\x20desempeño\x20en\x20roles\x20identificados':[_0x51af54(0x3d9),_0x51af54(0x385),_0x51af54(0x319),_0x51af54(0x33b),_0x51af54(0x22a)],'Adaptación\x20familiar':[_0x51af54(0x3d9),_0x51af54(0x385),_0x51af54(0x319),_0x51af54(0x33b),_0x51af54(0x22a)]}},'Riesgo\x20de\x20infección\x20\x20(ej.\x20peritonitis,\x20infecciones\x20hepáticas)':{'noc':['Ausencia\x20de\x20infección',_0x51af54(0x362)],'nic':[_0x51af54(0x2ce),_0x51af54(0x268)],'trans':['Educación\x20continua\x20al\x20paciente\x20y/o\x20familia','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales.\x20Aplica\x20a\x20todos\x20los\x20contactos\x20con\x20el\x20paciente',_0x51af54(0x370)],'b6_por_noc':{'Ausencia\x20de\x20infección':[_0x51af54(0x3d9),_0x51af54(0x385),'3\x20.\x20Moderadamente\x20comprometido','4\x20.\x20Levemente\x20comprometido','5\x20.\x20No\x20comprometido\x20(óptimo)'],'signos\x20inflamatorios\x20controlados':[_0x51af54(0x3d9),'2\x20.\x20Sustancialmente\x20comprometido',_0x51af54(0x319),_0x51af54(0x33b),_0x51af54(0x22a)]}},'Riesgo\x20de\x20sangrado\x20excesivo\x20/\x20Riesgo\x20de\x20sangrado\x20(aplicable\x20en\x20enfermedad\x20hepática\x20con\x20coagulopatía)':{'noc':[_0x51af54(0x1fd),_0x51af54(0x3c6)],'nic':[_0x51af54(0x3bc),_0x51af54(0x14d)],'trans':[_0x51af54(0x21b),_0x51af54(0x277),_0x51af54(0x370)],'b6_por_noc':{'Ausencia\x20de\x20episodios\x20hemorrágicos':['1\x20.\x20Severo',_0x51af54(0x208),_0x51af54(0x3a9),'4\x20.\x20Leve','5\x20.\x20Ninguno'],'Estabilidad\x20hemodinámica':[_0x51af54(0x3d9),_0x51af54(0x385),'3\x20.\x20Moderadamente\x20comprometido',_0x51af54(0x33b),_0x51af54(0x22a)]}},'Riesgo\x20del\x20deterioro\x20de\x20la\x20integridad\x20del\x20tejido\x20(por\x20ictericia,\x20prurito,\x20ascitis,\x20cuidados\x20peritoneales/ostomías)':{'noc':['Piel\x20íntegra\x20o\x20curación\x20de\x20lesiones','Prurito\x20controlado'],'nic':['Educación\x20en\x20cuidado\x20de\x20ostomía',_0x51af54(0x1e2),_0x51af54(0x1d8)],'trans':[_0x51af54(0x21b),_0x51af54(0x277),_0x51af54(0x370)],'b6_por_noc':{'Piel\x20íntegra\x20o\x20curación\x20de\x20lesiones':['1\x20.\x20Severamente\x20comprometido',_0x51af54(0x385),_0x51af54(0x319),_0x51af54(0x33b),_0x51af54(0x22a)],'Prurito\x20controlado':[_0x51af54(0x177),'2\x20.\x20Sustancial',_0x51af54(0x3a9),_0x51af54(0x3f7),_0x51af54(0x311)]}}},'Quirúrgicas\x20Abdominales':{'Riesgo\x20de\x20infección\x20de\x20la\x20herida\x20quirúrgica':{'noc':[_0x51af54(0x143)],'nic':[_0x51af54(0x318),'Profilaxis\x20antibiótica\x20según\x20protocolo','Técnica\x20estéril\x20en\x20curaciones',_0x51af54(0x15c)],'trans':[_0x51af54(0x23d),_0x51af54(0x3ac),_0x51af54(0x39a),_0x51af54(0x1df),_0x51af54(0x2bd),_0x51af54(0x2b0),'Monitorización\x20de\x20signos\x20vitales:\x20Recogida\x20y\x20análisis\x20de\x20datos\x20fisiológicos\x20para\x20detectar\x20cambios\x20o\x20complicaciones',_0x51af54(0x244),_0x51af54(0x365)],'b6_por_noc':{'Cicatrización\x20de\x20heridas:Estado\x20de\x20infección':['1.\x20Extenso',_0x51af54(0x150),_0x51af54(0x2b7),_0x51af54(0x1b4),_0x51af54(0x258)]}},'Alteración\x20de\x20la\x20integridad\x20cutánea':{'noc':[_0x51af54(0x2d7),'Integridad\x20tisular\x20preservada'],'nic':[_0x51af54(0x23b),_0x51af54(0x361),_0x51af54(0x2b6),'Prevenir\x20tensión\x20sobre\x20sutura'],'trans':[_0x51af54(0x23d),'Cuidados\x20de\x20la\x20piel,\x20Mantener\x20la\x20integridad\x20cutánea,\x20especialmente\x20en\x20zonas\x20de\x20presión\x20o\x20incisión',_0x51af54(0x39a),_0x51af54(0x1df),_0x51af54(0x2bd),_0x51af54(0x2b0),_0x51af54(0x3ed),_0x51af54(0x244),_0x51af54(0x365)],'b6_por_noc':{'Integridad\x20tisular\x20preservada':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)],'Curación\x20progresiva':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),'4.\x20Levemente\x20comprometido',_0x51af54(0x2e2)]}},'Alteración\x20de\x20la\x20motilidad\x20gastrointestinal\x20(o\x20Riesgo\x20de\x20alteración\x20de\x20la\x20motilidad\x20gastrointestinal)':{'noc':['Eliminación\x20intestinal\x20adecuada','Recuperación\x20de\x20peristalsis'],'nic':['Limitar\x20opioides\x20cuando\x20sea\x20posible',_0x51af54(0x36f),'Manejo\x20de\x20náuseas',_0x51af54(0x1ef),_0x51af54(0x3d7),'Movilización\x20temprana'],'trans':[_0x51af54(0x23d),_0x51af54(0x3ac),'Evaluar\x20dolor\x20con\x20escala\x20estandarizada\x20(EVA),\x20administrar\x20analgésicos\x20según\x20prescripción,\x20favorecer\x20posición\x20de\x20confort',_0x51af54(0x1df),'Manejo\x20de\x20la\x20medicación:\x20Preparación,\x20administración\x20y\x20evaluación\x20del\x20efecto\x20de\x20medicamentos','Manejo\x20de\x20la\x20nutrición,\x20facilitar\x20la\x20ingestión\x20y\x20digestión\x20adecuadas\x20de\x20nutrientes',_0x51af54(0x3ed),'Prevención\x20de\x20trombosis\x20venosa\x20profunda:\x20Promover\x20ejercicios\x20de\x20piernas\x20en\x20cama,\x20fomentar\x20la\x20deambulación\x20temprana',_0x51af54(0x365)],'b6_por_noc':{'Recuperación\x20de\x20peristalsis':[_0x51af54(0x271),_0x51af54(0x2df),_0x51af54(0x25b),_0x51af54(0x34d),_0x51af54(0x197)],'Eliminación\x20intestinal\x20adecuada':[_0x51af54(0x18f),_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Alteración\x20del\x20confort\x20físico':{'noc':[_0x51af54(0x228),'alivio\x20sintomático'],'nic':['Anticoagulación\x20según\x20protocolo',_0x51af54(0x35d),_0x51af54(0x14c)],'trans':[_0x51af54(0x23d),'Cuidados\x20de\x20la\x20piel,\x20Mantener\x20la\x20integridad\x20cutánea,\x20especialmente\x20en\x20zonas\x20de\x20presión\x20o\x20incisión','Evaluar\x20dolor\x20con\x20escala\x20estandarizada\x20(EVA),\x20administrar\x20analgésicos\x20según\x20prescripción,\x20favorecer\x20posición\x20de\x20confort','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales',_0x51af54(0x2bd),_0x51af54(0x2b0),_0x51af54(0x3ed),_0x51af54(0x244),_0x51af54(0x365)],'b6_por_noc':{'Confort\x20físico\x20mejorado':['1.\x20Nada\x20satisfecho',_0x51af54(0x377),_0x51af54(0x181),_0x51af54(0x3f3),'5.\x20Completamente\x20satisfecho'],'alivio\x20sintomático':[_0x51af54(0x344),'2.\x20Algo\x20satisfecho',_0x51af54(0x181),_0x51af54(0x3f3),_0x51af54(0x23a)]}},'Patrón\x20respiratorio\x20ineficaz':{'noc':[_0x51af54(0x1fe),_0x51af54(0x2de)],'nic':[_0x51af54(0x2be),_0x51af54(0x2ac),'Incentivo\x20espirómetro','Movilización\x20temprana'],'trans':[_0x51af54(0x23d),_0x51af54(0x3ac),'Evaluar\x20dolor\x20con\x20escala\x20estandarizada\x20(EVA),\x20administrar\x20analgésicos\x20según\x20prescripción,\x20favorecer\x20posición\x20de\x20confort',_0x51af54(0x1df),'Manejo\x20de\x20la\x20medicación:\x20Preparación,\x20administración\x20y\x20evaluación\x20del\x20efecto\x20de\x20medicamentos','Manejo\x20de\x20la\x20nutrición,\x20facilitar\x20la\x20ingestión\x20y\x20digestión\x20adecuadas\x20de\x20nutrientes',_0x51af54(0x3ed),_0x51af54(0x244),'Valoración\x20continua\x20del\x20dolor'],'b6_por_noc':{'Ventilación\x20eficaz':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),'4.\x20Desviación\x20leve\x20del\x20rango\x20normal',_0x51af54(0x223)],'Expansión\x20pulmonar\x20adecuada':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)]}},'Riesgo\x20de\x20alteración\x20de\x20la\x20integridad\x20tisular':{'noc':['Curación\x20progresiva','Integridad\x20tisular\x20preservada'],'nic':[_0x51af54(0x23b),_0x51af54(0x361),'Optimizar\x20nutrición',_0x51af54(0x2d0)],'trans':[_0x51af54(0x23d),_0x51af54(0x3ac),_0x51af54(0x39a),_0x51af54(0x1df),_0x51af54(0x2bd),_0x51af54(0x2b0),'Monitorización\x20de\x20signos\x20vitales:\x20Recogida\x20y\x20análisis\x20de\x20datos\x20fisiológicos\x20para\x20detectar\x20cambios\x20o\x20complicaciones',_0x51af54(0x244),'Valoración\x20continua\x20del\x20dolor'],'b6_por_noc':{'Integridad\x20tisular\x20preservada':[_0x51af54(0x35a),_0x51af54(0x3db),_0x51af54(0x29d),_0x51af54(0x20f),_0x51af54(0x25d)],'Curación\x20progresiva':[_0x51af54(0x287),'2.\x20Escaso',_0x51af54(0x2b7),_0x51af54(0x2e3),'5.\x20Extenso']}},'Riesgo\x20de\x20alteración\x20del\x20equilibrio\x20hidroelectrolítico':{'noc':[_0x51af54(0x37e)],'nic':[_0x51af54(0x396),_0x51af54(0x182),_0x51af54(0x3d7),_0x51af54(0x234)],'trans':[_0x51af54(0x23d),_0x51af54(0x3ac),_0x51af54(0x39a),_0x51af54(0x1df),'Manejo\x20de\x20la\x20medicación:\x20Preparación,\x20administración\x20y\x20evaluación\x20del\x20efecto\x20de\x20medicamentos',_0x51af54(0x2b0),'Monitorización\x20de\x20signos\x20vitales:\x20Recogida\x20y\x20análisis\x20de\x20datos\x20fisiológicos\x20para\x20detectar\x20cambios\x20o\x20complicaciones','Prevención\x20de\x20trombosis\x20venosa\x20profunda:\x20Promover\x20ejercicios\x20de\x20piernas\x20en\x20cama,\x20fomentar\x20la\x20deambulación\x20temprana',_0x51af54(0x365)],'b6_por_noc':{'Equilibrio\x20hídrico\x20y\x20electrólitos\x20dentro\x20de\x20parámetros':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),'5.\x20No\x20comprometido']}},'Riesgo\x20de\x20infección':{'noc':['Ausencia\x20de\x20infección',_0x51af54(0x2f3)],'nic':[_0x51af54(0x241),'Monitorizar\x20signos\x20de\x20infección',_0x51af54(0x304),_0x51af54(0x2a9)],'trans':[_0x51af54(0x23d),'Cuidados\x20de\x20la\x20piel,\x20Mantener\x20la\x20integridad\x20cutánea,\x20especialmente\x20en\x20zonas\x20de\x20presión\x20o\x20incisión','Evaluar\x20dolor\x20con\x20escala\x20estandarizada\x20(EVA),\x20administrar\x20analgésicos\x20según\x20prescripción,\x20favorecer\x20posición\x20de\x20confort',_0x51af54(0x1df),_0x51af54(0x2bd),_0x51af54(0x2b0),_0x51af54(0x3ed),_0x51af54(0x244),_0x51af54(0x365)],'b6_por_noc':{'Ausencia\x20de\x20infección':['1.\x20Nunca\x20demostrado',_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),'5.\x20Siempre\x20demostrado'],'Parámetros\x20inflamatorios\x20estables':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)]}},'Riesgo\x20de\x20lesiones\x20físicas.\x20(incluyendo\x20riesgo\x20de\x20trombosis/complicaciones\x20post\x20Qx)':{'noc':[_0x51af54(0x274),'movilidad\x20progresiva'],'nic':[_0x51af54(0x39d),_0x51af54(0x35d),_0x51af54(0x14c)],'trans':['Apoyo\x20al\x20autocuidado:\x20Fomentar\x20la\x20independencia\x20del\x20paciente\x20en\x20el\x20cuidado\x20posoperatorio',_0x51af54(0x3ac),'Evaluar\x20dolor\x20con\x20escala\x20estandarizada\x20(EVA),\x20administrar\x20analgésicos\x20según\x20prescripción,\x20favorecer\x20posición\x20de\x20confort','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales','Manejo\x20de\x20la\x20medicación:\x20Preparación,\x20administración\x20y\x20evaluación\x20del\x20efecto\x20de\x20medicamentos',_0x51af54(0x2b0),_0x51af54(0x3ed),_0x51af54(0x244),_0x51af54(0x365)],'b6_por_noc':{'Ausencia\x20de\x20complicaciones\x20trombóticas\x20o\x20físicas':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado','4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)],'movilidad\x20progresiva':['1.\x20Nunca\x20demostrado',_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)]}}},'Binomio\x20madre\x20hijo':{'Deterioro\x20de\x20la\x20integridad\x20del\x20complejo\x20pezon\x20areolar':{'noc':[_0x51af54(0x13e)],'nic':[_0x51af54(0x3d8),'Fomentar\x20la\x20asistencia\x20a\x20clases\x20y\x20grupos\x20de\x20apoyo\x20de\x20lactancia\x20materna','Instruir\x20sobre\x20las\x20distintas\x20posiciones\x20para\x20la\x20lactancia'],'trans':[_0x51af54(0x168),_0x51af54(0x3df),'Educación\x20prenatal/postparto','Indicar\x20signos\x20de\x20alarma\x20del\x20lactante\x20(hipotonia,\x20dificultad\x20para\x20respirar,\x20vomito\x20persistente',_0x51af54(0x1da),'Informar\x20sobre\x20los\x20beneficios\x20psicológicos\x20y\x20fisiológicos\x20de\x20la\x20lactancia\x20materna',_0x51af54(0x3dd)],'b6_por_noc':{'Establecimiento\x20de\x20la\x20lactancia\x20materna':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),'4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)]}},'Deterioro\x20de\x20los\x20comportamientos\x20parentales':{'noc':['Adecuado\x20afrontamiento\x20a\x20los\x20problemas','Vinculo\x20padres\x20hijo\x20fuerte'],'nic':[_0x51af54(0x2ed),_0x51af54(0x169),_0x51af54(0x22f),'Proporcionar\x20a\x20los\x20progenitores\x20lecturas\x20y\x20otros\x20materiales\x20que\x20sean\x20útiles\x20para\x20ejercer\x20su\x20papel\x20parental',_0x51af54(0x142)],'trans':['Comentar\x20los\x20métodos\x20anticonceptivos',_0x51af54(0x3df),_0x51af54(0x19c),'Indicar\x20signos\x20de\x20alarma\x20del\x20lactante\x20(hipotonia,\x20dificultad\x20para\x20respirar,\x20vomito\x20persistente',_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Adecuado\x20afrontamiento\x20a\x20los\x20problemas':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),'4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)],'Vinculo\x20padres\x20hijo\x20fuerte':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado',_0x51af54(0x170),'4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)]}},'Hiperbilirrubinemia\x20neonatal':{'noc':[_0x51af54(0x1d2),_0x51af54(0x3f4)],'nic':[_0x51af54(0x305),_0x51af54(0x2b8),_0x51af54(0x285)],'trans':['Comentar\x20los\x20métodos\x20anticonceptivos',_0x51af54(0x3df),_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Disminución\x20de\x20niveles\x20de\x20bilirrubina':[_0x51af54(0x18f),_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),'5.\x20No\x20comprometido'],'Estabilidad\x20clínica\x20del\x20neonato':['1.\x20Gravemente\x20comprometido',_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),'5.\x20No\x20comprometido']}},'Ingesta\x20nutricional\x20inadecuada\x20(si\x20RN\x20con\x20pérdida\x20de\x20peso\x20o\x20madre\x20malnutrida)':{'noc':[_0x51af54(0x1ed),_0x51af54(0x2b9)],'nic':['Apoyo\x20con\x20nutricion\x20para\x20el\x20plan\x20alimentario\x20de\x20la\x20madre','Ingesta\x20adecuada\x20de\x20liquidos\x20a\x20la\x20madre',_0x51af54(0x29f)],'trans':[_0x51af54(0x168),'Educacion\x20para\x20prevencion\x20de\x20infecciones',_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Mejora\x20de\x20ingesta\x20calórica/proteica':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),_0x51af54(0x223)],'Ganancia\x20de\x20peso\x20adecuada':['1.\x20Gravemente\x20comprometido',_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Lactancia\x20exclusiva\x20alterada':{'noc':['Mantenimiento\x20de\x20la\x20lactancia\x20materna',_0x51af54(0x3f0)],'nic':[_0x51af54(0x25a),_0x51af54(0x3ba),_0x51af54(0x357),_0x51af54(0x355),_0x51af54(0x183)],'trans':[_0x51af54(0x168),_0x51af54(0x3df),_0x51af54(0x19c),_0x51af54(0x2c5),'Indicar\x20signos\x20de\x20alarma\x20para\x20la\x20materna\x20(fiebre,\x20dolor\x20en\x20senos,\x20dolor\x20de\x20cabeza\x20persistente,\x20signos\x20de\x20infeccion)','Informar\x20sobre\x20los\x20beneficios\x20psicológicos\x20y\x20fisiológicos\x20de\x20la\x20lactancia\x20materna',_0x51af54(0x3dd)],'b6_por_noc':{'Mantenimiento\x20de\x20la\x20lactancia\x20materna':['1.\x20Nunca\x20demostrado',_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado','4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)],'Vinculo\x20padres\x20hijo\x20fuerte':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado',_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)]}},'Lactancia\x20ineficaz':{'noc':['Agarre\x20correcto',_0x51af54(0x1d7),_0x51af54(0x1e7),_0x51af54(0x19a),_0x51af54(0x34a),'Un\x20mínimo\x20de\x208\x20tomas\x20al\x20día'],'nic':[_0x51af54(0x2e0),'Comentar\x20la\x20frecuencia\x20de\x20los\x20patrones\x20normales\x20de\x20lactancia,\x20incluidas\x20las\x20tomas\x20agrupadas\x20y\x20los\x20brotes\x20de\x20crecimiento',_0x51af54(0x32b),_0x51af54(0x279)],'trans':['Comentar\x20los\x20métodos\x20anticonceptivos',_0x51af54(0x3df),_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Agarre\x20correcto':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Un\x20mínimo\x20de\x208\x20tomas\x20al\x20día':['1.\x20Nunca\x20demostrado','2.\x20Raramente\x20demostrado',_0x51af54(0x170),'4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)],'Aumento\x20de\x20peso\x20adecuado\x20para\x20la\x20edad':['1.\x20Nunca\x20demostrado',_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Correcta\x20tecnica\x20para\x20lactancia':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)],'Reconoce\x20las\x20señales\x20tempranas\x20del\x20hambre':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),'5.\x20Siempre\x20demostrado'],'Almacena\x20de\x20forma\x20segura\x20la\x20leche\x20materna':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),'5.\x20Siempre\x20demostrado']}},'Retraso\x20en\x20el\x20crecimiento\x20infantil':{'noc':['Adecuado\x20Crecimiento\x20del\x20niño',_0x51af54(0x395)],'nic':[_0x51af54(0x27b),_0x51af54(0x35f),_0x51af54(0x201)],'trans':[_0x51af54(0x168),_0x51af54(0x3df),'Educación\x20prenatal/postparto','Indicar\x20signos\x20de\x20alarma\x20del\x20lactante\x20(hipotonia,\x20dificultad\x20para\x20respirar,\x20vomito\x20persistente','Indicar\x20signos\x20de\x20alarma\x20para\x20la\x20materna\x20(fiebre,\x20dolor\x20en\x20senos,\x20dolor\x20de\x20cabeza\x20persistente,\x20signos\x20de\x20infeccion)',_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Conocimiento\x20de\x20una\x20dieta\x20adecuada':[_0x51af54(0x18f),_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),'5.\x20No\x20comprometido'],'Adecuado\x20Crecimiento\x20del\x20niño':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),'4.\x20Levemente\x20comprometido','5.\x20No\x20comprometido']}},'Retraso\x20en\x20el\x20desarrollo\x20infantil':{'noc':['Conocimiento\x20adecuado\x20de\x20los\x20padres\x20sobre\x20el\x20crecimiento\x20y\x20desarrollo\x20normales\x20para\x20la\x20edad\x20y\x20la\x20conducta\x20normal\x20del\x20niño\x20para\x20su\x20edad'],'nic':[_0x51af54(0x240),_0x51af54(0x257),'Lectura\x20de\x20cuentos\x20o\x20juegos\x20educativos',_0x51af54(0x278)],'trans':[_0x51af54(0x168),_0x51af54(0x3df),_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Conocimiento\x20adecuado\x20de\x20los\x20padres\x20sobre\x20el\x20crecimiento\x20y\x20desarrollo\x20normales\x20para\x20la\x20edad\x20y\x20la\x20conducta\x20normal\x20del\x20niño\x20para\x20su\x20edad':['1.\x20Ningun\x20conocimiento',_0x51af54(0x227),_0x51af54(0x233),_0x51af54(0x349),_0x51af54(0x3e2)]}},'Riesgo\x20de\x20caida\x20en\x20niños(as)':{'noc':[_0x51af54(0x31d),'Conocimiento\x20adecuado\x20sobre\x20la\x20seguriad\x20fisica\x20infantil'],'nic':[_0x51af54(0x1a5),_0x51af54(0x337),'Modificar\x20el\x20ambiente\x20para\x20minimizar\x20los\x20peligros\x20y\x20riesgos'],'trans':[_0x51af54(0x168),_0x51af54(0x3df),'Educación\x20prenatal/postparto',_0x51af54(0x2c5),_0x51af54(0x1da),'Informar\x20sobre\x20los\x20beneficios\x20psicológicos\x20y\x20fisiológicos\x20de\x20la\x20lactancia\x20materna','Prevencion\x20en\x20la\x20depresion\x20postparto'],'b6_por_noc':{'Conocimiento\x20adecuado\x20sobre\x20la\x20seguriad\x20fisica\x20infantil':['1.\x20Ningun\x20conocimiento','2.\x20Conocimiento\x20escaso','3.\x20Conocimiento\x20moderado',_0x51af54(0x349),_0x51af54(0x3e2)],'Aplicar\x20conductas\x20de\x20prevencion\x20de\x20caidas':['1.\x20Nunca\x20demostrado','2.\x20Raramente\x20demostrado','3.\x20A\x20veces\x20demostrado','4.\x20Frecuentemente\x20demostrado','5.\x20Siempre\x20demostrado']}},'Riesgo\x20de\x20deterioro\x20de\x20la\x20diada\x20materno\x20fetal':{'noc':[_0x51af54(0x28b),'Soporte\x20social\x20optimo'],'nic':[_0x51af54(0x1cf),_0x51af54(0x29e),'Favorecer\x20la\x20implicacion\x20familiar','Identificar\x20el\x20riesgo\x20de\x20depresion\x20postparto\x20aplicando\x20escala\x20de\x20edimburgo'],'trans':[_0x51af54(0x168),_0x51af54(0x3df),'Educación\x20prenatal/postparto',_0x51af54(0x2c5),_0x51af54(0x1da),'Informar\x20sobre\x20los\x20beneficios\x20psicológicos\x20y\x20fisiológicos\x20de\x20la\x20lactancia\x20materna',_0x51af54(0x3dd)],'b6_por_noc':{'Manejo\x20adecuado\x20ante\x20la\x20depresion\x20postparto':['1.\x20Gravemente\x20comprometido','2.\x20Sustancialmente\x20comprometido',_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)],'Soporte\x20social\x20optimo':[_0x51af54(0x287),_0x51af54(0x397),_0x51af54(0x2b7),'4.\x20Sustancial',_0x51af54(0x2aa)]}},'Riesgo\x20de\x20disminución\x20de\x20la\x20temperatura\x20corporal\x20neonatal':{'noc':[_0x51af54(0x260),_0x51af54(0x383)],'nic':['Aplicar\x20recalentamiento\x20pasivo\x20(manta,\x20cubrir\x20la\x20cabeza,\x20y\x20calentar\x20la\x20ropa).',_0x51af54(0x26d),_0x51af54(0x21a)],'trans':['Comentar\x20los\x20métodos\x20anticonceptivos',_0x51af54(0x3df),_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),'Informar\x20sobre\x20los\x20beneficios\x20psicológicos\x20y\x20fisiológicos\x20de\x20la\x20lactancia\x20materna','Prevencion\x20en\x20la\x20depresion\x20postparto'],'b6_por_noc':{'Termorregulacion\x20del\x20neonato':['1.\x20Gravemente\x20comprometido',_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)],'Mantener\x20el\x20estado\x20fisiologico\x20del\x20neonato':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Riesgo\x20de\x20hiperbilirrubinemia\x20neonatal':{'noc':[_0x51af54(0x3cf),'Ingesta\x20nutritiva\x20adecuada'],'nic':[_0x51af54(0x1eb),_0x51af54(0x39f),_0x51af54(0x195)],'trans':['Comentar\x20los\x20métodos\x20anticonceptivos','Educacion\x20para\x20prevencion\x20de\x20infecciones',_0x51af54(0x19c),'Indicar\x20signos\x20de\x20alarma\x20del\x20lactante\x20(hipotonia,\x20dificultad\x20para\x20respirar,\x20vomito\x20persistente',_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Bilirrubina\x20dentro\x20de\x20valores\x20normales':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)],'Ingesta\x20nutritiva\x20adecuada':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),_0x51af54(0x223)]}},'Riesgo\x20de\x20infección\x20(madre\x20o\x20RN)':{'noc':['Ausencia\x20de\x20infección','Signos\x20vitales\x20estables'],'nic':[_0x51af54(0x1c1),_0x51af54(0x3f1),'Vigilancia\x20de\x20signos\x20de\x20infección'],'trans':[_0x51af54(0x168),'Educacion\x20para\x20prevencion\x20de\x20infecciones',_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),_0x51af54(0x32c),'Prevencion\x20en\x20la\x20depresion\x20postparto'],'b6_por_noc':{'Ausencia\x20de\x20infección':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),'5.\x20No\x20comprometido'],'Signos\x20vitales\x20estables':[_0x51af54(0x18f),_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Riesgo\x20de\x20lactancia\x20ineficaz':{'noc':['Inicio\x20precoz\x20de\x20pecho',_0x51af54(0x1cb)],'nic':['Facilitar\x20lactancia\x20temprana',_0x51af54(0x28c),'Planificación\x20de\x20apoyo\x20domiciliario'],'trans':[_0x51af54(0x168),_0x51af54(0x3df),_0x51af54(0x19c),_0x51af54(0x2c5),_0x51af54(0x1da),_0x51af54(0x32c),_0x51af54(0x3dd)],'b6_por_noc':{'Prevención\x20de\x20dificultad\x20ante\x20la\x20lactancia':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),'5.\x20Siempre\x20demostrado'],'Inicio\x20precoz\x20de\x20pecho':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado',_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)]}}},'Cardiovascular':{'Exceso\x20de\x20volumen\x20de\x20líquidos':{'noc':[_0x51af54(0x1f8)],'nic':['Manejo\x20de\x20la\x20eliminación\x20urinaria:\x20registrar\x20diuresis\x20y\x20características\x20de\x20la\x20orina',_0x51af54(0x18d)],'trans':[_0x51af54(0x296),_0x51af54(0x21f),_0x51af54(0x187),'Manejo\x20de\x20la\x20medicación\x20cardiovascular:\x20supervisar\x20la\x20administración\x20correcta\x20de\x20fármacos\x20como\x20antihipertensivos,\x20diuréticos,\x20anticoagulantes\x20o\x20vasodilatadores,\x20controlando\x20efectos\x20y\x20adherencia',_0x51af54(0x19e),_0x51af54(0x2f8),_0x51af54(0x2ca)],'b6_por_noc':{'Control\x20de\x20liquidos':[_0x51af54(0x1ff),_0x51af54(0x1f6),'3,\x20Medianamente\x20adecuado',_0x51af54(0x345)]}},'Perfusión\x20tisular\x20periférica\x20inefectiva':{'noc':[_0x51af54(0x242),'Perfusión\x20tisular:\x20periférica'],'nic':[_0x51af54(0x38f),_0x51af54(0x2a3)],'trans':[_0x51af54(0x296),_0x51af54(0x21f),_0x51af54(0x187),'Manejo\x20de\x20la\x20medicación\x20cardiovascular:\x20supervisar\x20la\x20administración\x20correcta\x20de\x20fármacos\x20como\x20antihipertensivos,\x20diuréticos,\x20anticoagulantes\x20o\x20vasodilatadores,\x20controlando\x20efectos\x20y\x20adherencia',_0x51af54(0x19e),_0x51af54(0x2f8),_0x51af54(0x2ca)],'b6_por_noc':{'Perfusión\x20tisular:\x20periférica':[_0x51af54(0x1e9),_0x51af54(0x30a),_0x51af54(0x2d2),_0x51af54(0x1e0)],'Estado\x20circulatorio':[_0x51af54(0x1ff),'2,\x20Inadecuado',_0x51af54(0x30d),_0x51af54(0x345)]}},'Riesgo\x20de\x20perfusión\x20tisular\x20cerebral\x20inefectiva':{'noc':[_0x51af54(0x217)],'nic':[_0x51af54(0x379),_0x51af54(0x356),_0x51af54(0x246)],'trans':[_0x51af54(0x296),_0x51af54(0x21f),'Educación\x20para\x20la\x20salud\x20cardiovascular:\x20enseñar\x20a\x20paciente\x20y\x20familia\x20sobre\x20factores\x20de\x20riesgo,\x20dieta\x20saludable,\x20control\x20de\x20estrés,\x20actividad\x20física\x20segura\x20y\x20signos\x20de\x20alarma',_0x51af54(0x2e8),_0x51af54(0x19e),'Monitorización\x20hemodinámica:\x20observar\x20la\x20perfusión\x20tisular,\x20saturación\x20de\x20oxígeno,\x20llenado\x20capilar\x20y\x20presión\x20venosa\x20central\x20si\x20aplica',_0x51af54(0x2ca)],'b6_por_noc':{'Control\x20del\x20riesgo:\x20accidente\x20cerebrovascular':[_0x51af54(0x1ff),_0x51af54(0x1f6),_0x51af54(0x30d),_0x51af54(0x345)]}}},'Cáncer':{'Ansiedad\x20excesiva':{'noc':[_0x51af54(0x16b),_0x51af54(0x32e),_0x51af54(0x38e)],'nic':[_0x51af54(0x368),_0x51af54(0x1d9),_0x51af54(0x1d5),'Proporcionar\x20ejercicios\x20de\x20mejora\x20de\x20la\x20autoestima\x20diseñados\x20para\x20aumentar\x20la\x20autoestima\x20positiva\x20(escribir\x20una\x20lista\x20de\x20talentos\x20y\x20rasgos\x20positivos\x20de\x20la\x20personalidad)'],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),'Proporcionar\x20o\x20remitir\x20a\x20psicoterapia'],'b6_por_noc':{'Autocontrol\x20de\x20la\x20ansiedad':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),'4.\x20Frecuentemente\x20demostrado','5.\x20Siempre\x20demostrado'],'Aceptacion\x20del\x20estado\x20de\x20salud':[_0x51af54(0x151),_0x51af54(0x211),'3.\x20A\x20veces\x20positivo',_0x51af54(0x330),_0x51af54(0x2d6)],'Buen\x20autoestima':[_0x51af54(0x151),_0x51af54(0x211),_0x51af54(0x339),'4.\x20A\x20menudo\x20positivo','5.\x20Consistentemente\x20positivo']}},'Autocontrol\x20ineficaz\x20de\x20las\x20náuseas':{'noc':[_0x51af54(0x386),_0x51af54(0x1b2)],'nic':['Administrar\x20una\x20dieta\x20con\x20alimentos\x20liquidos\x20frios','Animar\x20a\x20ingerir\x20pequeñas\x20cantidades\x20de\x20comida',_0x51af54(0x374),_0x51af54(0x3af)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),'Apoyo\x20emocional',_0x51af54(0x371),'Medidas\x20no\x20farmacologicas\x20para\x20el\x20dolor\x20(posicionamiento\x20técnicas\x20de\x20relajación,\x20aplicacion\x20calor/frío)',_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Control\x20de\x20nauseas\x20y\x20vomitos':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)],'Respuesta\x20satisfactoria\x20a\x20la\x20medicacion':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),'4.\x20Levemente\x20comprometido',_0x51af54(0x2e2)]}},'Carga\x20excesiva\x20de\x20fatiga':{'noc':[_0x51af54(0x3b8),_0x51af54(0x313)],'nic':[_0x51af54(0x20b),_0x51af54(0x3e7),_0x51af54(0x222),_0x51af54(0x3b6)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),'Proporcionar\x20o\x20remitir\x20a\x20psicoterapia'],'b6_por_noc':{'Equilibrio\x20emocional':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado','4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)],'Aumentar\x20nivel\x20de\x20energia':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Deterioro\x20de\x20la\x20movilidad\x20fisica':{'noc':[_0x51af54(0x1bb),_0x51af54(0x31e)],'nic':[_0x51af54(0x303),_0x51af54(0x2b1)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Mantener\x20la\x20fuerza\x20muscular':['1.\x20Gravemente\x20comprometido','2.\x20Sustancialmente\x20comprometido','3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),'5.\x20No\x20comprometido'],'Participacion\x20activa\x20en\x20el\x20ejercicio':['1.\x20Gravemente\x20comprometido','2.\x20Sustancialmente\x20comprometido',_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Dolor\x20agudo':{'noc':[_0x51af54(0x1dd),_0x51af54(0x310)],'nic':[_0x51af54(0x1b6),_0x51af54(0x149)],'trans':['Administracion\x20de\x20analgesicos\x20segun\x20necesidad','Administracion\x20de\x20antiemeticos','Apoyo\x20emocional',_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Control\x20del\x20dolor':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Disminuir\x20nivel\x20del\x20dolor\x20(escala\x20EVA)':[_0x51af54(0x1a3),_0x51af54(0x150),'3.\x20Moderado',_0x51af54(0x34f),'5.\x20Ninguno']}},'Dolor\x20crónico\x20según\x20contexto':{'noc':[_0x51af54(0x1c4),_0x51af54(0x31c)],'nic':[_0x51af54(0x382),_0x51af54(0x27f)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),'Educacion\x20al\x20paciente\x20y\x20su\x20familia\x20sobre\x20el\x20proceso\x20de\x20la\x20enfermedad',_0x51af54(0x288),'Promover\x20el\x20lavado\x20de\x20manos',_0x51af54(0x3b0)],'b6_por_noc':{'Bienestar\x20fisico':[_0x51af54(0x18f),'2.\x20Sustancialmente\x20comprometido',_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)],'Control\x20de\x20los\x20sintomas':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)]}},'Ingesta\x20nutricional\x20inadecuada\x20/\x20Nutrición\x20desequilibrada:\x20inferior\x20a\x20las\x20necesidades\x20corporales':{'noc':['Conducta\x20de\x20adherencia:\x20dieta\x20prescrita','Conducta\x20de\x20aumento\x20de\x20peso','Manejo\x20de\x20las\x20nauseas\x20y\x20vomitos'],'nic':[_0x51af54(0x3b1),_0x51af54(0x3b2),'Planificacion\x20de\x20las\x20comidas\x20segun\x20el\x20gusto\x20del\x20paciente'],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),'Medidas\x20no\x20farmacologicas\x20para\x20el\x20dolor\x20(posicionamiento\x20técnicas\x20de\x20relajación,\x20aplicacion\x20calor/frío)',_0x51af54(0x38b),'Proporcionar\x20o\x20remitir\x20a\x20psicoterapia'],'b6_por_noc':{'Conducta\x20de\x20adherencia:\x20dieta\x20prescrita':['1.\x20Nunca\x20demostrado','2.\x20Raramente\x20demostrado',_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Conducta\x20de\x20aumento\x20de\x20peso':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Manejo\x20de\x20las\x20nauseas\x20y\x20vomitos':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado','3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)]}},'Integridad\x20tisular\x20deteriorada\x20/\x20Integridad\x20cutánea\x20deteriorada':{'noc':[_0x51af54(0x392),_0x51af54(0x232)],'nic':[_0x51af54(0x20d),_0x51af54(0x1fc),_0x51af54(0x398),_0x51af54(0x225)],'trans':['Administracion\x20de\x20analgesicos\x20segun\x20necesidad',_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Buena\x20integridad\x20tisular:\x20piel\x20y\x20membrana\x20(temperatura,\x20sensibilidad,\x20hidratacion)':[_0x51af54(0x18f),_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),_0x51af54(0x2e2)],'Correcta\x20cicatrizacion\x20de\x20las\x20heridas':['1.\x20Ninguno',_0x51af54(0x397),_0x51af54(0x2b7),_0x51af54(0x2e3),_0x51af54(0x2aa)]}},'Riesgo\x20de\x20autogestion\x20del\x20linfedema\x20ineficaz':{'noc':[_0x51af54(0x204)],'nic':[_0x51af54(0x306),_0x51af54(0x1a0),_0x51af54(0x38d)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),'Medidas\x20no\x20farmacologicas\x20para\x20el\x20dolor\x20(posicionamiento\x20técnicas\x20de\x20relajación,\x20aplicacion\x20calor/frío)','Promover\x20el\x20lavado\x20de\x20manos',_0x51af54(0x3b0)],'b6_por_noc':{'Disminuir\x20la\x20severidad\x20del\x20linfedema':[_0x51af54(0x1a3),_0x51af54(0x150),_0x51af54(0x2b7),_0x51af54(0x34f),_0x51af54(0x258)]}},'Riesgo\x20de\x20deterioro\x20del\x20equilibrio\x20de\x20volumen\x20de\x20líquidos':{'noc':[_0x51af54(0x280)],'nic':[_0x51af54(0x3a1),_0x51af54(0x286),_0x51af54(0x2f4)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),'Medidas\x20no\x20farmacologicas\x20para\x20el\x20dolor\x20(posicionamiento\x20técnicas\x20de\x20relajación,\x20aplicacion\x20calor/frío)','Promover\x20el\x20lavado\x20de\x20manos',_0x51af54(0x3b0)],'b6_por_noc':{'Mantener\x20un\x20equilibrio\x20hidrico':[_0x51af54(0x18f),_0x51af54(0x373),_0x51af54(0x3c7),_0x51af54(0x3d3),_0x51af54(0x2e2)]}},'Riesgo\x20de\x20estreñimiento':{'noc':['Disminuir\x20la\x20severidad\x20de\x20los\x20sintomas',_0x51af54(0x2cc)],'nic':[_0x51af54(0x21e),_0x51af54(0x196),_0x51af54(0x3a5)],'trans':[_0x51af54(0x3c4),'Administracion\x20de\x20antiemeticos',_0x51af54(0x148),_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Disminuir\x20la\x20severidad\x20de\x20los\x20sintomas':['1.\x20Grave','2.\x20Sustancial',_0x51af54(0x2b7),'4.\x20Leve',_0x51af54(0x258)],'Estado\x20nutricional\x20adecuado\x20de\x20alimentos\x20y\x20liquidos':[_0x51af54(0x391),_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal',_0x51af54(0x346),_0x51af54(0x223)]}},'Riesgo\x20de\x20infección':{'noc':['Automanejo:\x20enfermedad\x20cronica','Control\x20del\x20riesgo:\x20proceso\x20infeccioso'],'nic':[_0x51af54(0x1e4),_0x51af54(0x387),'Vigilancia\x20de\x20signos\x20de\x20infección'],'trans':['Administracion\x20de\x20analgesicos\x20segun\x20necesidad',_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),'Medidas\x20no\x20farmacologicas\x20para\x20el\x20dolor\x20(posicionamiento\x20técnicas\x20de\x20relajación,\x20aplicacion\x20calor/frío)',_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Control\x20del\x20riesgo:\x20proceso\x20infeccioso':['1.\x20Gravemente\x20comprometido','2.\x20Sustancialmente\x20comprometido','3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),_0x51af54(0x2e2)],'Automanejo:\x20enfermedad\x20cronica':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado','3.\x20A\x20veces\x20demostrado',_0x51af54(0x36b),_0x51af54(0x28d)]}},'Riesgo\x20de\x20sangrado\x20excesivo':{'noc':[_0x51af54(0x1fd),_0x51af54(0x203)],'nic':['Aplicar\x20medidas\x20de\x20prevencion\x20(evitar\x20procedimientos\x20invasivos\x20innecesarios)',_0x51af54(0x3f2)],'trans':[_0x51af54(0x3c4),_0x51af54(0x1c2),_0x51af54(0x148),_0x51af54(0x371),_0x51af54(0x288),_0x51af54(0x38b),_0x51af54(0x3b0)],'b6_por_noc':{'Ausencia\x20de\x20episodios\x20hemorrágicos':[_0x51af54(0x1a3),_0x51af54(0x150),_0x51af54(0x2b7),_0x51af54(0x34f),'5.\x20Ninguno'],'Identificar\x20factores\x20de\x20riesgo':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado',_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)]}}},'Endocrina/\x20metabolica':{'Riesgo\x20de\x20deterioro\x20de\x20la\x20integridad\x20cutánea\x20(pie\x20diabético)':{'noc':[_0x51af54(0x231)],'nic':[_0x51af54(0x2f0),'Cuidados\x20de\x20los\x20pies:\x20inspeccionar\x20diariamente\x20pies\x20y\x20calzado,\x20mantener\x20higiene\x20y\x20evitar\x20lesiones',_0x51af54(0x2dd)],'trans':[_0x51af54(0x1db),_0x51af54(0x26e),'Fomento\x20del\x20autocuidado:\x20promover\x20la\x20participación\x20activa\x20del\x20paciente\x20en\x20su\x20tratamiento,\x20higiene,\x20control\x20dietético\x20y\x20actividad\x20física',_0x51af54(0x1c0),'Monitorización\x20de\x20signos\x20vitales:\x20controlar\x20presión\x20arterial,\x20frecuencia\x20cardíaca,\x20temperatura\x20y\x20frecuencia\x20respiratoria,\x20identificando\x20signos\x20tempranos\x20de\x20desequilibrio\x20metabólico\x20o\x20hemodinámico',_0x51af54(0x388)],'b6_por_noc':{'Piel\x20intacta,\x20sin\x20lesiones':[_0x51af54(0x3d9),_0x51af54(0x1d4),_0x51af54(0x2f6),_0x51af54(0x16e)]}},'Riesgo\x20de\x20nivel\x20de\x20glucemia\x20inestable':{'noc':['Glucemia\x20controlada\x20(70–120\x20mg/dL)'],'nic':[_0x51af54(0x3a2),_0x51af54(0x250),'Prevención\x20de\x20hipoglucemia:\x20identificar\x20signos\x20tempranos\x20de\x20hipoglucemia\x20y\x20aplicar\x20medidas\x20correctivas'],'trans':[_0x51af54(0x1db),'Educación\x20para\x20la\x20salud:\x20Instruir\x20al\x20paciente\x20sobre\x20dieta,\x20adherencia\x20al\x20tratamiento,\x20autocontrol\x20de\x20glucemia,\x20hidratación\x20y\x20signos\x20de\x20alarma',_0x51af54(0x1a9),_0x51af54(0x1c0),_0x51af54(0x354),'Prevención\x20de\x20complicaciones:\x20enseñar\x20medidas\x20preventivas\x20ante\x20hipoglucemia,\x20infecciones,\x20desequilibrio\x20hídrico\x20y\x20alteraciones\x20térmicas'],'b6_por_noc':{'Glucemia\x20controlada\x20(70–120\x20mg/dL)':[_0x51af54(0x1e9),_0x51af54(0x30a),_0x51af54(0x2d2),'4,\x20Adecuada']}},'Riesgo\x20de\x20síndrome\x20metabólico':{'noc':[_0x51af54(0x327)],'nic':[_0x51af54(0x19d),_0x51af54(0x3f5)],'trans':['Apoyo\x20emocional:\x20brindar\x20escucha\x20activa,\x20seguridad\x20y\x20acompañamiento\x20frente\x20al\x20estrés\x20de\x20la\x20enfermedad\x20crónica\x20o\x20los\x20síntomas\x20persistentes',_0x51af54(0x26e),_0x51af54(0x1a9),'Manejo\x20de\x20la\x20medicación:\x20supervisar\x20la\x20administración\x20correcta\x20de\x20insulina,\x20antidiabéticos,\x20diuréticos\x20o\x20soluciones\x20IV\x20según\x20el\x20caso,\x20controlando\x20su\x20eficacia\x20y\x20efectos\x20secundarios',_0x51af54(0x354),_0x51af54(0x388)],'b6_por_noc':{'Parámetros\x20metabólicos\x20normales':[_0x51af54(0x284),'2\x20.\x20Moderadamente\x20alterado','3\x20.\x20Levemente\x20alterado',_0x51af54(0x16e)]}},'Exceso\x20de\x20volumen\x20de\x20líquidos':{'noc':[_0x51af54(0x301)],'nic':[_0x51af54(0x35b),'Monitorización\x20de\x20líquidos:\x20restringir\x20líquidos\x20según\x20indicación\x20médica\x20y\x20registrar\x20balance\x20hídrico',_0x51af54(0x2cb)],'trans':['Apoyo\x20emocional:\x20brindar\x20escucha\x20activa,\x20seguridad\x20y\x20acompañamiento\x20frente\x20al\x20estrés\x20de\x20la\x20enfermedad\x20crónica\x20o\x20los\x20síntomas\x20persistentes',_0x51af54(0x26e),'Fomento\x20del\x20autocuidado:\x20promover\x20la\x20participación\x20activa\x20del\x20paciente\x20en\x20su\x20tratamiento,\x20higiene,\x20control\x20dietético\x20y\x20actividad\x20física',_0x51af54(0x1c0),_0x51af54(0x354),_0x51af54(0x388)],'b6_por_noc':{'Disminución\x20de\x20edema':[_0x51af54(0x3e3),_0x51af54(0x37a),_0x51af54(0x350),_0x51af54(0x352)]}},'Fatiga':{'noc':[_0x51af54(0x2b5)],'nic':['Fomento\x20del\x20ejercicio:\x20promover\x20actividad\x20física\x20gradual\x20y\x20tolerada',_0x51af54(0x3ee),'Mejorar\x20el\x20sueño:\x20favorecer\x20hábitos\x20de\x20descanso\x20y\x20sueño\x20reparador'],'trans':[_0x51af54(0x1db),_0x51af54(0x26e),_0x51af54(0x1a9),_0x51af54(0x1c0),'Monitorización\x20de\x20signos\x20vitales:\x20controlar\x20presión\x20arterial,\x20frecuencia\x20cardíaca,\x20temperatura\x20y\x20frecuencia\x20respiratoria,\x20identificando\x20signos\x20tempranos\x20de\x20desequilibrio\x20metabólico\x20o\x20hemodinámico',_0x51af54(0x388)],'b6_por_noc':{'Nivel\x20de\x20energía\x20adecuado':[_0x51af54(0x3d9),_0x51af54(0x32d),_0x51af54(0x1d4),_0x51af54(0x1d6),_0x51af54(0x2f6),_0x51af54(0x193),_0x51af54(0x16e),_0x51af54(0x3c3)]}},'Riesgo\x20de\x20desequilibrio\x20en\x20el\x20balance\x20de\x20volumen\x20de\x20líquidos':{'noc':['Balance\x20hídrico\x20mantenido'],'nic':['Monitorización\x20de\x20líquidos:\x20registrar\x20ingesta,\x20diuresis\x20y\x20pérdidas\x20para\x20prevenir\x20tanto\x20déficit\x20como\x20exceso\x20de\x20volumen',_0x51af54(0x294),_0x51af54(0x1a6),_0x51af54(0x1e6)],'trans':[_0x51af54(0x1db),_0x51af54(0x26e),_0x51af54(0x1a9),_0x51af54(0x1c0),'Monitorización\x20de\x20signos\x20vitales:\x20controlar\x20presión\x20arterial,\x20frecuencia\x20cardíaca,\x20temperatura\x20y\x20frecuencia\x20respiratoria,\x20identificando\x20signos\x20tempranos\x20de\x20desequilibrio\x20metabólico\x20o\x20hemodinámico',_0x51af54(0x388)],'b6_por_noc':{'Balance\x20hídrico\x20mantenido':[_0x51af54(0x32a),_0x51af54(0x1e8),_0x51af54(0x21d),'4,\x20Mantenido']}},'Riesgo\x20de\x20temperatura\x20corporal\x20ineficaz':{'noc':[_0x51af54(0x1f7)],'nic':['Prevención\x20de\x20hipertermia:\x20fomentar\x20hidratación,\x20ropa\x20liviana\x20y\x20control\x20del\x20calor\x20ambiental','Prevención\x20de\x20hipotermia:\x20mantener\x20abrigo,\x20evitar\x20exposición\x20al\x20frío\x20y\x20controlar\x20la\x20temperatura\x20ambiental','Regulación\x20de\x20la\x20temperatura:\x20monitorizar\x20temperatura\x20corporal\x20y\x20ajustar\x20el\x20ambiente\x20según\x20necesidad'],'trans':[_0x51af54(0x1db),_0x51af54(0x26e),'Fomento\x20del\x20autocuidado:\x20promover\x20la\x20participación\x20activa\x20del\x20paciente\x20en\x20su\x20tratamiento,\x20higiene,\x20control\x20dietético\x20y\x20actividad\x20física',_0x51af54(0x1c0),_0x51af54(0x354),_0x51af54(0x388)],'b6_por_noc':{'Temperatura\x20corporal\x20normal':[_0x51af54(0x284),'2\x20.\x20Moderadamente\x20alterado',_0x51af54(0x289),_0x51af54(0x16e)]}},'Volumen\x20de\x20líquidos\x20inadecuado':{'noc':['Equilibrio\x20de\x20líquidos\x20restaurado'],'nic':['Monitorización\x20de\x20líquidos:\x20registrar\x20balance\x20hídrico,\x20presión\x20arterial\x20y\x20diuresis',_0x51af54(0x206),_0x51af54(0x1a8)],'trans':[_0x51af54(0x1db),'Educación\x20para\x20la\x20salud:\x20Instruir\x20al\x20paciente\x20sobre\x20dieta,\x20adherencia\x20al\x20tratamiento,\x20autocontrol\x20de\x20glucemia,\x20hidratación\x20y\x20signos\x20de\x20alarma',_0x51af54(0x1a9),'Manejo\x20de\x20la\x20medicación:\x20supervisar\x20la\x20administración\x20correcta\x20de\x20insulina,\x20antidiabéticos,\x20diuréticos\x20o\x20soluciones\x20IV\x20según\x20el\x20caso,\x20controlando\x20su\x20eficacia\x20y\x20efectos\x20secundarios',_0x51af54(0x354),_0x51af54(0x388)],'b6_por_noc':{'Equilibrio\x20de\x20líquidos\x20restaurado':[_0x51af54(0x32d),_0x51af54(0x1d6),_0x51af54(0x28e),_0x51af54(0x3c3)]}}},'Geriátrica/Fragilidad':{'Ansiedad\x20excesiva':{'noc':[_0x51af54(0x3ca)],'nic':['Apoyo\x20emocional',_0x51af54(0x31f),_0x51af54(0x1d5)],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),_0x51af54(0x322),_0x51af54(0x2e4),_0x51af54(0x3c0)],'b6_por_noc':{'Nivel\x20de\x20ansiedad\x20reducido':['1.\x20Ansiedad\x20grave',_0x51af54(0x334),_0x51af54(0x1e5),_0x51af54(0x200),'5.\x20Sin\x20ansiedad']}},'Confusión\x20aguda':{'noc':[_0x51af54(0x3e5)],'nic':[_0x51af54(0x144),_0x51af54(0x1c5),_0x51af54(0x30f)],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),_0x51af54(0x322),_0x51af54(0x2e4),_0x51af54(0x3c0)],'b6_por_noc':{'Orientación\x20temporal\x20y\x20espacial\x20mantenida':[_0x51af54(0x3be),_0x51af54(0x1f5),_0x51af54(0x1d0),_0x51af54(0x245),_0x51af54(0x30b)]}},'Confusión\x20crónica':{'noc':[_0x51af54(0x2c1)],'nic':[_0x51af54(0x1f4),'Apoyo\x20y\x20educación\x20familiar',_0x51af54(0x164)],'trans':['Apoyo\x20y\x20expresión\x20emocional',_0x51af54(0x2f2),_0x51af54(0x322),'Orientación\x20de\x20la\x20realidad',_0x51af54(0x3c0)],'b6_por_noc':{'Mantenimiento\x20de\x20funciones\x20residuales':['1.\x20Mantenimiento\x20de\x20funciones\x20residuales\x20gravemente\x20comprometido',_0x51af54(0x219),_0x51af54(0x248),'4.\x20Mantenimiento\x20de\x20funciones\x20residuales\x20levemente\x20comprometido',_0x51af54(0x2da)]}},'Deterioro\x20de\x20la\x20memoria':{'noc':[_0x51af54(0x159)],'nic':[_0x51af54(0x340),_0x51af54(0x2d3),_0x51af54(0x314)],'trans':[_0x51af54(0x29b),'Asistencia\x20en\x20el\x20autocuidado',_0x51af54(0x322),_0x51af54(0x2e4),_0x51af54(0x3c0)],'b6_por_noc':{'Memoria\x20funcional\x20conservada':['1.\x20Nunca\x20demuestra\x20recordar\x20con\x20precisión\x20información\x20a\x20corto,\x20mediano\x20y\x20largo\x20plazo',_0x51af54(0x2cd),'3.\x20A\x20veces\x20demuestra\x20recordar\x20con\x20precisión\x20información\x20a\x20corto,\x20mediano\x20y\x20largo\x20plazo',_0x51af54(0x15f),'5.\x20Siempre\x20demuestra\x20recordar\x20con\x20precisión\x20información\x20a\x20corto,\x20mediano\x20y\x20largo\x20plazo']}},'Deterioro\x20de\x20la\x20movilidad\x20física':{'noc':['Movilidad\x20independiente'],'nic':[_0x51af54(0x178),_0x51af54(0x2af),_0x51af54(0x202)],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),_0x51af54(0x322),_0x51af54(0x2e4),_0x51af54(0x3c0)],'b6_por_noc':{'Movilidad\x20independiente':[_0x51af54(0x2cf),_0x51af54(0x3a3),_0x51af54(0x2d4),'4.\x20Movilidad\x20independiente\x20levemente\x20comprometida',_0x51af54(0x2e7)]}},'Duelo\x20disfuncional':{'noc':['Adaptación\x20al\x20duelo'],'nic':[_0x51af54(0x3c5),_0x51af54(0x15d),_0x51af54(0x199)],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),_0x51af54(0x322),'Orientación\x20de\x20la\x20realidad',_0x51af54(0x3c0)],'b6_por_noc':{'Adaptación\x20al\x20duelo':[_0x51af54(0x3da),_0x51af54(0x37f),_0x51af54(0x2eb),_0x51af54(0x1aa),_0x51af54(0x1a1)]}},'Déficit\x20de\x20autocuidado\x20(alimentación,\x20baño,\x20vestido,\x20uso\x20del\x20inodoro)':{'noc':[_0x51af54(0x259)],'nic':[_0x51af54(0x163),'Asistencia\x20parcial\x20en\x20actividades\x20de\x20la\x20vida\x20diaria',_0x51af54(0x2b3),'Promoción\x20de\x20la\x20independencia'],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),_0x51af54(0x322),_0x51af54(0x2e4),_0x51af54(0x3c0)],'b6_por_noc':{'Actividades\x20de\x20la\x20vida\x20diaria\x20realizadas\x20con\x20apoyo\x20mínimo':[_0x51af54(0x172),_0x51af54(0x2db),_0x51af54(0x20e),'4.\x20Capacidad\x20frecuentemente\x20demostrada\x20de\x20realización\x20independiente\x20de\x20actividades\x20de\x20la\x20vida\x20diaria','5.\x20Capacidad\x20siempre\x20demostrada\x20de\x20realización\x20independiente\x20de\x20actividades\x20de\x20la\x20vida\x20diaria']}},'Riesgo\x20de\x20caídas':{'noc':['Ausencia\x20de\x20caídas',_0x51af54(0x282)],'nic':[_0x51af54(0x163),_0x51af54(0x14a),_0x51af54(0x2fc)],'trans':['Apoyo\x20y\x20expresión\x20emocional',_0x51af54(0x2f2),'Fomento\x20de\x20la\x20seguridad\x20del\x20anciano\x20frágil','Orientación\x20de\x20la\x20realidad',_0x51af54(0x3c0)],'b6_por_noc':{'Ausencia\x20de\x20caídas':[_0x51af54(0x36d),'2.\x207\x20a\x209\x20caídas\x20durante\x20estancia',_0x51af54(0x2a2),_0x51af54(0x152),_0x51af54(0x321)],'Marcha\x20Segura':[_0x51af54(0x263),_0x51af54(0x210),_0x51af54(0x369),_0x51af54(0x3cd),_0x51af54(0x2bf)]}},'Riesgo\x20de\x20desequilibrio\x20electrolítico':{'noc':[_0x51af54(0x156)],'nic':['Educación\x20sobre\x20dieta',_0x51af54(0x3c2),'Monitoreo\x20de\x20electrolitos,\x20hidratación,\x20educación\x20sobre\x20dieta'],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),'Fomento\x20de\x20la\x20seguridad\x20del\x20anciano\x20frágil','Orientación\x20de\x20la\x20realidad',_0x51af54(0x3c0)],'b6_por_noc':{'Equilibrio\x20electrolítico\x20estable':[_0x51af54(0x26f),_0x51af54(0x2a0),_0x51af54(0x145),_0x51af54(0x1b9),_0x51af54(0x381)]}},'Riesgo\x20de\x20síndrome\x20de\x20fragilidad\x20del\x20anciano':{'noc':[_0x51af54(0x1f3)],'nic':[_0x51af54(0x226),_0x51af54(0x399),'Vigilancia\x20de\x20fármacos'],'trans':[_0x51af54(0x29b),_0x51af54(0x2f2),'Fomento\x20de\x20la\x20seguridad\x20del\x20anciano\x20frágil',_0x51af54(0x2e4),_0x51af54(0x3c0)],'b6_por_noc':{'Función\x20física\x20y\x20cognitiva\x20mantenida':[_0x51af54(0x329),'2.\x20Función\x20física\x20y\x20cognitiva\x20sustancialmente\x20comprometida',_0x51af54(0x140),_0x51af54(0x3a7),_0x51af54(0x2fa)]}}},'Infecciosas':{'Ansiedad':{'noc':[_0x51af54(0x216),_0x51af54(0x1c6)],'nic':[_0x51af54(0x148),_0x51af54(0x14f),_0x51af54(0x13d),_0x51af54(0x30e),_0x51af54(0x1d5)],'trans':[_0x51af54(0x1ac),'Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20medianteControl\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos',_0x51af54(0x1f0),_0x51af54(0x34e),_0x51af54(0x157),_0x51af54(0x17c),_0x51af54(0x36c)],'b6_por_noc':{'Nivel\x20de\x20ansiedad.':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),_0x51af54(0x223)],'Afrontamiento\x20de\x20la\x20enfermedad.':['1.\x20Desviación\x20grave\x20del\x20rango\x20normal',_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),'5.\x20Sin\x20desviación\x20del\x20rango\x20normal']}},'Carga\x20excesiva\x20de\x20la\x20fatiga':{'noc':['Bienestar\x20personal:\x20sensación\x20general\x20de\x20equilibrio\x20físico\x20y\x20mental.','Conservación\x20de\x20la\x20energía:\x20capacidad\x20para\x20equilibrar\x20actividad\x20y\x20descanso\x20según\x20las\x20necesidades.','Energía\x20adecuada\x20.'],'nic':[_0x51af54(0x28f),_0x51af54(0x24e),_0x51af54(0x146),_0x51af54(0x14e),_0x51af54(0x1b3),_0x51af54(0x291)],'trans':['4.Monitorización\x20respiratoria:\x20vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O₂',_0x51af54(0x247),'6.Control\x20de\x20infecciones:\x20implementar\x20y\x20supervisar\x20prácticas\x20de\x20asepsia\x20e\x20higiene\x20en\x20la\x20atención\x20directa',_0x51af54(0x36e),'Control\x20de\x20infecciones:\x20implementar\x20y\x20supervisar\x20prácticas\x20de\x20asepsia\x20e\x20higiene\x20en\x20la\x20atención\x20directa','Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20mediante\x20control\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos.',_0x51af54(0x18b),_0x51af54(0x1f0),_0x51af54(0x2e9),'Monitorización\x20de\x20signos\x20vitales:Controlar\x20periódicamente\x20temperatura,\x20FC,\x20FR,\x20PA\x20y\x20SpO₂\x20para\x20detectar\x20cambios\x20tempranos','Monitorización\x20respiratoria:\x20vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O₂','Oxigenoterapia\x20:\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20del\x20paciente',_0x51af54(0x36c)],'b6_por_noc':{'Energía\x20adecuada\x20.':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),'5.\x20Sin\x20desviación\x20del\x20rango\x20normal'],'Conservación\x20de\x20la\x20energía:\x20capacidad\x20para\x20equilibrar\x20actividad\x20y\x20descanso\x20según\x20las\x20necesidades.':['1.\x20Desviación\x20grave\x20del\x20rango\x20normal',_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal',_0x51af54(0x346),'5.\x20Sin\x20desviación\x20del\x20rango\x20normal'],'Bienestar\x20personal:\x20sensación\x20general\x20de\x20equilibrio\x20físico\x20y\x20mental.':[_0x51af54(0x391),'2.\x20Desviación\x20sustancial\x20del\x20rango\x20normal',_0x51af54(0x16f),_0x51af54(0x346),_0x51af54(0x223)]}},'Dolor\x20agudo':{'noc':[_0x51af54(0x3eb),'Control\x20del\x20dolor.'],'nic':[_0x51af54(0x29a),_0x51af54(0x148),'Disminución\x20de\x20la\x20ansiedad.',_0x51af54(0x192),_0x51af54(0x3ea)],'trans':[_0x51af54(0x1ac),_0x51af54(0x18b),_0x51af54(0x1f0),_0x51af54(0x34e),'Monitorización\x20respiratoria:\x20vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O₂',_0x51af54(0x17c),_0x51af54(0x36c)],'b6_por_noc':{'Control\x20del\x20dolor.':['1.\x20Desviación\x20grave\x20del\x20rango\x20normal',_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),_0x51af54(0x223)],'Bienestar\x20físico.':[_0x51af54(0x391),'2.\x20Desviación\x20sustancial\x20del\x20rango\x20normal',_0x51af54(0x16f),'4.\x20Desviación\x20leve\x20del\x20rango\x20normal','5.\x20Sin\x20desviación\x20del\x20rango\x20normal']}},'Hipertermia':{'noc':[_0x51af54(0x3e1),_0x51af54(0x3d6)],'nic':[_0x51af54(0x256),_0x51af54(0x229),_0x51af54(0x27d),_0x51af54(0x3e6),'Monitorización\x20de\x20signos\x20vitales:\x20Control\x20continuo\x20de\x20temperatura,\x20FC\x20y\x20FR.',_0x51af54(0x3ad)],'trans':[_0x51af54(0x1ac),'Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20mediante\x20control\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos.',_0x51af54(0x1f0),_0x51af54(0x2e9),_0x51af54(0x157),_0x51af54(0x2c6),_0x51af54(0x28a)],'b6_por_noc':{'Termorregulación':[_0x51af54(0x18f),_0x51af54(0x373),'3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),_0x51af54(0x2e2)],'Conocimiento:\x20manejo\x20de\x20la\x20enfermedad\x20aguda':[_0x51af54(0x188),'2.\x20Conocimiento\x20escaso',_0x51af54(0x233),'4.\x20Conocimiento\x20sustancial',_0x51af54(0x3e2)]}},'Patrón\x20respiratorio\x20ineficaz\x20(en\x20neumonía\x20o\x20sepsis\x20pulmonar)':{'noc':[_0x51af54(0x13c),_0x51af54(0x249),_0x51af54(0x20a)],'nic':[_0x51af54(0x2e5),_0x51af54(0x3e4),_0x51af54(0x2c4),_0x51af54(0x3b4),'Oxigenoterapia,\x20fisioterapia\x20respiratoria,\x20control\x20antibiótico.',_0x51af54(0x3bf)],'trans':[_0x51af54(0x1ac),'Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20mediante\x20control\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos.',_0x51af54(0x1f0),'Monitorización\x20de\x20signos\x20vitales:\x20controlar\x20periódicamente\x20temperatura,\x20FC,\x20FR,\x20PA\x20y\x20SpO₂\x20para\x20detectar\x20cambios\x20tempranos.',_0x51af54(0x157),_0x51af54(0x2c6),'Protección\x20contra\x20infecciones:\x20establecer\x20medidas\x20preventivas\x20frente\x20a\x20\x20exposición\x20a\x20agentes\x20patógenos.'],'b6_por_noc':{'Ventilación\x20adecuada,\x20gases\x20arteriales\x20normales\x20.':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),'5.\x20Sin\x20desviación\x20del\x20rango\x20normal'],'Estado\x20cardiovascular:\x20perfusión\x20tisular:\x20eficacia\x20de\x20la\x20circulación\x20sistémica\x20para\x20aportar\x20oxígeno\x20a\x20tejidos.':[_0x51af54(0x391),_0x51af54(0x331),_0x51af54(0x16f),_0x51af54(0x346),'5.\x20Sin\x20desviación\x20del\x20rango\x20normal'],'Estado\x20respiratorio:\x20ventilación:\x20efectividad\x20en\x20el\x20intercambio\x20y\x20movimiento\x20de\x20aire.':[_0x51af54(0x391),'2.\x20Desviación\x20sustancial\x20del\x20rango\x20normal','3.\x20Desviación\x20moderada\x20del\x20rango\x20normal',_0x51af54(0x346),'5.\x20Sin\x20desviación\x20del\x20rango\x20normal']}},'Riesgo\x20de\x20aspiración\x20(en\x20neumonía\x20o\x20sepsis\x20respiratoria)':{'noc':[_0x51af54(0x189),_0x51af54(0x1b5)],'nic':[_0x51af54(0x283),_0x51af54(0x300),_0x51af54(0x1f1),_0x51af54(0x38c),_0x51af54(0x186),_0x51af54(0x2bb)],'trans':[_0x51af54(0x1ac),'Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20mediante\x20control\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos.','Manejo\x20de\x20vías\x20respiratorias:\x20asegurar\x20la\x20permeabilidad\x20de\x20las\x20vías\x20respiratorias\x20por\x20posición,\x20succión\x20o\x20humidificación',_0x51af54(0x2e9),_0x51af54(0x157),_0x51af54(0x2c6),_0x51af54(0x28a)],'b6_por_noc':{'Ausencia\x20de\x20signos\x20de\x20aspiración':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Permeabilidad\x20de\x20las\x20vías\x20aéreas:\x20grado\x20de\x20permeabilidad\x20y\x20ausencia\x20de\x20obstrucciones':[_0x51af54(0x391),_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal',_0x51af54(0x346),_0x51af54(0x223)]}},'Riesgo\x20de\x20caídas':{'noc':[_0x51af54(0x37b),_0x51af54(0x27e)],'nic':['Fomento\x20del\x20descanso.',_0x51af54(0x2c9),_0x51af54(0x1dc),_0x51af54(0x27c),_0x51af54(0x298)],'trans':[_0x51af54(0x1ac),'Manejo\x20de\x20líquidos:\x20mantener\x20equilibrio\x20hídrico\x20medianteControl\x20de\x20ingesta,\x20pérdidas\x20y\x20administración\x20de\x20fluidos',_0x51af54(0x1f0),_0x51af54(0x34e),_0x51af54(0x157),_0x51af54(0x17c),_0x51af54(0x36c)],'b6_por_noc':{'Prevención\x20de\x20caídas.':[_0x51af54(0x391),_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal',_0x51af54(0x346),_0x51af54(0x223)],'Equilibrio.':[_0x51af54(0x391),'2.\x20Desviación\x20sustancial\x20del\x20rango\x20normal',_0x51af54(0x16f),_0x51af54(0x346),_0x51af54(0x223)]}},'Riesgo\x20de\x20infección':{'noc':[_0x51af54(0x1c9),_0x51af54(0x2ee),_0x51af54(0x3d1)],'nic':['Asepsia,\x20higiene\x20de\x20manos,\x20educación,\x20aislamiento\x20según\x20necesidad.',_0x51af54(0x3c8),'Identificación\x20de\x20riesgos:\x20Reconocer\x20y\x20controlar\x20factores\x20predisponentes\x20(heridas,\x20dispositivos,\x20inmunosupresión).',_0x51af54(0x18e),_0x51af54(0x3d5),'Protección\x20contra\x20infecciones:\x20Aplicar\x20medidas\x20de\x20aislamiento,\x20asepsia\x20y\x20educación\x20para\x20prevenir\x20infecciones.'],'trans':['Control\x20de\x20infecciones:\x20implementar\x20y\x20supervisar\x20prácticas\x20de\x20asepsia\x20e\x20higiene\x20en\x20la\x20atención\x20directa',_0x51af54(0x14b),_0x51af54(0x1f0),_0x51af54(0x2e9),'Monitorización\x20respiratoria:\x20vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O₂',_0x51af54(0x2c6),'Protección\x20contra\x20infecciones:\x20establecer\x20medidas\x20preventivas\x20frente\x20a\x20\x20exposición\x20a\x20agentes\x20patógenos.'],'b6_por_noc':{'Ajusta\x20las\x20estrategias\x20de\x20control\x20de\x20riesgos':[_0x51af54(0x2f9),_0x51af54(0x3a4),'3.\x20A\x20veces\x20demostrado','4.\x20Frecuentemente\x20demostrado',_0x51af54(0x28d)],'Evita\x20la\x20exposición\x20a\x20amenazas\x20para\x20la\x20salud':[_0x51af54(0x2f9),'2.\x20Raramente\x20demostrado',_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)],'Severidad\x20de\x20la\x20infección':[_0x51af54(0x1a3),_0x51af54(0x150),'3.\x20Moderado',_0x51af54(0x34f),'5.\x20Ninguno']}},'Riesgo\x20de\x20shock':{'noc':[_0x51af54(0x13c),_0x51af54(0x297),'Severidad\x20del\x20shock:\x20séptico'],'nic':[_0x51af54(0x272),_0x51af54(0x160),_0x51af54(0x267),_0x51af54(0x3cb),_0x51af54(0x235),_0x51af54(0x153)],'trans':[_0x51af54(0x1ac),_0x51af54(0x23f),_0x51af54(0x14b),_0x51af54(0x1f0),_0x51af54(0x2e9),_0x51af54(0x157),'Oxigenoterapia\x20:\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20del\x20paciente.','Protección\x20contra\x20infecciones:\x20establecer\x20medidas\x20preventivas\x20frente\x20a\x20\x20exposición\x20a\x20agentes\x20patógenos',_0x51af54(0x28a)],'b6_por_noc':{'Severidad\x20del\x20shock:\x20séptico':[_0x51af54(0x1a3),_0x51af54(0x150),_0x51af54(0x2b7),'4.\x20Leve','5.\x20Ninguno'],'Estado\x20cardiovascular:\x20perfusión\x20tisular:\x20eficacia\x20de\x20la\x20circulación\x20sistémica\x20para\x20aportar\x20oxígeno\x20a\x20tejidos.':[_0x51af54(0x391),'2.\x20Desviación\x20sustancial\x20del\x20rango\x20normal',_0x51af54(0x16f),'4.\x20Desviación\x20leve\x20del\x20rango\x20normal',_0x51af54(0x223)],'Estado\x20respiratorio:\x20ventilación:\x20efectividad\x20en\x20el\x20intercambio\x20y\x20movimiento\x20de\x20aire':[_0x51af54(0x391),_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal','4.\x20Desviación\x20leve\x20del\x20rango\x20normal',_0x51af54(0x223)]}}},'Neuropsiquiátrica':{'Confusión\x20crónica\x20/\x20demencia':{'noc':['Autocuidado:\x20Realizacion\x20de\x20actividades\x20de\x20la\x20vida\x20diaria'],'nic':[_0x51af54(0x3e9),_0x51af54(0x35c),_0x51af54(0x3d4),_0x51af54(0x2e6),_0x51af54(0x31b)],'trans':[_0x51af54(0x3b7),'Comunicacion\x20terapeutica:\x20usar\x20frases\x20cortas,\x20evitar\x20confrontaciones',_0x51af54(0x3b9),_0x51af54(0x2d8),_0x51af54(0x348),_0x51af54(0x33e),_0x51af54(0x1d1),_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Autocuidado:\x20Realizacion\x20de\x20actividades\x20de\x20la\x20vida\x20diaria':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),_0x51af54(0x36b),_0x51af54(0x28d)]}},'Alteración\x20de\x20la\x20memoria':{'noc':['Memoria'],'nic':['Apoyo\x20familiar',_0x51af54(0x158),'Establecer\x20rutinas',_0x51af54(0x36a)],'trans':[_0x51af54(0x3b7),'Comunicacion\x20terapeutica:\x20usar\x20frases\x20cortas,\x20evitar\x20confrontaciones',_0x51af54(0x3b9),_0x51af54(0x2d8),_0x51af54(0x348),'Mantener\x20entorno\x20tranquilo,\x20iluminado\x20y\x20con\x20rutinas\x20estable',_0x51af54(0x1d1),_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Memoria':[_0x51af54(0x2f9),_0x51af54(0x3a4),_0x51af54(0x170),'4.\x20Frecuentemente\x20demostrado','5.\x20Siempre\x20demostrado']}},'Comunicación\x20verbal\x20deteriorada':{'noc':[_0x51af54(0x37d)],'nic':['Educar\x20a\x20la\x20familia',_0x51af54(0x315),'Promover\x20tiempo\x20suficiente\x20para\x20responder',_0x51af54(0x21c),_0x51af54(0x1fb)],'trans':[_0x51af54(0x3b7),_0x51af54(0x358),'Evaluar\x20estado\x20neurologico\x20y\x20registrar\x20cambios\x20del\x20compaortamiento\x20o\x20cognicion','Fomentar\x20la\x20participacion\x20de\x20decisiones\x20y\x20rutinas',_0x51af54(0x348),'Mantener\x20entorno\x20tranquilo,\x20iluminado\x20y\x20con\x20rutinas\x20estable',_0x51af54(0x1d1),'Orientacion\x20y\x20estimulacion\x20cognitiva,\x20reorientar\x20frecuentemente\x20a\x20la\x20persona',_0x51af54(0x320)],'b6_por_noc':{'Comunicacion':[_0x51af54(0x224),_0x51af54(0x2d5),'3.\x20Afectación\x20Moderada','4.\x20Afectación\x20Leve','5.\x20Sin\x20\x20afectación']}},'Confusión\x20aguda':{'noc':['Estado\x20cognitivo\x20favorable'],'nic':['Evaluación\x20y\x20monitorización\x20neurocognitiva\x20frecuente',_0x51af54(0x316),_0x51af54(0x17b),_0x51af54(0x238),'educación\x20a\x20familia.'],'trans':[_0x51af54(0x3b7),'Comunicacion\x20terapeutica:\x20usar\x20frases\x20cortas,\x20evitar\x20confrontaciones','Evaluar\x20estado\x20neurologico\x20y\x20registrar\x20cambios\x20del\x20compaortamiento\x20o\x20cognicion','Fomentar\x20la\x20participacion\x20de\x20decisiones\x20y\x20rutinas',_0x51af54(0x348),_0x51af54(0x33e),'Ofrecer\x20escucha\x20activa\x20y\x20apoyo\x20emocional\x20frente\x20a\x20la\x20ansiedad,\x20miedo\x20o\x20frustracion',_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Estado\x20cognitivo\x20favorable':[_0x51af54(0x224),'2.\x20Afectación\x20Sustancial',_0x51af54(0x3b5),_0x51af54(0x2ae),_0x51af54(0x22c)]}},'Riesgo\x20de\x20aspiración':{'noc':['Estado\x20respiratorio\x20estable',_0x51af54(0x3ce),_0x51af54(0x1c3)],'nic':[_0x51af54(0x2c3),_0x51af54(0x2ab),_0x51af54(0x292),_0x51af54(0x176),'Texturización\x20de\x20dietas',_0x51af54(0x364)],'trans':[_0x51af54(0x3b7),'Comunicacion\x20terapeutica:\x20usar\x20frases\x20cortas,\x20evitar\x20confrontaciones',_0x51af54(0x3b9),_0x51af54(0x2d8),_0x51af54(0x348),_0x51af54(0x33e),_0x51af54(0x1d1),_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Tolerancia\x20a\x20la\x20vía\x20oral\x20segura':['1.\x20Desviación\x20grave\x20del\x20rango\x20normal',_0x51af54(0x331),_0x51af54(0x16f),'4.\x20Desviación\x20leve\x20del\x20rango\x20normal',_0x51af54(0x223)],'Sin\x20episodios\x20de\x20aspiración':['1.\x20Desviación\x20grave\x20del\x20rango\x20normal',_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal','4.\x20Desviación\x20leve\x20del\x20rango\x20normal','5.\x20Sin\x20desviación\x20del\x20rango\x20normal'],'Estado\x20respiratorio\x20estable':['1.\x20Desviación\x20grave\x20del\x20rango\x20normal',_0x51af54(0x331),'3.\x20Desviación\x20moderada\x20del\x20rango\x20normal','4.\x20Desviación\x20leve\x20del\x20rango\x20normal',_0x51af54(0x223)]}},'Riesgo\x20de\x20caídas':{'noc':[_0x51af54(0x326)],'nic':[_0x51af54(0x2ec),_0x51af54(0x16c),'Evaluación\x20de\x20riesgo','Plan\x20de\x20prevención\x20(alarmas,\x20calzado\x20adecuado,\x20ayudas\x20para\x20marcha)',_0x51af54(0x2a6)],'trans':[_0x51af54(0x3b7),_0x51af54(0x358),_0x51af54(0x3b9),_0x51af54(0x2d8),'Manejar\x20dolor,\x20evaluar\x20y\x20tratar\x20molestias\x20fisicas\x20o\x20que\x20generen\x20cambios\x20que\x20aumenten\x20la\x20confusion',_0x51af54(0x33e),_0x51af54(0x1d1),_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Conducta\x20de\x20Prevención\x20de\x20Caídas':['1.\x20Riesgo\x20Grave',_0x51af54(0x3bb),_0x51af54(0x185),'4.\x20Riesgo\x20Leve','5.\x20Sin\x20\x20riesgo']}},'Riesgo\x20de\x20confusión\x20aguda':{'noc':[_0x51af54(0x214)],'nic':[_0x51af54(0x194),'Medidas\x20de\x20seguridad\x20y\x20educación\x20a\x20cuidadores.',_0x51af54(0x13f),_0x51af54(0x161)],'trans':[_0x51af54(0x3b7),'Comunicacion\x20terapeutica:\x20usar\x20frases\x20cortas,\x20evitar\x20confrontaciones',_0x51af54(0x3b9),_0x51af54(0x2d8),_0x51af54(0x348),'Mantener\x20entorno\x20tranquilo,\x20iluminado\x20y\x20con\x20rutinas\x20estable',_0x51af54(0x1d1),_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Control\x20Cognitivo':[_0x51af54(0x18f),'2.\x20Sustancialmente\x20comprometido','3.\x20Moderadamente\x20comprometido',_0x51af54(0x3d3),'5.\x20No\x20comprometido']}},'Riesgo\x20perfusión\x20cerebral\x20inefectiva':{'noc':['Perfusion\x20Tisular\x20Cerebral'],'nic':[_0x51af54(0x380),_0x51af54(0x1a7),'Posicionamiento\x20(evitar\x20posiciones\x20que\x20reduzcan\x20perfusión)'],'trans':[_0x51af54(0x3b7),_0x51af54(0x358),_0x51af54(0x3b9),'Fomentar\x20la\x20participacion\x20de\x20decisiones\x20y\x20rutinas','Manejar\x20dolor,\x20evaluar\x20y\x20tratar\x20molestias\x20fisicas\x20o\x20que\x20generen\x20cambios\x20que\x20aumenten\x20la\x20confusion',_0x51af54(0x33e),'Ofrecer\x20escucha\x20activa\x20y\x20apoyo\x20emocional\x20frente\x20a\x20la\x20ansiedad,\x20miedo\x20o\x20frustracion',_0x51af54(0x26a),_0x51af54(0x320)],'b6_por_noc':{'Perfusion\x20Tisular\x20Cerebral':[_0x51af54(0x3ec),'2.\x20Valores\x20con\x20desviación\x20sustancial\x20del\x20rango\x20normal','3.\x20Valores\x20con\x20desviación\x20moderada\x20del\x20rango\x20normal',_0x51af54(0x38a),'5.\x20Valores\x20sin\x20desviación\x20del\x20rango\x20normal']}}},'Osteomuscular':{'Alteración\x20de\x20la\x20integridad\x20tisular':{'noc':[_0x51af54(0x191),'Cicatrización\x20adecuada\x20de\x20piel\x20y\x20tejidos'],'nic':[_0x51af54(0x1b0),'Cuidado\x20de\x20heridas\x20según\x20orden',_0x51af54(0x24b),_0x51af54(0x252)],'trans':['Educación\x20al\x20paciente',_0x51af54(0x1f9),'Terapia\x20de\x20ejercicios:\x20ambulación',_0x51af54(0x2d9)],'b6_por_noc':{'Cicatrización\x20adecuada\x20de\x20piel\x20y\x20tejidos':[_0x51af54(0x18c),_0x51af54(0x264),_0x51af54(0x236),_0x51af54(0x269),_0x51af54(0x335)],'Ausencia\x20de\x20infecciones':['1.\x20Signos\x20graves\x20de\x20infección',_0x51af54(0x3ef),_0x51af54(0x3a6),'4.\x20Signos\x20leves\x20de\x20infección','5.\x20Ningún\x20signo\x20de\x20infección']}},'Capacidad\x20reducida\x20para\x20caminar,\x20trasladarse,\x20sentarse\x20o\x20ponerse\x20de\x20pie':{'noc':['Recuperación\x20de\x20habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha','Reducción\x20del\x20riesgo\x20de\x20caídas'],'nic':[_0x51af54(0x290),'Ejercicios\x20de\x20fortalecimiento','Entrenamiento\x20de\x20transferencias',_0x51af54(0x24f),_0x51af54(0x2a8)],'trans':[_0x51af54(0x1c8),'Fomento\x20de\x20la\x20seguridad',_0x51af54(0x2f1),_0x51af54(0x2d9)],'b6_por_noc':{'Recuperación\x20de\x20habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha':[_0x51af54(0x16a),_0x51af54(0x39b),_0x51af54(0x255),'4.\x20Habilidad\x20funcional\x20para\x20transferencias\x20y\x20marcha\x20levemente\x20comprometida',_0x51af54(0x393)],'Reducción\x20del\x20riesgo\x20de\x20caídas':[_0x51af54(0x1bf),_0x51af54(0x22d),'3.\x20Riesgo\x20de\x20caídas\x20moderado',_0x51af54(0x302),_0x51af54(0x394)]}},'Deterioro\x20de\x20la\x20movilidad\x20física':{'noc':[_0x51af54(0x179),'Independencia\x20en\x20actividades\x20de\x20la\x20vida\x20diaria\x20según\x20capacidad'],'nic':[_0x51af54(0x338),_0x51af54(0x2fe),_0x51af54(0x14c)],'trans':['Educación\x20al\x20paciente',_0x51af54(0x1f9),_0x51af54(0x2f1),_0x51af54(0x2d9)],'b6_por_noc':{'Incremento\x20de\x20movimiento\x20funcional':['1.\x20Movilidad\x20gravemente\x20comprometida',_0x51af54(0x221),'3.\x20Movilidad\x20moderadamente\x20comprometida',_0x51af54(0x30c),'5.\x20Movilidad\x20no\x20comprometida'],'Independencia\x20en\x20actividades\x20de\x20la\x20vida\x20diaria\x20según\x20capacidad':[_0x51af54(0x39e),_0x51af54(0x1be),'3.\x20Independencia\x20a\x20veces\x20demostrada',_0x51af54(0x351),_0x51af54(0x342)]}},'Dolor\x20agudo\x20/\x20crónico':{'noc':['Control\x20del\x20dolor',_0x51af54(0x2b2)],'nic':[_0x51af54(0x253),_0x51af54(0x198),'Evaluación\x20analgésica\x20regular',_0x51af54(0x333)],'trans':['Educación\x20al\x20paciente',_0x51af54(0x1f9),'Terapia\x20de\x20ejercicios:\x20ambulación',_0x51af54(0x2d9)],'b6_por_noc':{'Control\x20del\x20dolor':[_0x51af54(0x17f),_0x51af54(0x35e),_0x51af54(0x25c),_0x51af54(0x2bc),_0x51af54(0x360)],'Incremento\x20de\x20la\x20tolerancia\x20y\x20función':['1.\x20Afectación\x20funcional\x20grave\x20derivada\x20del\x20dolor',_0x51af54(0x1b1),'3.\x20Afectación\x20funcional\x20\x20moderada\x20derivada\x20del\x20dolor',_0x51af54(0x2a4),_0x51af54(0x165)]}},'Movilidad\x20en\x20cama\x20alterada':{'noc':['Mejoría\x20en\x20capacidad\x20para\x20cambiar\x20de\x20posición\x20en\x20cama',_0x51af54(0x154)],'nic':[_0x51af54(0x207),'Dispositivos\x20de\x20asistencia',_0x51af54(0x2fb),_0x51af54(0x1ec)],'trans':[_0x51af54(0x1c8),_0x51af54(0x1f9),'Terapia\x20de\x20ejercicios:\x20ambulación','Valoración\x20de\x20la\x20movilidad'],'b6_por_noc':{'Mejoría\x20en\x20capacidad\x20para\x20cambiar\x20de\x20posición\x20en\x20cama':[_0x51af54(0x39c),'2.\x20Capacidad\x20de\x20cambio\x20de\x20posición\x20en\x20cama\x20sustancialmente\x20comprometida',_0x51af54(0x23c),_0x51af54(0x31a),'5.\x20Capacidad\x20de\x20cambio\x20de\x20posición\x20en\x20cama\x20no\x20comprometida'],'Menor\x20riesgo\x20de\x20complicaciones\x20por\x20inmovilidad':[_0x51af54(0x17a),_0x51af54(0x33d),_0x51af54(0x273),_0x51af54(0x328),_0x51af54(0x1c7)]}},'Riesgo\x20de\x20alteración\x20en\x20la\x20movilidad\x20física':{'noc':['Disminución\x20de\x20la\x20pérdida\x20de\x20movilidad',_0x51af54(0x17e)],'nic':[_0x51af54(0x2f5),_0x51af54(0x299),'Manejo\x20del\x20dolor',_0x51af54(0x2b4)],'trans':[_0x51af54(0x1c8),'Fomento\x20de\x20la\x20seguridad','Terapia\x20de\x20ejercicios:\x20ambulación',_0x51af54(0x2d9)],'b6_por_noc':{'Disminución\x20de\x20la\x20pérdida\x20de\x20movilidad':[_0x51af54(0x2d1),_0x51af54(0x221),_0x51af54(0x18a),'4.\x20Movilidad\x20levemente\x20comprometida',_0x51af54(0x15b)],'Mantenimiento\x20del\x20rango\x20de\x20movilidad':[_0x51af54(0x3cc),_0x51af54(0x275),_0x51af54(0x336),_0x51af54(0x312),_0x51af54(0x3de)]}},'Riesgo\x20de\x20úlcera\x20por\x20presión':{'noc':[_0x51af54(0x3a0),_0x51af54(0x15e)],'nic':[_0x51af54(0x2c8),_0x51af54(0x265),'Plan\x20preventivo\x20de\x20úlceras'],'trans':['Educación\x20al\x20paciente',_0x51af54(0x1f9),_0x51af54(0x2f1),_0x51af54(0x2d9)],'b6_por_noc':{'Ausencia\x20de\x20lesiones\x20por\x20presión':[_0x51af54(0x171),'2.\x20Integridad\x20de\x20la\x20piel\x20sustancialmente\x20comprometida',_0x51af54(0x3ab),_0x51af54(0x366),_0x51af54(0x3d0)],'Mantenimiento\x20de\x20piel\x20intacta\x20en\x20zonas\x20de\x20riesgo':[_0x51af54(0x24d),_0x51af54(0x209),'3.\x20Perfusión\x20tisular\x20moderadamente\x20comprometida\x20en\x20zonas\x20de\x20riesgo',_0x51af54(0x25e),_0x51af54(0x26c)]}}},'Quemados':{'Ansiedad':{'noc':[_0x51af54(0x372)],'nic':[_0x51af54(0x1ee),_0x51af54(0x29c)],'trans':[_0x51af54(0x180),_0x51af54(0x3f6),'Evaluación\x20de\x20riesgos\x20de\x20seguridad',_0x51af54(0x2c0),_0x51af54(0x15a)],'b6_por_noc':{'Reducción\x20de\x20ansiedad':[_0x51af54(0x2a7),_0x51af54(0x167),_0x51af54(0x190),_0x51af54(0x2ba),_0x51af54(0x1ae)]}},'Deterioro\x20de\x20la\x20integridad\x20cutánea':{'noc':[_0x51af54(0x3dc),_0x51af54(0x243)],'nic':['Aplicación\x20de\x20apósitos\x20hidrocoloides','Aseo\x20con\x20soluciones\x20adecuadas'],'trans':['Apoyo\x20a\x20la\x20rehabilitación\x20y\x20movilidad\x20temprana','Cuidado\x20de\x20piel:\x20aplicación\x20de\x20apósitos\x20avanzados\x20(hidrocoloides,\x20antimicrobianos)',_0x51af54(0x261),_0x51af54(0x2c0),_0x51af54(0x15a)],'b6_por_noc':{'Integridad\x20cutánea\x20preservada':[_0x51af54(0x1ba),_0x51af54(0x367),_0x51af54(0x2ea),'4\x20=\x20Levemente\x20comprometido',_0x51af54(0x1a2)],'Regeneración\x20epitelial':[_0x51af54(0x1ba),_0x51af54(0x367),_0x51af54(0x2ea),_0x51af54(0x155),_0x51af54(0x1a2)]}},'Deterioro\x20de\x20la\x20integridad\x20tisular':{'noc':[_0x51af54(0x2a5),_0x51af54(0x378)],'nic':[_0x51af54(0x3bd),'Desbridamiento\x20aséptico'],'trans':[_0x51af54(0x180),'Cuidado\x20de\x20piel:\x20aplicación\x20de\x20apósitos\x20avanzados\x20(hidrocoloides,\x20antimicrobianos)',_0x51af54(0x261),_0x51af54(0x2c0),'Valoración\x20del\x20dolor:\x20control\x20del\x20dolor,\x20analgesia\x20multimodal,\x20evaluación\x20continua\x20del\x20dolor'],'b6_por_noc':{'Cicatrización\x20progresiva':[_0x51af54(0x1ba),_0x51af54(0x367),_0x51af54(0x2ea),'4\x20=\x20Levemente\x20comprometido',_0x51af54(0x1a2)],'Ausencia\x20de\x20infección':['1\x20=\x20Severo',_0x51af54(0x2a1),'3\x20=\x20Moderado',_0x51af54(0x309),_0x51af54(0x175)]}},'Dolor\x20agudo':{'noc':[_0x51af54(0x174)],'nic':[_0x51af54(0x3e0),_0x51af54(0x1ce)],'trans':[_0x51af54(0x180),_0x51af54(0x3f6),'Evaluación\x20de\x20riesgos\x20de\x20seguridad',_0x51af54(0x2c0),_0x51af54(0x15a)],'b6_por_noc':{'Control\x20del\x20dolor\x20a\x20niveles\x20tolerables':[_0x51af54(0x26b),_0x51af54(0x2a1),_0x51af54(0x1b7),'4\x20=\x20Leve',_0x51af54(0x175)]}},'Patrón\x20respiratorio\x20ineficaz\x20(quemaduras\x20faciales\x20o\x20inhalación\x20de\x20humo)':{'noc':[_0x51af54(0x1bd),_0x51af54(0x254)],'nic':[_0x51af54(0x22e),_0x51af54(0x33f),'Posición\x20semifowler'],'trans':['Apoyo\x20a\x20la\x20rehabilitación\x20y\x20movilidad\x20temprana',_0x51af54(0x3f6),_0x51af54(0x261),_0x51af54(0x2c0),_0x51af54(0x15a)],'b6_por_noc':{'Vía\x20aérea\x20permeable':[_0x51af54(0x1ba),_0x51af54(0x367),_0x51af54(0x2ea),_0x51af54(0x155),_0x51af54(0x1a2)],'Ventilación\x20efectiva':['1\x20=\x20Severamente\x20comprometido','2\x20=\x20Sustancialmente\x20comprometido',_0x51af54(0x2ea),_0x51af54(0x155),_0x51af54(0x1a2)]}},'Riesgo\x20de\x20caídas\x20(en\x20fase\x20de\x20rehabilitación)':{'noc':['No\x20ocurrencia\x20de\x20caídas'],'nic':[_0x51af54(0x1a4)],'trans':[_0x51af54(0x180),'Cuidado\x20de\x20piel:\x20aplicación\x20de\x20apósitos\x20avanzados\x20(hidrocoloides,\x20antimicrobianos)',_0x51af54(0x261),'Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales.\x20Aplica\x20a\x20todos\x20los\x20contactos\x20con\x20el\x20paciente.',_0x51af54(0x15a)],'b6_por_noc':{'No\x20ocurrencia\x20de\x20caídas':['1\x20=\x20Alto\x20riesgo\x20o\x20caídas\x20frecuentes',_0x51af54(0x295),_0x51af54(0x16d),_0x51af54(0x33a),_0x51af54(0x266),'no\x20ocurrencia\x20de\x20caídas','sin\x20caídas']}},'Riesgo\x20de\x20desequilibrio\x20de\x20volumen\x20de\x20líquidos':{'noc':['Equilibrio\x20hídrico\x20mantenido'],'nic':['Balance\x20hídrico','Control\x20de\x20diuresis',_0x51af54(0x3c9)],'trans':[_0x51af54(0x180),_0x51af54(0x3f6),'Evaluación\x20de\x20riesgos\x20de\x20seguridad',_0x51af54(0x2c0),'Valoración\x20del\x20dolor:\x20control\x20del\x20dolor,\x20analgesia\x20multimodal,\x20evaluación\x20continua\x20del\x20dolor'],'b6_por_noc':{'Equilibrio\x20hídrico\x20mantenido':[_0x51af54(0x1ba),_0x51af54(0x367),_0x51af54(0x2ea),'4\x20=\x20Levemente\x20comprometido',_0x51af54(0x1a2)]}},'Riesgo\x20de\x20infección':{'noc':[_0x51af54(0x1e1)],'nic':[_0x51af54(0x2f7),_0x51af54(0x2a9)],'trans':[_0x51af54(0x180),_0x51af54(0x3f6),'Evaluación\x20de\x20riesgos\x20de\x20seguridad','Higiene\x20de\x20manos\x20antes\x20y\x20después\x20de\x20cada\x20intervención:\x20Prevención\x20universal\x20de\x20infecciones\x20nosocomiales.\x20Aplica\x20a\x20todos\x20los\x20contactos\x20con\x20el\x20paciente.','Valoración\x20del\x20dolor:\x20control\x20del\x20dolor,\x20analgesia\x20multimodal,\x20evaluación\x20continua\x20del\x20dolor'],'b6_por_noc':{'Ausencia\x20de\x20signos\x20infecciosos':[_0x51af54(0x26b),_0x51af54(0x2a1),'3\x20=\x20Moderado',_0x51af54(0x309),_0x51af54(0x175)]}}},'Respiratorias':{'Ansiedad':{'noc':[_0x51af54(0x3ca)],'nic':['Ambiente\x20tranquilo',_0x51af54(0x148),'Información\x20clara',_0x51af54(0x27a)],'trans':['Control\x20de\x20infecciones\x20\x20\x20Aplicar\x20y\x20supervisar\x20técnicas\x20de\x20asepsia',_0x51af54(0x141),'Manejo\x20de\x20vías\x20respiratorias\x20\x20\x20Mantener\x20la\x20permeabilidad\x20de\x20las\x20vías\x20respiratorias\x20mediante\x20posición,\x20succión\x20o\x20humidificación.',_0x51af54(0x2c2),_0x51af54(0x3e8),_0x51af54(0x281),_0x51af54(0x1fa)],'b6_por_noc':{'Nivel\x20de\x20ansiedad\x20reducido':[_0x51af54(0x347),'2\x20-\x20Ansiedad\x20moderada',_0x51af54(0x230),_0x51af54(0x19b),_0x51af54(0x184)]}},'Intercambio\x20gaseoso\x20deteriorado':{'noc':['Intercambio\x20gaseoso\x20adecuado'],'nic':[_0x51af54(0x353),'Control\x20de\x20gases\x20arteriales',_0x51af54(0x323),_0x51af54(0x33f),_0x51af54(0x33c)],'trans':['Control\x20de\x20infecciones\x20\x20\x20Aplicar\x20y\x20supervisar\x20técnicas\x20de\x20asepsia',_0x51af54(0x141),_0x51af54(0x276),_0x51af54(0x2c2),'Oxigenoterapia\x20\x20\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20de\x20paciente\x20para\x20mantener\x20saturación\x20O2',_0x51af54(0x281),_0x51af54(0x1fa)],'b6_por_noc':{'Intercambio\x20gaseoso\x20adecuado':[_0x51af54(0x13b),_0x51af54(0x1ca),_0x51af54(0x3ae),_0x51af54(0x341),_0x51af54(0x17d)]}},'Limpieza\x20ineficaz\x20de\x20vías\x20aéreas':{'noc':['Vías\x20aéreas\x20despejadas'],'nic':[_0x51af54(0x22e),'Fisioterapia\x20torácica','Hidratación','Nebulizaciones'],'trans':['Control\x20de\x20infecciones\x20\x20\x20Aplicar\x20y\x20supervisar\x20técnicas\x20de\x20asepsia',_0x51af54(0x141),'Manejo\x20de\x20vías\x20respiratorias\x20\x20\x20Mantener\x20la\x20permeabilidad\x20de\x20las\x20vías\x20respiratorias\x20mediante\x20posición,\x20succión\x20o\x20humidificación.',_0x51af54(0x2c2),_0x51af54(0x3e8),_0x51af54(0x281),_0x51af54(0x1fa)],'b6_por_noc':{'Vías\x20aéreas\x20despejadas':[_0x51af54(0x3a8),_0x51af54(0x3b3),'3\x20-\x20Levemente\x20baja',_0x51af54(0x341),'5\x20-\x20Normal']}},'Náusea':{'noc':[_0x51af54(0x24a)],'nic':['Antieméticos\x20según\x20indicación','Hidratación',_0x51af54(0x37c)],'trans':[_0x51af54(0x2ef),_0x51af54(0x141),_0x51af54(0x276),_0x51af54(0x2c2),_0x51af54(0x3e8),_0x51af54(0x281),_0x51af54(0x1fa)],'b6_por_noc':{'Control\x20de\x20náuseas':[_0x51af54(0x384),_0x51af54(0x220),'3\x20-\x20Control\x20moderado\x20de\x20las\x20náuseas','4\x20-\x20Buen\x20control\x20de\x20las\x20náuseas','5\x20-\x20Control\x20óptimo,\x20no\x20presenta\x20náuseas']}},'Patrón\x20respiratorio\x20ineficaz':{'noc':[_0x51af54(0x147),_0x51af54(0x2de)],'nic':[_0x51af54(0x218),_0x51af54(0x1de),_0x51af54(0x323),_0x51af54(0x332),'Oxigenoterapia'],'trans':['Control\x20de\x20infecciones\x20\x20\x20Aplicar\x20y\x20supervisar\x20técnicas\x20de\x20asepsia',_0x51af54(0x141),_0x51af54(0x276),'Monitorización\x20respiratoria\x20\x20\x20Vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O2\x20para\x20detectar\x20signos\x20de\x20deterioro.',_0x51af54(0x3e8),_0x51af54(0x281),'lavado\x20de\x20manos\x20y\x20manejo\x20estéril\x20de\x20las\x20lesiones.'],'b6_por_noc':{'Ventilación\x20eficaz':[_0x51af54(0x2ff),_0x51af54(0x20c),_0x51af54(0x1cc),_0x51af54(0x1bc),_0x51af54(0x308)],'Saturación\x20O2\x20>\x2092\x5c%':[_0x51af54(0x343),_0x51af54(0x1e3),_0x51af54(0x375),_0x51af54(0x173),_0x51af54(0x317)]}},'Riesgo\x20de\x20caídas\x20(por\x20disnea\x20y\x20debilidad)':{'noc':[_0x51af54(0x162)],'nic':[_0x51af54(0x376),_0x51af54(0x1cd)],'trans':[_0x51af54(0x2ef),_0x51af54(0x141),_0x51af54(0x276),_0x51af54(0x2c2),_0x51af54(0x3e8),'Protección\x20contra\x20infecciones\x20\x20\x20Implementar\x20medidas\x20preventivas\x20frente\x20a\x20agentes\x20patógenos\x20y\x20minimizar\x20riesgos\x20de\x20broncoaspiración\x20o\x20colonización.','lavado\x20de\x20manos\x20y\x20manejo\x20estéril\x20de\x20las\x20lesiones.'],'b6_por_noc':{'No\x20ocurrencia\x20de\x20caídas':[_0x51af54(0x390),_0x51af54(0x363),_0x51af54(0x1af),_0x51af54(0x293),'5\x20-\x20No\x20presenta\x20caídas\x20y\x20mantiene\x20seguridad\x20óptima']}},'Riesgo\x20de\x20desequilibrio\x20de\x20volumen\x20de\x20líquidos':{'noc':[_0x51af54(0x307)],'nic':[_0x51af54(0x212),_0x51af54(0x19f),_0x51af54(0x239)],'trans':[_0x51af54(0x2ef),'Enseñanza/procedimiento/tratamiento\x20\x20\x20Educar\x20a\x20paciente\x20y\x20familia\x20sobre\x20el\x20uso\x20del\x20oxígeno,\x20ejercicios\x20respiratorios\x20y\x20medidas\x20preventivas.','Manejo\x20de\x20vías\x20respiratorias\x20\x20\x20Mantener\x20la\x20permeabilidad\x20de\x20las\x20vías\x20respiratorias\x20mediante\x20posición,\x20succión\x20o\x20humidificación.','Monitorización\x20respiratoria\x20\x20\x20Vigilar\x20patrones\x20respiratorios,\x20sonidos\x20pulmonares\x20y\x20saturación\x20de\x20O2\x20para\x20detectar\x20signos\x20de\x20deterioro.','Oxigenoterapia\x20\x20\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20de\x20paciente\x20para\x20mantener\x20saturación\x20O2',_0x51af54(0x281),_0x51af54(0x1fa)],'b6_por_noc':{'Balance\x20hídrico\x20normal':[_0x51af54(0x1ab),_0x51af54(0x32f),'3\x20-\x20Desequilibrio\x20leve',_0x51af54(0x324),_0x51af54(0x13a)]}},'Riesgo\x20de\x20infección\x20(por\x20ventilación\x20mecánica\x20o\x20bronquitis\x20crónica)':{'noc':[_0x51af54(0x270)],'nic':[_0x51af54(0x215),'Balance\x20hídrico',_0x51af54(0x2c3),'Respiración\x20guiada'],'trans':['Control\x20de\x20infecciones\x20\x20\x20Aplicar\x20y\x20supervisar\x20técnicas\x20de\x20asepsia',_0x51af54(0x141),_0x51af54(0x276),_0x51af54(0x2c2),'Oxigenoterapia\x20\x20\x20Administrar\x20oxígeno\x20suplementario\x20y\x20valorar\x20la\x20respuesta\x20de\x20paciente\x20para\x20mantener\x20saturación\x20O2','Protección\x20contra\x20infecciones\x20\x20\x20Implementar\x20medidas\x20preventivas\x20frente\x20a\x20agentes\x20patógenos\x20y\x20minimizar\x20riesgos\x20de\x20broncoaspiración\x20o\x20colonización.',_0x51af54(0x1fa)],'b6_por_noc':{'Nivel\x20de\x20Infeccion':[_0x51af54(0x2c7),_0x51af54(0x237),_0x51af54(0x1ad),_0x51af54(0x2ad),_0x51af54(0x2e1)]}}}});
+window.datosProPai = {
+  "Digestivas": {
+                                                          "Eliminación intestinal alterada / Motilidad gastrointestinal alterada": {
+                                                            "noc": [
+                                                              "Eliminación adecuada",
+                                                              "Restablecimiento del tránsito intestinal"
+                                                            ],
+                                                            "nic": [
+                                                              "Manejo de estreñimiento (fibra, líquidos, laxantes según orden)",
+                                                              "Movilización"
+                                                            ],
+                                                            "trans": [
+                                                              "Educación continua al paciente y/o familia",
+                                                              "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                                              "Valoración del dolor y confort cada turno"
+                                                            ],
+                                                            "b6_por_noc": {
+                                                              "Restablecimiento del tránsito intestinal": [
+                                                                "1 . Severamente comprometido",
+                                                                "2 . Sustancialmente comprometido",
+                                                                "3 . Moderadamente comprometido",
+                                                                "4 . Levemente comprometido",
+                                                                "5 . No comprometido (óptimo)"
+                                                              ],
+                                                              "Eliminación adecuada": [
+                                                                "1 . Severamente comprometido",
+                                                                "2 . Sustancialmente comprometido",
+                                                                "3 . Moderadamente comprometido",
+                                                                "4 . Levemente comprometido",
+                                                                "5 . No comprometido (óptimo)"
+                                                              ]
+                                                            }
+                                                          },
+                                    "Hiperbilirrubinemia neonatal (si hay foco digestivo neonatal)": {
+                                      "noc": [
+                                        "Reducción de bilirrubina, adecuada alimentación"
+                                      ],
+                                      "nic": [
+                                        "Control",
+                                        "Fototerapia",
+                                        "Manejo según pediatra: soporte de lactancia"
+                                      ],
+                                      "trans": [
+                                        "Educación continua al paciente y/o familia",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                        "Valoración del dolor y confort cada turno"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Reducción de bilirrubina, adecuada alimentación": [
+                                          "1 . Severamente comprometido",
+                                          "2 . Sustancialmente comprometido",
+                                          "3 . Moderadamente comprometido",
+                                          "4 . Levemente comprometido",
+                                          "5 . No comprometido (óptimo)"
+                                        ]
+                                      }
+                                    },
+                                                          "Ingesta nutricional inadecuada / Nutrición desequilibrada: inferior a las necesidades del organismo.": {
+                                                            "noc": [
+                                                              "Ganancia o estabilización de peso adecuada",
+                                                              "Mejora de estado nutricional"
+                                                            ],
+                                                            "nic": [
+                                                              "Coordinación con nutrición clínica",
+                                                              "Manejo de síntomas (náuseas/vómitos)",
+                                                              "Suplementos",
+                                                              "Valoración nutricional"
+                                                            ],
+                                                            "trans": [
+                                                              "Educación continua al paciente y/o familia",
+                                                              "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                                              "Valoración del dolor y confort cada turno"
+                                                            ],
+                                                            "b6_por_noc": {
+                                                              "Mejora de estado nutricional": [
+                                                                "1 . Severamente comprometido",
+                                                                "2 . Sustancialmente comprometido",
+                                                                "3 . Moderadamente comprometido",
+                                                                "4 . Levemente comprometido",
+                                                                "5 . No comprometido (óptimo)"
+                                                              ],
+                                                              "Ganancia o estabilización de peso adecuada": [
+                                                                "1 . Severamente comprometido",
+                                                                "2 . Sustancialmente comprometido",
+                                                                "3 . Moderadamente comprometido",
+                                                                "4 . Levemente comprometido",
+                                                                "5 . No comprometido (óptimo)"
+                                                              ]
+                                                            }
+                                                          },
+                                    "Riesgo de alteración del equilibrio hidroelectrolítico": {
+                                      "noc": [
+                                        "Mantenimiento del equilibrio hidroelectrolítico"
+                                      ],
+                                      "nic": [
+                                        "Educación sobre signos de deshidratación",
+                                        "Monitorizar electrolitos/diuresis/estado hidroelectrolítico",
+                                        "Reposición IV según indicación"
+                                      ],
+                                      "trans": [
+                                        "Educación continua al paciente y/o familia",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                        "Valoración del dolor y confort cada turno"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Mantenimiento del equilibrio hidroelectrolítico": [
+                                          "1 . Severamente comprometido",
+                                          "2 . Sustancialmente comprometido",
+                                          "3 . Moderadamente comprometido",
+                                          "4 . Levemente comprometido",
+                                          "5 . No comprometido (óptimo)"
+                                        ]
+                                      }
+                                    },
+                                                              "Riesgo de deterioro en los roles de padre/hijo (si enfermedad digestiva afecta cuidado/familia)": {
+                                                                "noc": [
+                                                                  "Adaptación familiar",
+                                                                  "Mejora de desempeño en roles identificados"
+                                                                ],
+                                                                "nic": [
+                                                                  "Apoyo psicosocial",
+                                                                  "Plan de cuidado compartido con la familia"
+                                                                ],
+                                                                "trans": [
+                                                                  "Educación continua al paciente y/o familia",
+                                                                  "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                                                  "Valoración del dolor y confort cada turno"
+                                                                ],
+                                                                "b6_por_noc": {
+                                                                  "Mejora de desempeño en roles identificados": [
+                                                                    "1 . Severamente comprometido",
+                                                                    "2 . Sustancialmente comprometido",
+                                                                    "3 . Moderadamente comprometido",
+                                                                    "4 . Levemente comprometido",
+                                                                    "5 . No comprometido (óptimo)"
+                                                                  ],
+                                                                  "Adaptación familiar": [
+                                                                    "1 . Severamente comprometido",
+                                                                    "2 . Sustancialmente comprometido",
+                                                                    "3 . Moderadamente comprometido",
+                                                                    "4 . Levemente comprometido",
+                                                                    "5 . No comprometido (óptimo)"
+                                                                  ]
+                                                                }
+                                                              },
+                                    "Riesgo de infección  (ej. peritonitis, infecciones hepáticas)": {
+                                      "noc": [
+                                        "Ausencia de infección",
+                                        "signos inflamatorios controlados"
+                                      ],
+                                      "nic": [
+                                        "Manejo de ascitis (paracentesis con técnica estéril)",
+                                        "Realizar cultivos"
+                                      ],
+                                      "trans": [
+                                        "Educación continua al paciente y/o familia",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                        "Valoración del dolor y confort cada turno"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Ausencia de infección": [
+                                          "1 . Severamente comprometido",
+                                          "2 . Sustancialmente comprometido",
+                                          "3 . Moderadamente comprometido",
+                                          "4 . Levemente comprometido",
+                                          "5 . No comprometido (óptimo)"
+                                        ],
+                                        "signos inflamatorios controlados": [
+                                          "1 . Severamente comprometido",
+                                          "2 . Sustancialmente comprometido",
+                                          "3 . Moderadamente comprometido",
+                                          "4 . Levemente comprometido",
+                                          "5 . No comprometido (óptimo)"
+                                        ]
+                                      }
+                                    },
+                                                                  "Riesgo de sangrado excesivo / Riesgo de sangrado (aplicable en enfermedad hepática con coagulopatía)": {
+                                                                    "noc": [
+                                                                      "Ausencia de episodios hemorrágicos",
+                                                                      "Estabilidad hemodinámica"
+                                                                    ],
+                                                                    "nic": [
+                                                                      "Monitorizar signos de sangrado",
+                                                                      "Pruebas de coagulación"
+                                                                    ],
+                                                                    "trans": [
+                                                                      "Educación continua al paciente y/o familia",
+                                                                      "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                                                      "Valoración del dolor y confort cada turno"
+                                                                    ],
+                                                                    "b6_por_noc": {
+                                                                      "Ausencia de episodios hemorrágicos": [
+                                                                        "1 . Severo",
+                                                                        "2 . Sustancial",
+                                                                        "3 . Moderado",
+                                                                        "4 . Leve",
+                                                                        "5 . Ninguno"
+                                                                      ],
+                                                                      "Estabilidad hemodinámica": [
+                                                                        "1 . Severamente comprometido",
+                                                                        "2 . Sustancialmente comprometido",
+                                                                        "3 . Moderadamente comprometido",
+                                                                        "4 . Levemente comprometido",
+                                                                        "5 . No comprometido (óptimo)"
+                                                                      ]
+                                                                    }
+                                                                  },
+                                    "Riesgo del deterioro de la integridad del tejido (por ictericia, prurito, ascitis, cuidados peritoneales/ostomías)": {
+                                      "noc": [
+                                        "Piel íntegra o curación de lesiones",
+                                        "Prurito controlado"
+                                      ],
+                                      "nic": [
+                                        "Educación en cuidado de ostomía",
+                                        "Emolientes/medicación según indicación",
+                                        "Prevención de maceración"
+                                      ],
+                                      "trans": [
+                                        "Educación continua al paciente y/o familia",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente",
+                                        "Valoración del dolor y confort cada turno"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Piel íntegra o curación de lesiones": [
+                                          "1 . Severamente comprometido",
+                                          "2 . Sustancialmente comprometido",
+                                          "3 . Moderadamente comprometido",
+                                          "4 . Levemente comprometido",
+                                          "5 . No comprometido (óptimo)"
+                                        ],
+                                        "Prurito controlado": [
+                                          "1 . Severo",
+                                          "2 . Sustancial",
+                                          "3 . Moderado",
+                                          "4 . Leve",
+                                          "5 . Ninguno"
+                                        ]
+                                      }
+                                    }
+                                  },
+  "Quirúrgicas Abdominales": {
+                                    "Riesgo de infección de la herida quirúrgica": {
+                                      "noc": [
+                                        "Cicatrización de heridas:Estado de infección"
+                                      ],
+                                      "nic": [
+                                        "Control glucémico",
+                                        "Profilaxis antibiótica según protocolo",
+                                        "Técnica estéril en curaciones",
+                                        "Vigilancia de la herida"
+                                      ],
+                                      "trans": [
+                                        "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                        "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                        "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                        "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                        "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                        "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                        "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                        "Valoración continua del dolor"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Cicatrización de heridas:Estado de infección": [
+                                          "1. Extenso",
+                                          "2. Sustancial",
+                                          "3. Moderado",
+                                          "4. Escaso",
+                                          "5. Ninguno"
+                                        ]
+                                      }
+                                    },
+                                                                  "Alteración de la integridad cutánea": {
+                                                                    "noc": [
+                                                                      "Curación progresiva",
+                                                                      "Integridad tisular preservada"
+                                                                    ],
+                                                                    "nic": [
+                                                                      "Control del drenaje",
+                                                                      "Cuidado de herida con técnica aséptica",
+                                                                      "Optimizar nutrición",
+                                                                      "Prevenir tensión sobre sutura"
+                                                                    ],
+                                                                    "trans": [
+                                                                      "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                                                      "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                                                      "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                                                      "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                                                      "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                                                      "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                                                      "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                                                      "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                                                      "Valoración continua del dolor"
+                                                                    ],
+                                                                    "b6_por_noc": {
+                                                                      "Integridad tisular preservada": [
+                                                                        "1. Gravemente comprometido",
+                                                                        "2. Sustancialmente comprometido",
+                                                                        "3. Moderadamente comprometido",
+                                                                        "4. Levemente comprometido",
+                                                                        "5. No comprometido"
+                                                                      ],
+                                                                      "Curación progresiva": [
+                                                                        "1. Gravemente comprometido",
+                                                                        "2. Sustancialmente comprometido",
+                                                                        "3. Moderadamente comprometido",
+                                                                        "4. Levemente comprometido",
+                                                                        "5. No comprometido"
+                                                                      ]
+                                                                    }
+                                                                  },
+                                    "Alteración de la motilidad gastrointestinal (o Riesgo de alteración de la motilidad gastrointestinal)": {
+                                      "noc": [
+                                        "Eliminación intestinal adecuada",
+                                        "Recuperación de peristalsis"
+                                      ],
+                                      "nic": [
+                                        "Limitar opioides cuando sea posible",
+                                        "Limitar uso de laxantes según indicación",
+                                        "Manejo de náuseas",
+                                        "Monitorización de ruidos intestinales",
+                                        "Monitorizar ingesta/evacuación",
+                                        "Movilización temprana"
+                                      ],
+                                      "trans": [
+                                        "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                        "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                        "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                        "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                        "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                        "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                        "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                        "Valoración continua del dolor"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Recuperación de peristalsis": [
+                                          "1. Peristalsis Gravemente comprometida",
+                                          "2. Peristalsis  Sustancialmente comprometida",
+                                          "3. Peristalsis Moderadamente comprometida",
+                                          "4. Peristalsis Levemente comprometida",
+                                          "5. Peristalsis No comprometida"
+                                        ],
+                                        "Eliminación intestinal adecuada": [
+                                          "1. Gravemente comprometido",
+                                          "2. Sustancialmente comprometido",
+                                          "3. Moderadamente comprometido",
+                                          "4. Levemente comprometido",
+                                          "5. No comprometido"
+                                        ]
+                                      }
+                                    },
+                                                                      "Alteración del confort físico": {
+                                                                        "noc": [
+                                                                          "Confort físico mejorado",
+                                                                          "alivio sintomático"
+                                                                        ],
+                                                                        "nic": [
+                                                                          "Anticoagulación según protocolo",
+                                                                          "Estrategias de profilaxis trombótica (ejercicios, medias antrombotiacas)",
+                                                                          "Movilización precoz"
+                                                                        ],
+                                                                        "trans": [
+                                                                          "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                                                          "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                                                          "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                                                          "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                                                          "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                                                          "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                                                          "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                                                          "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                                                          "Valoración continua del dolor"
+                                                                        ],
+                                                                        "b6_por_noc": {
+                                                                          "Confort físico mejorado": [
+                                                                            "1. Nada satisfecho",
+                                                                            "2. Algo satisfecho",
+                                                                            "3. Moderadamente satisfecho",
+                                                                            "4. Muy satisfecho",
+                                                                            "5. Completamente satisfecho"
+                                                                          ],
+                                                                          "alivio sintomático": [
+                                                                            "1. Nada satisfecho",
+                                                                            "2. Algo satisfecho",
+                                                                            "3. Moderadamente satisfecho",
+                                                                            "4. Muy satisfecho",
+                                                                            "5. Completamente satisfecho"
+                                                                          ]
+                                                                        }
+                                                                      },
+                                    "Patrón respiratorio ineficaz": {
+                                      "noc": [
+                                        "Expansión pulmonar adecuada",
+                                        "Ventilación eficaz"
+                                      ],
+                                      "nic": [
+                                        "Analgesia para facilitar respiración",
+                                        "Ejercicios de respiración profunda",
+                                        "Incentivo espirómetro",
+                                        "Movilización temprana"
+                                      ],
+                                      "trans": [
+                                        "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                        "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                        "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                        "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                        "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                        "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                        "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                        "Valoración continua del dolor"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Ventilación eficaz": [
+                                          "1. Desviación grave del rango normal",
+                                          "2. Desviación sustancial del rango normal",
+                                          "3. Desviación moderada del rango normal",
+                                          "4. Desviación leve del rango normal",
+                                          "5. Sin desviación del rango normal"
+                                        ],
+                                        "Expansión pulmonar adecuada": [
+                                          "1. Nunca demostrado",
+                                          "2. Raramente demostrado",
+                                          "3. A veces demostrado",
+                                          "4. Frecuentemente demostrado",
+                                          "5. Siempre demostrado"
+                                        ]
+                                      }
+                                    },
+                                                                            "Riesgo de alteración de la integridad tisular": {
+                                                                              "noc": [
+                                                                                "Curación progresiva",
+                                                                                "Integridad tisular preservada"
+                                                                              ],
+                                                                              "nic": [
+                                                                                "Control del drenaje",
+                                                                                "Cuidado de herida con técnica aséptica",
+                                                                                "Optimizar nutrición",
+                                                                                "Prevenir tensión sobre sutura"
+                                                                              ],
+                                                                              "trans": [
+                                                                                "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                                                                "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                                                                "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                                                                "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                                                                "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                                                                "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                                                                "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                                                                "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                                                                "Valoración continua del dolor"
+                                                                              ],
+                                                                              "b6_por_noc": {
+                                                                                "Integridad tisular preservada": [
+                                                                                  "1. Integridad Gravemente comprometida",
+                                                                                  "2. Integridad Sustancialmente comprometida",
+                                                                                  "3. Integridad Moderadamente comprometida",
+                                                                                  "4. Integridad Levemente comprometida",
+                                                                                  "5. Integridad No comprometida"
+                                                                                ],
+                                                                                "Curación progresiva": [
+                                                                                  "1. Ninguno",
+                                                                                  "2. Escaso",
+                                                                                  "3. Moderado",
+                                                                                  "4. Sustancial",
+                                                                                  "5. Extenso"
+                                                                                ]
+                                                                              }
+                                                                            },
+                                    "Riesgo de alteración del equilibrio hidroelectrolítico": {
+                                      "noc": [
+                                        "Equilibrio hídrico y electrólitos dentro de parámetros"
+                                      ],
+                                      "nic": [
+                                        "Control de laboratorio",
+                                        "Monitorizar drenajes",
+                                        "Monitorizar ingesta/evacuación",
+                                        "Reposición IV según indicación"
+                                      ],
+                                      "trans": [
+                                        "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                        "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                        "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                        "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                        "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                        "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                        "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                        "Valoración continua del dolor"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Equilibrio hídrico y electrólitos dentro de parámetros": [
+                                          "1. Gravemente comprometido",
+                                          "2. Sustancialmente comprometido",
+                                          "3. Moderadamente comprometido",
+                                          "4. Levemente comprometido",
+                                          "5. No comprometido"
+                                        ]
+                                      }
+                                    },
+                                                                            "Riesgo de infección": {
+                                                                              "noc": [
+                                                                                "Ausencia de infección",
+                                                                                "Parámetros inflamatorios estables"
+                                                                              ],
+                                                                              "nic": [
+                                                                                "Manejo de dispositivos",
+                                                                                "Monitorizar signos de infección",
+                                                                                "Precauciones estándar",
+                                                                                "Profilaxis antibiótica"
+                                                                              ],
+                                                                              "trans": [
+                                                                                "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                                                                "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                                                                "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                                                                "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                                                                "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                                                                "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                                                                "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                                                                "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                                                                "Valoración continua del dolor"
+                                                                              ],
+                                                                              "b6_por_noc": {
+                                                                                "Ausencia de infección": [
+                                                                                  "1. Nunca demostrado",
+                                                                                  "2. Raramente demostrado",
+                                                                                  "3. A veces demostrado",
+                                                                                  "4. Frecuentemente demostrado",
+                                                                                  "5. Siempre demostrado"
+                                                                                ],
+                                                                                "Parámetros inflamatorios estables": [
+                                                                                  "1. Nunca demostrado",
+                                                                                  "2. Raramente demostrado",
+                                                                                  "3. A veces demostrado",
+                                                                                  "4. Frecuentemente demostrado",
+                                                                                  "5. Siempre demostrado"
+                                                                                ]
+                                                                              }
+                                                                            },
+                                    "Riesgo de lesiones físicas. (incluyendo riesgo de trombosis/complicaciones post Qx)": {
+                                      "noc": [
+                                        "Ausencia de complicaciones trombóticas o físicas",
+                                        "movilidad progresiva"
+                                      ],
+                                      "nic": [
+                                        "Anticoagulación según protocolo",
+                                        "Estrategias de profilaxis trombótica (ejercicios, medias antrombotiacas)",
+                                        "Movilización precoz"
+                                      ],
+                                      "trans": [
+                                        "Apoyo al autocuidado: Fomentar la independencia del paciente en el cuidado posoperatorio",
+                                        "Cuidados de la piel, Mantener la integridad cutánea, especialmente en zonas de presión o incisión",
+                                        "Evaluar dolor con escala estandarizada (EVA), administrar analgésicos según prescripción, favorecer posición de confort",
+                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales",
+                                        "Manejo de la medicación: Preparación, administración y evaluación del efecto de medicamentos",
+                                        "Manejo de la nutrición, facilitar la ingestión y digestión adecuadas de nutrientes",
+                                        "Monitorización de signos vitales: Recogida y análisis de datos fisiológicos para detectar cambios o complicaciones",
+                                        "Prevención de trombosis venosa profunda: Promover ejercicios de piernas en cama, fomentar la deambulación temprana",
+                                        "Valoración continua del dolor"
+                                      ],
+                                      "b6_por_noc": {
+                                        "Ausencia de complicaciones trombóticas o físicas": [
+                                          "1. Nunca demostrado",
+                                          "2. Raramente demostrado",
+                                          "3. A veces demostrado",
+                                          "4. Frecuentemente demostrado",
+                                          "5. Siempre demostrado"
+                                        ],
+                                        "movilidad progresiva": [
+                                          "1. Nunca demostrado",
+                                          "2. Raramente demostrado",
+                                          "3. A veces demostrado",
+                                          "4. Frecuentemente demostrado",
+                                          "5. Siempre demostrado"
+                                        ]
+                                      }
+                                    }
+                                  },
+  "Binomio madre hijo": {
+                                          "Deterioro de la integridad del complejo pezon areolar": {
+                                            "noc": [
+                                              "Establecimiento de la lactancia materna"
+                                            ],
+                                            "nic": [
+                                              "Ayudar asegurar que el lactante se sujeta bien a la mama (monitorizar una alineación correcta del lactante, sujeción, compresión areolar y deglución audible)",
+                                              "Fomentar la asistencia a clases y grupos de apoyo de lactancia materna",
+                                              "Instruir sobre las distintas posiciones para la lactancia"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Establecimiento de la lactancia materna": [
+                                                "1. Nunca demostrado",
+                                                "2. Raramente demostrado",
+                                                "3. A veces demostrado",
+                                                "4. Frecuentemente demostrado",
+                                                "5. Siempre demostrado"
+                                              ]
+                                            }
+                                          },
+                                                                                            "Deterioro de los comportamientos parentales": {
+                                                                                              "noc": [
+                                                                                                "Adecuado afrontamiento a los problemas",
+                                                                                                "Vinculo padres hijo fuerte"
+                                                                                              ],
+                                                                                              "nic": [
+                                                                                                "Ayudar a identificar estrategias personales de afrontamiento",
+                                                                                                "Determinar cómo afronta la familia las transiciones",
+                                                                                                "Fomentar la expresión de sentimientos de una forma cómoda para el niño, escribiendo, dibujando o jugando",
+                                                                                                "Proporcionar a los progenitores lecturas y otros materiales que sean útiles para ejercer su papel parental",
+                                                                                                "Seleccionar la estrategia de solución de problemas adecuada al nivel de desarrollo y la función cognitiva del paciente"
+                                                                                              ],
+                                                                                              "trans": [
+                                                                                                "Comentar los métodos anticonceptivos",
+                                                                                                "Educacion para prevencion de infecciones",
+                                                                                                "Educación prenatal/postparto",
+                                                                                                "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                "Prevencion en la depresion postparto"
+                                                                                              ],
+                                                                                              "b6_por_noc": {
+                                                                                                "Adecuado afrontamiento a los problemas": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ],
+                                                                                                "Vinculo padres hijo fuerte": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ]
+                                                                                              }
+                                                                                            },
+                                          "Hiperbilirrubinemia neonatal": {
+                                            "noc": [
+                                              "Disminución de niveles de bilirrubina",
+                                              "Estabilidad clínica del neonato"
+                                            ],
+                                            "nic": [
+                                              "Fototerapia según indicación médica",
+                                              "Soporte con lactancia materna",
+                                              "Vigilancia de signos neurológicos"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Disminución de niveles de bilirrubina": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ],
+                                              "Estabilidad clínica del neonato": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ]
+                                            }
+                                          },
+                                                                                                  "Ingesta nutricional inadecuada (si RN con pérdida de peso o madre malnutrida)": {
+                                                                                                    "noc": [
+                                                                                                      "Ganancia de peso adecuada",
+                                                                                                      "Mejora de ingesta calórica/proteica"
+                                                                                                    ],
+                                                                                                    "nic": [
+                                                                                                      "Apoyo con nutricion para el plan alimentario de la madre",
+                                                                                                      "Ingesta adecuada de liquidos a la madre",
+                                                                                                      "Uso de formula para el neonato segun indicación"
+                                                                                                    ],
+                                                                                                    "trans": [
+                                                                                                      "Comentar los métodos anticonceptivos",
+                                                                                                      "Educacion para prevencion de infecciones",
+                                                                                                      "Educación prenatal/postparto",
+                                                                                                      "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                      "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                      "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                      "Prevencion en la depresion postparto"
+                                                                                                    ],
+                                                                                                    "b6_por_noc": {
+                                                                                                      "Mejora de ingesta calórica/proteica": [
+                                                                                                        "1. Desviación grave del rango normal",
+                                                                                                        "2. Desviación sustancial del rango normal",
+                                                                                                        "3. Desviación moderada del rango normal",
+                                                                                                        "4. Desviación leve del rango normal",
+                                                                                                        "5. Sin desviación del rango normal"
+                                                                                                      ],
+                                                                                                      "Ganancia de peso adecuada": [
+                                                                                                        "1. Gravemente comprometido",
+                                                                                                        "2. Sustancialmente comprometido",
+                                                                                                        "3. Moderadamente comprometido",
+                                                                                                        "4. Levemente comprometido",
+                                                                                                        "5. No comprometido"
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  },
+                                          "Lactancia exclusiva alterada": {
+                                            "noc": [
+                                              "Mantenimiento de la lactancia materna",
+                                              "Vinculo padres hijo fuerte"
+                                            ],
+                                            "nic": [
+                                              "Completar las evaluaciones materna y del recién nacido mientras se permite al progenitor sostener al recién nacido",
+                                              "Controlar la toma de líquido",
+                                              "Expulsar los gases del lactante frecuentemente durante y después de la toma",
+                                              "Instruir en las técnicas de esterilización del equipo de alimentación",
+                                              "Mostrar a los progenitores técnicas para calmar al lactante"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Mantenimiento de la lactancia materna": [
+                                                "1. Nunca demostrado",
+                                                "2. Raramente demostrado",
+                                                "3. A veces demostrado",
+                                                "4. Frecuentemente demostrado",
+                                                "5. Siempre demostrado"
+                                              ],
+                                              "Vinculo padres hijo fuerte": [
+                                                "1. Nunca demostrado",
+                                                "2. Raramente demostrado",
+                                                "3. A veces demostrado",
+                                                "4. Frecuentemente demostrado",
+                                                "5. Siempre demostrado"
+                                              ]
+                                            }
+                                          },
+                                                                                            "Lactancia ineficaz": {
+                                                                                              "noc": [
+                                                                                                "Agarre correcto",
+                                                                                                "Almacena de forma segura la leche materna",
+                                                                                                "Aumento de peso adecuado para la edad",
+                                                                                                "Correcta tecnica para lactancia",
+                                                                                                "Reconoce las señales tempranas del hambre",
+                                                                                                "Un mínimo de 8 tomas al día"
+                                                                                              ],
+                                                                                              "nic": [
+                                                                                                "Ayudar a asegurar que el lactante se sujeta bien a la mama",
+                                                                                                "Comentar la frecuencia de los patrones normales de lactancia, incluidas las tomas agrupadas y los brotes de crecimiento",
+                                                                                                "Explicar el modo correcto de manipular la leche extraída",
+                                                                                                "Monitorizar el peso y la talla del lactante"
+                                                                                              ],
+                                                                                              "trans": [
+                                                                                                "Comentar los métodos anticonceptivos",
+                                                                                                "Educacion para prevencion de infecciones",
+                                                                                                "Educación prenatal/postparto",
+                                                                                                "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                "Prevencion en la depresion postparto"
+                                                                                              ],
+                                                                                              "b6_por_noc": {
+                                                                                                "Agarre correcto": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ],
+                                                                                                "Un mínimo de 8 tomas al día": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ],
+                                                                                                "Aumento de peso adecuado para la edad": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ],
+                                                                                                "Correcta tecnica para lactancia": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ],
+                                                                                                "Reconoce las señales tempranas del hambre": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ],
+                                                                                                "Almacena de forma segura la leche materna": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ]
+                                                                                              }
+                                                                                            },
+                                          "Retraso en el crecimiento infantil": {
+                                            "noc": [
+                                              "Adecuado Crecimiento del niño",
+                                              "Conocimiento de una dieta adecuada"
+                                            ],
+                                            "nic": [
+                                              "Asegurar dieta hipercalórica e hiperproteica según indicación médica",
+                                              "Coordinar con nutrición y pediatría seguimiento interdisciplinario",
+                                              "Educar a los padres sobre la importancia de una dieta equilibrada"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Conocimiento de una dieta adecuada": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ],
+                                              "Adecuado Crecimiento del niño": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ]
+                                            }
+                                          },
+                                                                                              "Retraso en el desarrollo infantil": {
+                                                                                                "noc": [
+                                                                                                  "Conocimiento adecuado de los padres sobre el crecimiento y desarrollo normales para la edad y la conducta normal del niño para su edad"
+                                                                                                ],
+                                                                                                "nic": [
+                                                                                                  "Enseñar técnicas de estimulación temprana en el hogar",
+                                                                                                  "Introducir actividades de resolución de problemas",
+                                                                                                  "Lectura de cuentos o juegos educativos",
+                                                                                                  "Reforzar la sensibilidad de los padres hacia las necesidades del niño"
+                                                                                                ],
+                                                                                                "trans": [
+                                                                                                  "Comentar los métodos anticonceptivos",
+                                                                                                  "Educacion para prevencion de infecciones",
+                                                                                                  "Educación prenatal/postparto",
+                                                                                                  "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                  "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                  "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                  "Prevencion en la depresion postparto"
+                                                                                                ],
+                                                                                                "b6_por_noc": {
+                                                                                                  "Conocimiento adecuado de los padres sobre el crecimiento y desarrollo normales para la edad y la conducta normal del niño para su edad": [
+                                                                                                    "1. Ningun conocimiento",
+                                                                                                    "2. Conocimiento escaso",
+                                                                                                    "3. Conocimiento moderado",
+                                                                                                    "4. Conocimiento sustancial",
+                                                                                                    "5. Conocimiento extenso"
+                                                                                                  ]
+                                                                                                }
+                                                                                              },
+                                          "Riesgo de caida en niños(as)": {
+                                            "noc": [
+                                              "Aplicar conductas de prevencion de caidas",
+                                              "Conocimiento adecuado sobre la seguriad fisica infantil"
+                                            ],
+                                            "nic": [
+                                              "Enseñanza de medidad de prevencion a la familia dependiendo de la etapa en la que se encuentre el niño(a)",
+                                              "Establecer una relación de confianza y terapéutica con el niño y sus cuidadores",
+                                              "Modificar el ambiente para minimizar los peligros y riesgos"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Conocimiento adecuado sobre la seguriad fisica infantil": [
+                                                "1. Ningun conocimiento",
+                                                "2. Conocimiento escaso",
+                                                "3. Conocimiento moderado",
+                                                "4. Conocimiento sustancial",
+                                                "5. Conocimiento extenso"
+                                              ],
+                                              "Aplicar conductas de prevencion de caidas": [
+                                                "1. Nunca demostrado",
+                                                "2. Raramente demostrado",
+                                                "3. A veces demostrado",
+                                                "4. Frecuentemente demostrado",
+                                                "5. Siempre demostrado"
+                                              ]
+                                            }
+                                          },
+                                                                                                "Riesgo de deterioro de la diada materno fetal": {
+                                                                                                  "noc": [
+                                                                                                    "Manejo adecuado ante la depresion postparto",
+                                                                                                    "Soporte social optimo"
+                                                                                                  ],
+                                                                                                  "nic": [
+                                                                                                    "Ayudar al paciente y familia a identificar las áreas de esperanza en la vida",
+                                                                                                    "Brindar apoyo al cuidador",
+                                                                                                    "Favorecer la implicacion familiar",
+                                                                                                    "Identificar el riesgo de depresion postparto aplicando escala de edimburgo"
+                                                                                                  ],
+                                                                                                  "trans": [
+                                                                                                    "Comentar los métodos anticonceptivos",
+                                                                                                    "Educacion para prevencion de infecciones",
+                                                                                                    "Educación prenatal/postparto",
+                                                                                                    "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                    "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                    "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                    "Prevencion en la depresion postparto"
+                                                                                                  ],
+                                                                                                  "b6_por_noc": {
+                                                                                                    "Manejo adecuado ante la depresion postparto": [
+                                                                                                      "1. Gravemente comprometido",
+                                                                                                      "2. Sustancialmente comprometido",
+                                                                                                      "3. Moderadamente comprometido",
+                                                                                                      "4. Levemente comprometido",
+                                                                                                      "5. No comprometido"
+                                                                                                    ],
+                                                                                                    "Soporte social optimo": [
+                                                                                                      "1. Ninguno",
+                                                                                                      "2. Escaso",
+                                                                                                      "3. Moderado",
+                                                                                                      "4. Sustancial",
+                                                                                                      "5. Extenso"
+                                                                                                    ]
+                                                                                                  }
+                                                                                                },
+                                          "Riesgo de disminución de la temperatura corporal neonatal": {
+                                            "noc": [
+                                              "Mantener el estado fisiologico del neonato",
+                                              "Termorregulacion del neonato"
+                                            ],
+                                            "nic": [
+                                              "Aplicar recalentamiento pasivo (manta, cubrir la cabeza, y calentar la ropa).",
+                                              "Educar a la familia sobre la importancia de mantener el calor en el neonato",
+                                              "Promover el contacto piel a piel"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Termorregulacion del neonato": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ],
+                                              "Mantener el estado fisiologico del neonato": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ]
+                                            }
+                                          },
+                                                                                                  "Riesgo de hiperbilirrubinemia neonatal": {
+                                                                                                    "noc": [
+                                                                                                      "Bilirrubina dentro de valores normales",
+                                                                                                      "Ingesta nutritiva adecuada"
+                                                                                                    ],
+                                                                                                    "nic": [
+                                                                                                      "Monitoreo de coloración en la piel y mucosas",
+                                                                                                      "Motivar la exposicion del neonato a la luz solar",
+                                                                                                      "Promover lactancia frecuente"
+                                                                                                    ],
+                                                                                                    "trans": [
+                                                                                                      "Comentar los métodos anticonceptivos",
+                                                                                                      "Educacion para prevencion de infecciones",
+                                                                                                      "Educación prenatal/postparto",
+                                                                                                      "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                      "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                      "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                      "Prevencion en la depresion postparto"
+                                                                                                    ],
+                                                                                                    "b6_por_noc": {
+                                                                                                      "Bilirrubina dentro de valores normales": [
+                                                                                                        "1. Gravemente comprometido",
+                                                                                                        "2. Sustancialmente comprometido",
+                                                                                                        "3. Moderadamente comprometido",
+                                                                                                        "4. Levemente comprometido",
+                                                                                                        "5. No comprometido"
+                                                                                                      ],
+                                                                                                      "Ingesta nutritiva adecuada": [
+                                                                                                        "1. Desviación grave del rango normal",
+                                                                                                        "2. Desviación sustancial del rango normal",
+                                                                                                        "3. Desviación moderada del rango normal",
+                                                                                                        "4. Desviación leve del rango normal",
+                                                                                                        "5. Sin desviación del rango normal"
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  },
+                                          "Riesgo de infección (madre o RN)": {
+                                            "noc": [
+                                              "Ausencia de infección",
+                                              "Signos vitales estables"
+                                            ],
+                                            "nic": [
+                                              "Educacion sobre tecnicas de masajes para la prevencion de la mastitis",
+                                              "Educación sobre cuidado del cordón umbilical",
+                                              "Vigilancia de signos de infección"
+                                            ],
+                                            "trans": [
+                                              "Comentar los métodos anticonceptivos",
+                                              "Educacion para prevencion de infecciones",
+                                              "Educación prenatal/postparto",
+                                              "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                              "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                              "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                              "Prevencion en la depresion postparto"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Ausencia de infección": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ],
+                                              "Signos vitales estables": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ]
+                                            }
+                                          },
+                                                                                              "Riesgo de lactancia ineficaz": {
+                                                                                                "noc": [
+                                                                                                  "Inicio precoz de pecho",
+                                                                                                  "Prevención de dificultad ante la lactancia"
+                                                                                                ],
+                                                                                                "nic": [
+                                                                                                  "Facilitar lactancia temprana",
+                                                                                                  "Fomento del contacto piel a piel",
+                                                                                                  "Planificación de apoyo domiciliario"
+                                                                                                ],
+                                                                                                "trans": [
+                                                                                                  "Comentar los métodos anticonceptivos",
+                                                                                                  "Educacion para prevencion de infecciones",
+                                                                                                  "Educación prenatal/postparto",
+                                                                                                  "Indicar signos de alarma del lactante (hipotonia, dificultad para respirar, vomito persistente",
+                                                                                                  "Indicar signos de alarma para la materna (fiebre, dolor en senos, dolor de cabeza persistente, signos de infeccion)",
+                                                                                                  "Informar sobre los beneficios psicológicos y fisiológicos de la lactancia materna",
+                                                                                                  "Prevencion en la depresion postparto"
+                                                                                                ],
+                                                                                                "b6_por_noc": {
+                                                                                                  "Prevención de dificultad ante la lactancia": [
+                                                                                                    "1. Nunca demostrado",
+                                                                                                    "2. Raramente demostrado",
+                                                                                                    "3. A veces demostrado",
+                                                                                                    "4. Frecuentemente demostrado",
+                                                                                                    "5. Siempre demostrado"
+                                                                                                  ],
+                                                                                                  "Inicio precoz de pecho": [
+                                                                                                    "1. Nunca demostrado",
+                                                                                                    "2. Raramente demostrado",
+                                                                                                    "3. A veces demostrado",
+                                                                                                    "4. Frecuentemente demostrado",
+                                                                                                    "5. Siempre demostrado"
+                                                                                                  ]
+                                                                                                }
+                                                                                              }
+                                                                                            },
+  "Cardiovascular": {
+                                      "Exceso de volumen de líquidos": {
+                                        "noc": [
+                                          "Control de liquidos"
+                                        ],
+                                        "nic": [
+                                          "Manejo de la eliminación urinaria: registrar diuresis y características de la orina",
+                                          "Monitorización de signos de sobrecarga: observar disnea, edema, distensión venosa yugular y crepitantes pulmonares"
+                                        ],
+                                        "trans": [
+                                          "Apoyo emocional: brindar acompañamiento, escucha activa y contención ante ansiedad o miedo relacionados con la condición cardiovascular",
+                                          "Control de líquidos: registrar ingresos y egresos, vigilar edema y balance hídrico",
+                                          "Educación para la salud cardiovascular: enseñar a paciente y familia sobre factores de riesgo, dieta saludable, control de estrés, actividad física segura y signos de alarma",
+                                          "Manejo de la medicación cardiovascular: supervisar la administración correcta de fármacos como antihipertensivos, diuréticos, anticoagulantes o vasodilatadores, controlando efectos y adherencia",
+                                          "Monitorización cardiovascular: controlar signos vitales, frecuencia cardíaca, presión arterial y ritmo cardíaco",
+                                          "Monitorización hemodinámica: observar la perfusión tisular, saturación de oxígeno, llenado capilar y presión venosa central si aplica",
+                                          "detectar cambios tempranos que indiquen deterioro"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Control de liquidos": [
+                                            "1, Gravemente inadecuado",
+                                            "2, Inadecuado",
+                                            "3, Medianamente adecuado",
+                                            "4, Adecuado"
+                                          ]
+                                        }
+                                      },
+                                                                                              "Perfusión tisular periférica inefectiva": {
+                                                                                                "noc": [
+                                                                                                  "Estado circulatorio",
+                                                                                                  "Perfusión tisular: periférica"
+                                                                                                ],
+                                                                                                "nic": [
+                                                                                                  "Cuidados de las extremidades: mantener la elevación, cambios de posición frecuentes y protección contra el frío o la presión excesiva",
+                                                                                                  "Terapia de compresión: aplicar vendajes o medias de compresión según indicación para mejorar el retorno venoso"
+                                                                                                ],
+                                                                                                "trans": [
+                                                                                                  "Apoyo emocional: brindar acompañamiento, escucha activa y contención ante ansiedad o miedo relacionados con la condición cardiovascular",
+                                                                                                  "Control de líquidos: registrar ingresos y egresos, vigilar edema y balance hídrico",
+                                                                                                  "Educación para la salud cardiovascular: enseñar a paciente y familia sobre factores de riesgo, dieta saludable, control de estrés, actividad física segura y signos de alarma",
+                                                                                                  "Manejo de la medicación cardiovascular: supervisar la administración correcta de fármacos como antihipertensivos, diuréticos, anticoagulantes o vasodilatadores, controlando efectos y adherencia",
+                                                                                                  "Monitorización cardiovascular: controlar signos vitales, frecuencia cardíaca, presión arterial y ritmo cardíaco",
+                                                                                                  "Monitorización hemodinámica: observar la perfusión tisular, saturación de oxígeno, llenado capilar y presión venosa central si aplica",
+                                                                                                  "detectar cambios tempranos que indiquen deterioro"
+                                                                                                ],
+                                                                                                "b6_por_noc": {
+                                                                                                  "Perfusión tisular: periférica": [
+                                                                                                    "1, Gravemente inadecuada",
+                                                                                                    "2, Inadecuada",
+                                                                                                    "3, Medianamente adecuada",
+                                                                                                    "4, Adecuada"
+                                                                                                  ],
+                                                                                                  "Estado circulatorio": [
+                                                                                                    "1, Gravemente inadecuado",
+                                                                                                    "2, Inadecuado",
+                                                                                                    "3, Medianamente adecuado",
+                                                                                                    "4, Adecuado"
+                                                                                                  ]
+                                                                                                }
+                                                                                              },
+                                      "Riesgo de perfusión tisular cerebral inefectiva": {
+                                        "noc": [
+                                          "Control del riesgo: accidente cerebrovascular"
+                                        ],
+                                        "nic": [
+                                          "Manejo de la medicación: supervisar administración de anticoagulantes, antihipertensivos o antiplaquetarios prescritos",
+                                          "Monitorización neurológica: valorar nivel de conciencia, reflejos, respuesta pupilar y motora",
+                                          "Prevención de accidentes cerebrovasculares: educar sobre factores de riesgo, adherencia al tratamiento antihipertensivo y control de peso"
+                                        ],
+                                        "trans": [
+                                          "Apoyo emocional: brindar acompañamiento, escucha activa y contención ante ansiedad o miedo relacionados con la condición cardiovascular",
+                                          "Control de líquidos: registrar ingresos y egresos, vigilar edema y balance hídrico",
+                                          "Educación para la salud cardiovascular: enseñar a paciente y familia sobre factores de riesgo, dieta saludable, control de estrés, actividad física segura y signos de alarma",
+                                          "Manejo de la medicación cardiovascular: supervisar la administración correcta de fármacos como antihipertensivos, diuréticos, anticoagulantes o vasodilatadores, controlando efectos y adherencia",
+                                          "Monitorización cardiovascular: controlar signos vitales, frecuencia cardíaca, presión arterial y ritmo cardíaco",
+                                          "Monitorización hemodinámica: observar la perfusión tisular, saturación de oxígeno, llenado capilar y presión venosa central si aplica",
+                                          "detectar cambios tempranos que indiquen deterioro"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Control del riesgo: accidente cerebrovascular": [
+                                            "1, Gravemente inadecuado",
+                                            "2, Inadecuado",
+                                            "3, Medianamente adecuado",
+                                            "4, Adecuado"
+                                          ]
+                                        }
+                                      }
+                                    },
+  "Cáncer": {
+                                      "Ansiedad excesiva": {
+                                        "noc": [
+                                          "Aceptacion del estado de salud",
+                                          "Autocontrol de la ansiedad",
+                                          "Buen autoestima"
+                                        ],
+                                        "nic": [
+                                          "Alentar la verbalización de sentimientos, percepciones y miedos",
+                                          "Animar al paciente a identificar sus puntos fuertes y sus capacidades",
+                                          "Escucha activa",
+                                          "Proporcionar ejercicios de mejora de la autoestima diseñados para aumentar la autoestima positiva (escribir una lista de talentos y rasgos positivos de la personalidad)"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Autocontrol de la ansiedad": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ],
+                                          "Aceptacion del estado de salud": [
+                                            "1. Nunca positivo",
+                                            "2. Raramente positivo",
+                                            "3. A veces positivo",
+                                            "4. A menudo positivo",
+                                            "5. Consistentemente positivo"
+                                          ],
+                                          "Buen autoestima": [
+                                            "1. Nunca positivo",
+                                            "2. Raramente positivo",
+                                            "3. A veces positivo",
+                                            "4. A menudo positivo",
+                                            "5. Consistentemente positivo"
+                                          ]
+                                        }
+                                      },
+                                                                                      "Autocontrol ineficaz de las náuseas": {
+                                                                                        "noc": [
+                                                                                          "Control de nauseas y vomitos",
+                                                                                          "Respuesta satisfactoria a la medicacion"
+                                                                                        ],
+                                                                                        "nic": [
+                                                                                          "Administrar una dieta con alimentos liquidos frios",
+                                                                                          "Animar a ingerir pequeñas cantidades de comida",
+                                                                                          "Correcta adherencia al regimen de medicacion",
+                                                                                          "Fomentar el uso de técnicas no farmacológicas antes, durante y después de los tratamientos (relajacion, musicoterapia, imaginacion simple dirigida)"
+                                                                                        ],
+                                                                                        "trans": [
+                                                                                          "Administracion de analgesicos segun necesidad",
+                                                                                          "Administracion de antiemeticos",
+                                                                                          "Apoyo emocional",
+                                                                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                                                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                                                                          "Promover el lavado de manos",
+                                                                                          "Proporcionar o remitir a psicoterapia"
+                                                                                        ],
+                                                                                        "b6_por_noc": {
+                                                                                          "Control de nauseas y vomitos": [
+                                                                                            "1. Nunca demostrado",
+                                                                                            "2. Raramente demostrado",
+                                                                                            "3. A veces demostrado",
+                                                                                            "4. Frecuentemente demostrado",
+                                                                                            "5. Siempre demostrado"
+                                                                                          ],
+                                                                                          "Respuesta satisfactoria a la medicacion": [
+                                                                                            "1. Gravemente comprometido",
+                                                                                            "2. Sustancialmente comprometido",
+                                                                                            "3. Moderadamente comprometido",
+                                                                                            "4. Levemente comprometido",
+                                                                                            "5. No comprometido"
+                                                                                          ]
+                                                                                        }
+                                                                                      },
+                                      "Carga excesiva de fatiga": {
+                                        "noc": [
+                                          "Aumentar nivel de energia",
+                                          "Equilibrio emocional"
+                                        ],
+                                        "nic": [
+                                          "Ayudar a mantener un ciclo normal del sueño y vigilia",
+                                          "Manejo del estado de animo",
+                                          "Ofrecer suplementos nutricionales según corresponda",
+                                          "Proporcionar oportunidades de práctica de actividad física"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Equilibrio emocional": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ],
+                                          "Aumentar nivel de energia": [
+                                            "1. Gravemente comprometido",
+                                            "2. Sustancialmente comprometido",
+                                            "3. Moderadamente comprometido",
+                                            "4. Levemente comprometido",
+                                            "5. No comprometido"
+                                          ]
+                                        }
+                                      },
+                                                                                          "Deterioro de la movilidad fisica": {
+                                                                                            "noc": [
+                                                                                              "Mantener la fuerza muscular",
+                                                                                              "Participacion activa en el ejercicio"
+                                                                                            ],
+                                                                                            "nic": [
+                                                                                              "Fomentar una deambulación independiente dentro de los límites de seguridad",
+                                                                                              "Proporcionar un programa de entrenamiento de fuerza compatible con la edad y el estado de salud"
+                                                                                            ],
+                                                                                            "trans": [
+                                                                                              "Administracion de analgesicos segun necesidad",
+                                                                                              "Administracion de antiemeticos",
+                                                                                              "Apoyo emocional",
+                                                                                              "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                                                                              "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                                                                              "Promover el lavado de manos",
+                                                                                              "Proporcionar o remitir a psicoterapia"
+                                                                                            ],
+                                                                                            "b6_por_noc": {
+                                                                                              "Mantener la fuerza muscular": [
+                                                                                                "1. Gravemente comprometido",
+                                                                                                "2. Sustancialmente comprometido",
+                                                                                                "3. Moderadamente comprometido",
+                                                                                                "4. Levemente comprometido",
+                                                                                                "5. No comprometido"
+                                                                                              ],
+                                                                                              "Participacion activa en el ejercicio": [
+                                                                                                "1. Gravemente comprometido",
+                                                                                                "2. Sustancialmente comprometido",
+                                                                                                "3. Moderadamente comprometido",
+                                                                                                "4. Levemente comprometido",
+                                                                                                "5. No comprometido"
+                                                                                              ]
+                                                                                            }
+                                                                                          },
+                                      "Dolor agudo": {
+                                        "noc": [
+                                          "Control del dolor",
+                                          "Disminuir nivel del dolor (escala EVA)"
+                                        ],
+                                        "nic": [
+                                          "Educacion autoconfort",
+                                          "Manejo del confort (Entorno, temperatura, descanso)"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Control del dolor": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ],
+                                          "Disminuir nivel del dolor (escala EVA)": [
+                                            "1. Grave",
+                                            "2. Sustancial",
+                                            "3. Moderado",
+                                            "4. Leve",
+                                            "5. Ninguno"
+                                          ]
+                                        }
+                                      },
+                                                                                            "Dolor crónico según contexto": {
+                                                                                              "noc": [
+                                                                                                "Bienestar fisico",
+                                                                                                "Control de los sintomas"
+                                                                                              ],
+                                                                                              "nic": [
+                                                                                                "Controlar factores ambientales",
+                                                                                                "Disminucion ansiedad"
+                                                                                              ],
+                                                                                              "trans": [
+                                                                                                "Administracion de analgesicos segun necesidad",
+                                                                                                "Administracion de antiemeticos",
+                                                                                                "Apoyo emocional",
+                                                                                                "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                                                                                "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                                                                                "Promover el lavado de manos",
+                                                                                                "Proporcionar o remitir a psicoterapia"
+                                                                                              ],
+                                                                                              "b6_por_noc": {
+                                                                                                "Bienestar fisico": [
+                                                                                                  "1. Gravemente comprometido",
+                                                                                                  "2. Sustancialmente comprometido",
+                                                                                                  "3. Moderadamente comprometido",
+                                                                                                  "4. Levemente comprometido",
+                                                                                                  "5. No comprometido"
+                                                                                                ],
+                                                                                                "Control de los sintomas": [
+                                                                                                  "1. Nunca demostrado",
+                                                                                                  "2. Raramente demostrado",
+                                                                                                  "3. A veces demostrado",
+                                                                                                  "4. Frecuentemente demostrado",
+                                                                                                  "5. Siempre demostrado"
+                                                                                                ]
+                                                                                              }
+                                                                                            },
+                                      "Ingesta nutricional inadecuada / Nutrición desequilibrada: inferior a las necesidades corporales": {
+                                        "noc": [
+                                          "Conducta de adherencia: dieta prescrita",
+                                          "Conducta de aumento de peso",
+                                          "Manejo de las nauseas y vomitos"
+                                        ],
+                                        "nic": [
+                                          "Asesoramiento nutricional",
+                                          "Manejo de liquidos/electrolitos",
+                                          "Planificacion de las comidas segun el gusto del paciente"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Conducta de adherencia: dieta prescrita": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ],
+                                          "Conducta de aumento de peso": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ],
+                                          "Manejo de las nauseas y vomitos": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ]
+                                        }
+                                      },
+                                                                                      "Integridad tisular deteriorada / Integridad cutánea deteriorada": {
+                                                                                        "noc": [
+                                                                                          "Buena integridad tisular: piel y membrana (temperatura, sensibilidad, hidratacion)",
+                                                                                          "Correcta cicatrizacion de las heridas"
+                                                                                        ],
+                                                                                        "nic": [
+                                                                                          "Control de infecciones",
+                                                                                          "Cuidado local de heridas y mucosas segun protocolo",
+                                                                                          "Hidratacion de la piel",
+                                                                                          "Prevencion lesiones por presion"
+                                                                                        ],
+                                                                                        "trans": [
+                                                                                          "Administracion de analgesicos segun necesidad",
+                                                                                          "Administracion de antiemeticos",
+                                                                                          "Apoyo emocional",
+                                                                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                                                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                                                                          "Promover el lavado de manos",
+                                                                                          "Proporcionar o remitir a psicoterapia"
+                                                                                        ],
+                                                                                        "b6_por_noc": {
+                                                                                          "Buena integridad tisular: piel y membrana (temperatura, sensibilidad, hidratacion)": [
+                                                                                            "1. Gravemente comprometido",
+                                                                                            "2. Sustancialmente comprometido",
+                                                                                            "3. Moderadamente comprometido",
+                                                                                            "4. Levemente comprometido",
+                                                                                            "5. No comprometido"
+                                                                                          ],
+                                                                                          "Correcta cicatrizacion de las heridas": [
+                                                                                            "1. Ninguno",
+                                                                                            "2. Escaso",
+                                                                                            "3. Moderado",
+                                                                                            "4. Sustancial",
+                                                                                            "5. Extenso"
+                                                                                          ]
+                                                                                        }
+                                                                                      },
+                                      "Riesgo de autogestion del linfedema ineficaz": {
+                                        "noc": [
+                                          "Disminuir la severidad del linfedema"
+                                        ],
+                                        "nic": [
+                                          "Evitar el uso de esparadrapos y demás sustancias irritantes para la piel",
+                                          "Favorecer actividades para modificar los factores de riesgo identificados",
+                                          "Monitorizar si se producen alteraciones en la integridad de la piel y tratarlas adecuadamente"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Disminuir la severidad del linfedema": [
+                                            "1. Grave",
+                                            "2. Sustancial",
+                                            "3. Moderado",
+                                            "4. Leve",
+                                            "5. Ninguno"
+                                          ]
+                                        }
+                                      },
+                                                                                        "Riesgo de deterioro del equilibrio de volumen de líquidos": {
+                                                                                          "noc": [
+                                                                                            "Mantener un equilibrio hidrico"
+                                                                                          ],
+                                                                                          "nic": [
+                                                                                            "Controlar los resultados de laboratorio relevantes en la retención de líquidos",
+                                                                                            "Determinar el estado hídrico basal",
+                                                                                            "Monitorizar los cambios en el estado hídrico utilizando datos obtenidos regularmente"
+                                                                                          ],
+                                                                                          "trans": [
+                                                                                            "Administracion de analgesicos segun necesidad",
+                                                                                            "Administracion de antiemeticos",
+                                                                                            "Apoyo emocional",
+                                                                                            "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                                                                            "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                                                                            "Promover el lavado de manos",
+                                                                                            "Proporcionar o remitir a psicoterapia"
+                                                                                          ],
+                                                                                          "b6_por_noc": {
+                                                                                            "Mantener un equilibrio hidrico": [
+                                                                                              "1. Gravemente comprometido",
+                                                                                              "2. Sustancialmente comprometido",
+                                                                                              "3. Moderadamente comprometido",
+                                                                                              "4. Levemente comprometido",
+                                                                                              "5. No comprometido"
+                                                                                            ]
+                                                                                          }
+                                                                                        },
+                                      "Riesgo de estreñimiento": {
+                                        "noc": [
+                                          "Disminuir la severidad de los sintomas",
+                                          "Estado nutricional adecuado de alimentos y liquidos"
+                                        ],
+                                        "nic": [
+                                          "Administrar laxantes segun necesidad",
+                                          "Promover dieta rica en fibra",
+                                          "Promover ingesta de liquidos"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Disminuir la severidad de los sintomas": [
+                                            "1. Grave",
+                                            "2. Sustancial",
+                                            "3. Moderado",
+                                            "4. Leve",
+                                            "5. Ninguno"
+                                          ],
+                                          "Estado nutricional adecuado de alimentos y liquidos": [
+                                            "1. Desviación grave del rango normal",
+                                            "2. Desviación sustancial del rango normal",
+                                            "3. Desviación moderada del rango normal",
+                                            "4. Desviación leve del rango normal",
+                                            "5. Sin desviación del rango normal"
+                                          ]
+                                        }
+                                      },
+                                                                                      "Riesgo de infección": {
+                                                                                        "noc": [
+                                                                                          "Automanejo: enfermedad cronica",
+                                                                                          "Control del riesgo: proceso infeccioso"
+                                                                                        ],
+                                                                                        "nic": [
+                                                                                          "Educación sobre medidas preventivas",
+                                                                                          "Manipulacion esteril/ limpia de los dispositivos",
+                                                                                          "Vigilancia de signos de infección"
+                                                                                        ],
+                                                                                        "trans": [
+                                                                                          "Administracion de analgesicos segun necesidad",
+                                                                                          "Administracion de antiemeticos",
+                                                                                          "Apoyo emocional",
+                                                                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                                                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                                                                          "Promover el lavado de manos",
+                                                                                          "Proporcionar o remitir a psicoterapia"
+                                                                                        ],
+                                                                                        "b6_por_noc": {
+                                                                                          "Control del riesgo: proceso infeccioso": [
+                                                                                            "1. Gravemente comprometido",
+                                                                                            "2. Sustancialmente comprometido",
+                                                                                            "3. Moderadamente comprometido",
+                                                                                            "4. Levemente comprometido",
+                                                                                            "5. No comprometido"
+                                                                                          ],
+                                                                                          "Automanejo: enfermedad cronica": [
+                                                                                            "1. Nunca demostrado",
+                                                                                            "2. Raramente demostrado",
+                                                                                            "3. A veces demostrado",
+                                                                                            "4. Frecuentemente demostrado",
+                                                                                            "5. Siempre demostrado"
+                                                                                          ]
+                                                                                        }
+                                                                                      },
+                                      "Riesgo de sangrado excesivo": {
+                                        "noc": [
+                                          "Ausencia de episodios hemorrágicos",
+                                          "Identificar factores de riesgo"
+                                        ],
+                                        "nic": [
+                                          "Aplicar medidas de prevencion (evitar procedimientos invasivos innecesarios)",
+                                          "Educación sobre signos de sangrado"
+                                        ],
+                                        "trans": [
+                                          "Administracion de analgesicos segun necesidad",
+                                          "Administracion de antiemeticos",
+                                          "Apoyo emocional",
+                                          "Educacion al paciente y su familia sobre el proceso de la enfermedad",
+                                          "Medidas no farmacologicas para el dolor (posicionamiento técnicas de relajación, aplicacion calor/frío)",
+                                          "Promover el lavado de manos",
+                                          "Proporcionar o remitir a psicoterapia"
+                                        ],
+                                        "b6_por_noc": {
+                                          "Ausencia de episodios hemorrágicos": [
+                                            "1. Grave",
+                                            "2. Sustancial",
+                                            "3. Moderado",
+                                            "4. Leve",
+                                            "5. Ninguno"
+                                          ],
+                                          "Identificar factores de riesgo": [
+                                            "1. Nunca demostrado",
+                                            "2. Raramente demostrado",
+                                            "3. A veces demostrado",
+                                            "4. Frecuentemente demostrado",
+                                            "5. Siempre demostrado"
+                                          ]
+                                        }
+                                      }
+                                    },
+  "Endocrina/ metabolica": {
+                                "Riesgo de deterioro de la integridad cutánea (pie diabético)": {
+                                  "noc": [
+                                    "Piel intacta, sin lesiones"
+                                  ],
+                                  "nic": [
+                                    "Cuidados de heridas: realizar curaciones asépticas si hay lesiones",
+                                    "Cuidados de los pies: inspeccionar diariamente pies y calzado, mantener higiene y evitar lesiones",
+                                    "Prevención de úlceras por presión: cambiar de posición, mantener piel limpia y seca"
+                                  ],
+                                  "trans": [
+                                    "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                    "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                    "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                    "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                    "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                    "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Piel intacta, sin lesiones": [
+                                      "1 . Severamente comprometido",
+                                      "2 . Moderadamente comprometido",
+                                      "3 . Levemente comprometido",
+                                      "4 . Adecuado"
+                                    ]
+                                  }
+                                },
+                                                                                              "Riesgo de nivel de glucemia inestable": {
+                                                                                                "noc": [
+                                                                                                  "Glucemia controlada (70–120 mg/dL)"
+                                                                                                ],
+                                                                                                "nic": [
+                                                                                                  "Monitorización de la glucemia: controlar niveles de glucosa capilar y sérica según protocolo",
+                                                                                                  "Prevención de hiperglucemia: fomentar adherencia al tratamiento, dieta equilibrada y control del estrés",
+                                                                                                  "Prevención de hipoglucemia: identificar signos tempranos de hipoglucemia y aplicar medidas correctivas"
+                                                                                                ],
+                                                                                                "trans": [
+                                                                                                  "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                                                                                  "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                                                                                  "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                                                                                  "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                                                                                  "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                                                                                  "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                                                                                ],
+                                                                                                "b6_por_noc": {
+                                                                                                  "Glucemia controlada (70–120 mg/dL)": [
+                                                                                                    "1, Gravemente inadecuada",
+                                                                                                    "2, Inadecuada",
+                                                                                                    "3, Medianamente adecuada",
+                                                                                                    "4, Adecuada"
+                                                                                                  ]
+                                                                                                }
+                                                                                              },
+                                "Riesgo de síndrome metabólico": {
+                                  "noc": [
+                                    "Parámetros metabólicos normales"
+                                  ],
+                                  "nic": [
+                                    "Control del riesgo cardiovascular: planificar medidas preventivas para diabetes tipo 2, dislipidemia y obesidad",
+                                    "Modificación del estilo de vida: promover actividad física regular, dieta equilibrada y control del peso"
+                                  ],
+                                  "trans": [
+                                    "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                    "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                    "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                    "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                    "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                    "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Parámetros metabólicos normales": [
+                                      "1 . Severamente alterado",
+                                      "2 . Moderadamente alterado",
+                                      "3 . Levemente alterado",
+                                      "4 . Adecuado"
+                                    ]
+                                  }
+                                },
+                                                                                                      "Exceso de volumen de líquidos": {
+                                                                                                        "noc": [
+                                                                                                          "Disminución de edema"
+                                                                                                        ],
+                                                                                                        "nic": [
+                                                                                                          "Manejo de la eliminación urinaria: controlar diuresis, peso diario y presencia de edema",
+                                                                                                          "Monitorización de líquidos: restringir líquidos según indicación médica y registrar balance hídrico",
+                                                                                                          "Terapia con diuréticos: administrar y evaluar respuesta al tratamiento"
+                                                                                                        ],
+                                                                                                        "trans": [
+                                                                                                          "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                                                                                          "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                                                                                          "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                                                                                          "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                                                                                          "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                                                                                          "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                                                                                        ],
+                                                                                                        "b6_por_noc": {
+                                                                                                          "Disminución de edema": [
+                                                                                                            "1, Severo",
+                                                                                                            "2, Moderado",
+                                                                                                            "3, Leve",
+                                                                                                            "4, Sin edema"
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      },
+                                "Fatiga": {
+                                  "noc": [
+                                    "Nivel de energía adecuado"
+                                  ],
+                                  "nic": [
+                                    "Fomento del ejercicio: promover actividad física gradual y tolerada",
+                                    "Manejo de la energía: planificar actividades con períodos de descanso adecuados",
+                                    "Mejorar el sueño: favorecer hábitos de descanso y sueño reparador"
+                                  ],
+                                  "trans": [
+                                    "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                    "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                    "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                    "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                    "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                    "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Nivel de energía adecuado": [
+                                      "1 . Severamente comprometido",
+                                      "1.Severamente comprometido",
+                                      "2 . Moderadamente comprometido",
+                                      "2. Moderadamente comprometido",
+                                      "3 . Levemente comprometido",
+                                      "3. Levemente comprometido",
+                                      "4 . Adecuado",
+                                      "4. Adecuado"
+                                    ]
+                                  }
+                                },
+                                                                                                      "Riesgo de desequilibrio en el balance de volumen de líquidos": {
+                                                                                                        "noc": [
+                                                                                                          "Balance hídrico mantenido"
+                                                                                                        ],
+                                                                                                        "nic": [
+                                                                                                          "Monitorización de líquidos: registrar ingesta, diuresis y pérdidas para prevenir tanto déficit como exceso de volumen",
+                                                                                                          "Monitorización hemodinámica: valorar presión arterial, venosa central y frecuencia cardíaca",
+                                                                                                          "Prevención de desequilibrio electrolítico: controlar niveles séricos de sodio, potasio y otros electrolitos",
+                                                                                                          "Reposición de líquidos: administrar líquidos según indicación y evaluar respuesta"
+                                                                                                        ],
+                                                                                                        "trans": [
+                                                                                                          "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                                                                                          "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                                                                                          "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                                                                                          "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                                                                                          "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                                                                                          "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                                                                                        ],
+                                                                                                        "b6_por_noc": {
+                                                                                                          "Balance hídrico mantenido": [
+                                                                                                            "1, Gravemente comprometido",
+                                                                                                            "2, Comprometido",
+                                                                                                            "3, Parcialmente mantenido",
+                                                                                                            "4, Mantenido"
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      },
+                                "Riesgo de temperatura corporal ineficaz": {
+                                  "noc": [
+                                    "Temperatura corporal normal"
+                                  ],
+                                  "nic": [
+                                    "Prevención de hipertermia: fomentar hidratación, ropa liviana y control del calor ambiental",
+                                    "Prevención de hipotermia: mantener abrigo, evitar exposición al frío y controlar la temperatura ambiental",
+                                    "Regulación de la temperatura: monitorizar temperatura corporal y ajustar el ambiente según necesidad"
+                                  ],
+                                  "trans": [
+                                    "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                    "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                    "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                    "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                    "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                    "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Temperatura corporal normal": [
+                                      "1 . Severamente alterado",
+                                      "2 . Moderadamente alterado",
+                                      "3 . Levemente alterado",
+                                      "4 . Adecuado"
+                                    ]
+                                  }
+                                },
+                                                                                                      "Volumen de líquidos inadecuado": {
+                                                                                                        "noc": [
+                                                                                                          "Equilibrio de líquidos restaurado"
+                                                                                                        ],
+                                                                                                        "nic": [
+                                                                                                          "Monitorización de líquidos: registrar balance hídrico, presión arterial y diuresis",
+                                                                                                          "Prevención de la deshidratación: fomentar la ingesta adecuada y reconocer signos de hipovolemia",
+                                                                                                          "Reposición de líquidos: administrar líquidos oral o intravenosamente según indicación"
+                                                                                                        ],
+                                                                                                        "trans": [
+                                                                                                          "Apoyo emocional: brindar escucha activa, seguridad y acompañamiento frente al estrés de la enfermedad crónica o los síntomas persistentes",
+                                                                                                          "Educación para la salud: Instruir al paciente sobre dieta, adherencia al tratamiento, autocontrol de glucemia, hidratación y signos de alarma",
+                                                                                                          "Fomento del autocuidado: promover la participación activa del paciente en su tratamiento, higiene, control dietético y actividad física",
+                                                                                                          "Manejo de la medicación: supervisar la administración correcta de insulina, antidiabéticos, diuréticos o soluciones IV según el caso, controlando su eficacia y efectos secundarios",
+                                                                                                          "Monitorización de signos vitales: controlar presión arterial, frecuencia cardíaca, temperatura y frecuencia respiratoria, identificando signos tempranos de desequilibrio metabólico o hemodinámico",
+                                                                                                          "Prevención de complicaciones: enseñar medidas preventivas ante hipoglucemia, infecciones, desequilibrio hídrico y alteraciones térmicas"
+                                                                                                        ],
+                                                                                                        "b6_por_noc": {
+                                                                                                          "Equilibrio de líquidos restaurado": [
+                                                                                                            "1.Severamente comprometido",
+                                                                                                            "2. Moderadamente comprometido",
+                                                                                                            "3. Leve alteración",
+                                                                                                            "4. Adecuado"
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      }
+                                                                                                    },
+  "Geriátrica/Fragilidad": {
+                              "Ansiedad excesiva": {
+                                "noc": [
+                                  "Nivel de ansiedad reducido"
+                                ],
+                                "nic": [
+                                  "Apoyo emocional",
+                                  "Comunicación calmada",
+                                  "Escucha activa"
+                                ],
+                                "trans": [
+                                  "Apoyo y expresión emocional",
+                                  "Asistencia en el autocuidado",
+                                  "Fomento de la seguridad del anciano frágil",
+                                  "Orientación de la realidad",
+                                  "Promoción de la nutrición"
+                                ],
+                                "b6_por_noc": {
+                                  "Nivel de ansiedad reducido": [
+                                    "1. Ansiedad grave",
+                                    "2. Ansiedad sustancial",
+                                    "3. Ansiedad moderada",
+                                    "4. Ansiedad leve",
+                                    "5. Sin ansiedad"
+                                  ]
+                                }
+                              },
+                                                                                "Confusión aguda": {
+                                                                                  "noc": [
+                                                                                    "Orientación temporal y espacial mantenida"
+                                                                                  ],
+                                                                                  "nic": [
+                                                                                    "Ambiente seguro, reorientación, control de causas fisiológicas",
+                                                                                    "Control de causas fisiológicas",
+                                                                                    "Reorientación continua"
+                                                                                  ],
+                                                                                  "trans": [
+                                                                                    "Apoyo y expresión emocional",
+                                                                                    "Asistencia en el autocuidado",
+                                                                                    "Fomento de la seguridad del anciano frágil",
+                                                                                    "Orientación de la realidad",
+                                                                                    "Promoción de la nutrición"
+                                                                                  ],
+                                                                                  "b6_por_noc": {
+                                                                                    "Orientación temporal y espacial mantenida": [
+                                                                                      "1. Nunca demuestra mantenimiento de la orientación temporal y espacial",
+                                                                                      "2. Raramente demuestra mantenimiento de la orientación temporal y espacial",
+                                                                                      "3. A veces demuestra mantenimiento de la orientación temporal y espacial",
+                                                                                      "4. Frecuentemente demuestra mantenimiento de la orientación temporal y espacial",
+                                                                                      "5. Siempre demuestra mantenimiento de la orientación temporal y espacial"
+                                                                                    ]
+                                                                                  }
+                                                                                },
+                              "Confusión crónica": {
+                                "noc": [
+                                  "Mantenimiento de funciones residuales"
+                                ],
+                                "nic": [
+                                  "Adaptación del entorno y seguridad ambiental",
+                                  "Apoyo y educación familiar",
+                                  "Rutinas estables"
+                                ],
+                                "trans": [
+                                  "Apoyo y expresión emocional",
+                                  "Asistencia en el autocuidado",
+                                  "Fomento de la seguridad del anciano frágil",
+                                  "Orientación de la realidad",
+                                  "Promoción de la nutrición"
+                                ],
+                                "b6_por_noc": {
+                                  "Mantenimiento de funciones residuales": [
+                                    "1. Mantenimiento de funciones residuales gravemente comprometido",
+                                    "2. Mantenimiento de funciones residuales sustancialmente comprometido",
+                                    "3. Mantenimiento de funciones residuales moderadamente comprometido",
+                                    "4. Mantenimiento de funciones residuales levemente comprometido",
+                                    "5. Mantenimiento de funciones residuales no comprometido"
+                                  ]
+                                }
+                              },
+                                                                                  "Deterioro de la memoria": {
+                                                                                    "noc": [
+                                                                                      "Memoria funcional conservada"
+                                                                                    ],
+                                                                                    "nic": [
+                                                                                      "Apoyo y educación familiar",
+                                                                                      "Estimulación cognitiva, orientación, apoyo familiar",
+                                                                                      "Orientación continua en tiempo, espacio y lugar"
+                                                                                    ],
+                                                                                    "trans": [
+                                                                                      "Apoyo y expresión emocional",
+                                                                                      "Asistencia en el autocuidado",
+                                                                                      "Fomento de la seguridad del anciano frágil",
+                                                                                      "Orientación de la realidad",
+                                                                                      "Promoción de la nutrición"
+                                                                                    ],
+                                                                                    "b6_por_noc": {
+                                                                                      "Memoria funcional conservada": [
+                                                                                        "1. Nunca demuestra recordar con precisión información a corto, mediano y largo plazo",
+                                                                                        "2. Raramente demuestra recordar con precisión información a corto, mediano y largo plazo",
+                                                                                        "3. A veces demuestra recordar con precisión información a corto, mediano y largo plazo",
+                                                                                        "4. Frecuentemente demuestra recordar con precisión información a corto, mediano y largo plazo",
+                                                                                        "5. Siempre demuestra recordar con precisión información a corto, mediano y largo plazo"
+                                                                                      ]
+                                                                                    }
+                                                                                  },
+                              "Deterioro de la movilidad física": {
+                                "noc": [
+                                  "Movilidad independiente"
+                                ],
+                                "nic": [
+                                  "Apoyo para deambulación",
+                                  "Ejercicios progresivos",
+                                  "Fisioterapia"
+                                ],
+                                "trans": [
+                                  "Apoyo y expresión emocional",
+                                  "Asistencia en el autocuidado",
+                                  "Fomento de la seguridad del anciano frágil",
+                                  "Orientación de la realidad",
+                                  "Promoción de la nutrición"
+                                ],
+                                "b6_por_noc": {
+                                  "Movilidad independiente": [
+                                    "1. Movilidad independiente gravemente comprometida",
+                                    "2. Movilidad independiente sustancialmente comprometida",
+                                    "3. Movilidad independiente moderadamente comprometida",
+                                    "4. Movilidad independiente levemente comprometida",
+                                    "5. Movilidad independiente no comprometida"
+                                  ]
+                                }
+                              },
+                                                                                    "Duelo disfuncional": {
+                                                                                      "noc": [
+                                                                                        "Adaptación al duelo"
+                                                                                      ],
+                                                                                      "nic": [
+                                                                                        "Apoyo emocional y promoción de la expresión emocional",
+                                                                                        "Educación sobre proceso de duelo",
+                                                                                        "Terapia de grupo"
+                                                                                      ],
+                                                                                      "trans": [
+                                                                                        "Apoyo y expresión emocional",
+                                                                                        "Asistencia en el autocuidado",
+                                                                                        "Fomento de la seguridad del anciano frágil",
+                                                                                        "Orientación de la realidad",
+                                                                                        "Promoción de la nutrición"
+                                                                                      ],
+                                                                                      "b6_por_noc": {
+                                                                                        "Adaptación al duelo": [
+                                                                                          "1. Nunca demuestra gestión eficaz del duelo",
+                                                                                          "2. Raramente demuestra gestión eficaz del duelo",
+                                                                                          "3. A veces demuestra gestión eficaz del duelo",
+                                                                                          "4. Frecuentemente demuestra gestión eficaz del duelo",
+                                                                                          "5. Siempre demuestra gestión eficaz del duelo"
+                                                                                        ]
+                                                                                      }
+                                                                                    },
+                              "Déficit de autocuidado (alimentación, baño, vestido, uso del inodoro)": {
+                                "noc": [
+                                  "Actividades de la vida diaria realizadas con apoyo mínimo"
+                                ],
+                                "nic": [
+                                  "Adaptación del entorno físico",
+                                  "Asistencia parcial en actividades de la vida diaria",
+                                  "Enseñanza de actividades",
+                                  "Promoción de la independencia"
+                                ],
+                                "trans": [
+                                  "Apoyo y expresión emocional",
+                                  "Asistencia en el autocuidado",
+                                  "Fomento de la seguridad del anciano frágil",
+                                  "Orientación de la realidad",
+                                  "Promoción de la nutrición"
+                                ],
+                                "b6_por_noc": {
+                                  "Actividades de la vida diaria realizadas con apoyo mínimo": [
+                                    "1, Capacidad nunca demostrada de realización independiente de actividades de la vida diaria",
+                                    "2. Capacidad raramente demostrada de realización independiente de actividades de la vida diaria",
+                                    "3. Capacidad a veces demostrada de realización independiente de actividades de la vida diaria",
+                                    "4. Capacidad frecuentemente demostrada de realización independiente de actividades de la vida diaria",
+                                    "5. Capacidad siempre demostrada de realización independiente de actividades de la vida diaria"
+                                  ]
+                                }
+                              },
+                                                                                "Riesgo de caídas": {
+                                                                                  "noc": [
+                                                                                    "Ausencia de caídas",
+                                                                                    "Marcha Segura"
+                                                                                  ],
+                                                                                  "nic": [
+                                                                                    "Adaptación del entorno físico",
+                                                                                    "Ejercicios de equilibrio a tolerancia",
+                                                                                    "Evaluar riesgo"
+                                                                                  ],
+                                                                                  "trans": [
+                                                                                    "Apoyo y expresión emocional",
+                                                                                    "Asistencia en el autocuidado",
+                                                                                    "Fomento de la seguridad del anciano frágil",
+                                                                                    "Orientación de la realidad",
+                                                                                    "Promoción de la nutrición"
+                                                                                  ],
+                                                                                  "b6_por_noc": {
+                                                                                    "Ausencia de caídas": [
+                                                                                      "1. 10 o más caídas durante estancia",
+                                                                                      "2. 7 a 9 caídas durante estancia",
+                                                                                      "3. 4 a 6 caídas durante estancia",
+                                                                                      "4. 1 a 3 caídas durante estancia",
+                                                                                      "5. Sin caídas durante estancia"
+                                                                                    ],
+                                                                                    "Marcha Segura": [
+                                                                                      "1. Estabilidad de la marcha gravemente comprometida",
+                                                                                      "2. Estabilidad de la marcha sustancialmente comprometida",
+                                                                                      "3. Estabilidad de la marcha moderadamente comprometida",
+                                                                                      "4. Estabilidad de la marcha levemente comprometida",
+                                                                                      "5. Estabilidad de la marcha no comprometida"
+                                                                                    ]
+                                                                                  }
+                                                                                },
+                              "Riesgo de desequilibrio electrolítico": {
+                                "noc": [
+                                  "Equilibrio electrolítico estable"
+                                ],
+                                "nic": [
+                                  "Educación sobre dieta",
+                                  "Hidratación",
+                                  "Monitoreo de electrolitos, hidratación, educación sobre dieta"
+                                ],
+                                "trans": [
+                                  "Apoyo y expresión emocional",
+                                  "Asistencia en el autocuidado",
+                                  "Fomento de la seguridad del anciano frágil",
+                                  "Orientación de la realidad",
+                                  "Promoción de la nutrición"
+                                ],
+                                "b6_por_noc": {
+                                  "Equilibrio electrolítico estable": [
+                                    "1. Desviación grave del nivel normal de electrolitos",
+                                    "2. Desviación sustancial del nivel normal de electrolitos",
+                                    "3. Desviación moderada del nivel normal de electrolitos",
+                                    "4. Desviación leve del nivel normal de electrolitos",
+                                    "5. Sin desviación del nivel normal de electrolitos"
+                                  ]
+                                }
+                              },
+                                                                                  "Riesgo de síndrome de fragilidad del anciano": {
+                                                                                    "noc": [
+                                                                                      "Función física y cognitiva mantenida"
+                                                                                    ],
+                                                                                    "nic": [
+                                                                                      "Ejercicio supervisado, nutrición adecuada, vigilancia de fármacos",
+                                                                                      "Nutrición adecuada",
+                                                                                      "Vigilancia de fármacos"
+                                                                                    ],
+                                                                                    "trans": [
+                                                                                      "Apoyo y expresión emocional",
+                                                                                      "Asistencia en el autocuidado",
+                                                                                      "Fomento de la seguridad del anciano frágil",
+                                                                                      "Orientación de la realidad",
+                                                                                      "Promoción de la nutrición"
+                                                                                    ],
+                                                                                    "b6_por_noc": {
+                                                                                      "Función física y cognitiva mantenida": [
+                                                                                        "1. Función física y cognitiva gravemente comprometida",
+                                                                                        "2. Función física y cognitiva sustancialmente comprometida",
+                                                                                        "3. Función física y cognitiva moderadamente comprometida",
+                                                                                        "4. Función física y cognitiva levemente comprometida",
+                                                                                        "5. Función física y cognitiva no comprometida"
+                                                                                      ]
+                                                                                    }
+                                                                                  }
+                                                                                },
+  "Infecciosas": {
+                              "Ansiedad": {
+                                "noc": [
+                                  "Afrontamiento de la enfermedad.",
+                                  "Nivel de ansiedad."
+                                ],
+                                "nic": [
+                                  "Apoyo emocional",
+                                  "Aumentar el afrontamiento",
+                                  "Disminución de la ansiedad",
+                                  "Educación sanitaria.",
+                                  "Escucha activa"
+                                ],
+                                "trans": [
+                                  "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                  "Manejo de líquidos: mantener equilibrio hídrico medianteControl de ingesta, pérdidas y administración de fluidos",
+                                  "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                  "Monitorización de signos vitales:Controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos",
+                                  "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                  "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente",
+                                  "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos"
+                                ],
+                                "b6_por_noc": {
+                                  "Nivel de ansiedad.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ],
+                                  "Afrontamiento de la enfermedad.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ]
+                                }
+                              },
+                                                                                    "Carga excesiva de la fatiga": {
+                                                                                      "noc": [
+                                                                                        "Bienestar personal: sensación general de equilibrio físico y mental.",
+                                                                                        "Conservación de la energía: capacidad para equilibrar actividad y descanso según las necesidades.",
+                                                                                        "Energía adecuada ."
+                                                                                      ],
+                                                                                      "nic": [
+                                                                                        "Apoyo emocional: reducir ansiedad o temor asociados al agotamiento.",
+                                                                                        "Control de la ansiedad: enseñar técnicas de relajación.",
+                                                                                        "Enseñanza sobre actividad y ejercicio: educar sobre ritmo y autocuidado.",
+                                                                                        "Fomento del descanso: establecer periodos de descanso adecuados.",
+                                                                                        "Manejo ambiental: confort: adecuar temperatura, iluminación y ruido.",
+                                                                                        "Reposo, equilibrio entre actividad y descanso, apoyo emocional."
+                                                                                      ],
+                                                                                      "trans": [
+                                                                                        "4.Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                                                                        "5.Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente.",
+                                                                                        "6.Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                                                                        "7.Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos.",
+                                                                                        "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                                                                        "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluidos.",
+                                                                                        "Manejo de líquidos: mantener equilibrio hídrico medianteControl de ingesta, pérdidas y administración de fluidos",
+                                                                                        "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                                                                        "Monitorización de signos vitales: controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos.",
+                                                                                        "Monitorización de signos vitales:Controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos",
+                                                                                        "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                                                                        "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente",
+                                                                                        "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos"
+                                                                                      ],
+                                                                                      "b6_por_noc": {
+                                                                                        "Energía adecuada .": [
+                                                                                          "1. Desviación grave del rango normal",
+                                                                                          "2. Desviación sustancial del rango normal",
+                                                                                          "3. Desviación moderada del rango normal",
+                                                                                          "4. Desviación leve del rango normal",
+                                                                                          "5. Sin desviación del rango normal"
+                                                                                        ],
+                                                                                        "Conservación de la energía: capacidad para equilibrar actividad y descanso según las necesidades.": [
+                                                                                          "1. Desviación grave del rango normal",
+                                                                                          "2. Desviación sustancial del rango normal",
+                                                                                          "3. Desviación moderada del rango normal",
+                                                                                          "4. Desviación leve del rango normal",
+                                                                                          "5. Sin desviación del rango normal"
+                                                                                        ],
+                                                                                        "Bienestar personal: sensación general de equilibrio físico y mental.": [
+                                                                                          "1. Desviación grave del rango normal",
+                                                                                          "2. Desviación sustancial del rango normal",
+                                                                                          "3. Desviación moderada del rango normal",
+                                                                                          "4. Desviación leve del rango normal",
+                                                                                          "5. Sin desviación del rango normal"
+                                                                                        ]
+                                                                                      }
+                                                                                    },
+                              "Dolor agudo": {
+                                "noc": [
+                                  "Bienestar físico.",
+                                  "Control del dolor."
+                                ],
+                                "nic": [
+                                  "Administración de analgésicos",
+                                  "Apoyo emocional",
+                                  "Disminución de la ansiedad.",
+                                  "Manejo ambiental: confort",
+                                  "Manejo del dolor"
+                                ],
+                                "trans": [
+                                  "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                  "Manejo de líquidos: mantener equilibrio hídrico medianteControl de ingesta, pérdidas y administración de fluidos",
+                                  "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                  "Monitorización de signos vitales:Controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos",
+                                  "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                  "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente",
+                                  "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos"
+                                ],
+                                "b6_por_noc": {
+                                  "Control del dolor.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ],
+                                  "Bienestar físico.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ]
+                                }
+                              },
+                                                                                    "Hipertermia": {
+                                                                                      "noc": [
+                                                                                        "Conocimiento: manejo de la enfermedad aguda",
+                                                                                        "Termorregulación"
+                                                                                      ],
+                                                                                      "nic": [
+                                                                                        "Cuidados en la fiebre: Intervención ante variaciones térmicas.",
+                                                                                        "Fomento del descanso: promover descanso para reducir consumo energético.",
+                                                                                        "Manejo de líquidos: Favorecer hidratación.",
+                                                                                        "Medición de temperatura, antipiréticos, baños tibios, hidratación.",
+                                                                                        "Monitorización de signos vitales: Control continuo de temperatura, FC y FR.",
+                                                                                        "Regulación de la temperatura: Prevenir hipo/hipertermia según condición."
+                                                                                      ],
+                                                                                      "trans": [
+                                                                                        "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                                                                        "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluidos.",
+                                                                                        "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                                                                        "Monitorización de signos vitales: controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos.",
+                                                                                        "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                                                                        "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente.",
+                                                                                        "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos."
+                                                                                      ],
+                                                                                      "b6_por_noc": {
+                                                                                        "Termorregulación": [
+                                                                                          "1. Gravemente comprometido",
+                                                                                          "2. Sustancialmente comprometido",
+                                                                                          "3. Moderadamente comprometido",
+                                                                                          "4. Levemente comprometido",
+                                                                                          "5. No comprometido"
+                                                                                        ],
+                                                                                        "Conocimiento: manejo de la enfermedad aguda": [
+                                                                                          "1. Ningún conocimiento",
+                                                                                          "2. Conocimiento escaso",
+                                                                                          "3. Conocimiento moderado",
+                                                                                          "4. Conocimiento sustancial",
+                                                                                          "5. Conocimiento extenso"
+                                                                                        ]
+                                                                                      }
+                                                                                    },
+                              "Patrón respiratorio ineficaz (en neumonía o sepsis pulmonar)": {
+                                "noc": [
+                                  "Estado cardiovascular: perfusión tisular: eficacia de la circulación sistémica para aportar oxígeno a tejidos.",
+                                  "Estado respiratorio: ventilación: efectividad en el intercambio y movimiento de aire.",
+                                  "Ventilación adecuada, gases arteriales normales ."
+                                ],
+                                "nic": [
+                                  "Aspiración de secreciones: retirar secreciones mediante técnica estéril.",
+                                  "Disminución de la ansiedad: enseñar control respiratorio y relajación.",
+                                  "Manejo de vías respiratorias: mantener limpieza y permeabilidad.",
+                                  "Monitorización respiratoria: observar ritmo y esfuerzo.",
+                                  "Oxigenoterapia, fisioterapia respiratoria, control antibiótico.",
+                                  "Oxigenoterapia: administrar O₂ según saturación."
+                                ],
+                                "trans": [
+                                  "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                  "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluidos.",
+                                  "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                  "Monitorización de signos vitales: controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos.",
+                                  "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                  "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente.",
+                                  "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos."
+                                ],
+                                "b6_por_noc": {
+                                  "Ventilación adecuada, gases arteriales normales .": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ],
+                                  "Estado cardiovascular: perfusión tisular: eficacia de la circulación sistémica para aportar oxígeno a tejidos.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ],
+                                  "Estado respiratorio: ventilación: efectividad en el intercambio y movimiento de aire.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ]
+                                }
+                              },
+                                                                                        "Riesgo de aspiración (en neumonía o sepsis respiratoria)": {
+                                                                                          "noc": [
+                                                                                            "Ausencia de signos de aspiración",
+                                                                                            "Permeabilidad de las vías aéreas: grado de permeabilidad y ausencia de obstrucciones"
+                                                                                          ],
+                                                                                          "nic": [
+                                                                                            "Entrenamiento para la deglución: Enseñar técnicas seguras de deglución.",
+                                                                                            "Manejo de vías respiratorias: mantener permeabilidad y limpieza de vías respiratorias (succión, posición, humidificación).",
+                                                                                            "Monitorización respiratoria: evaluar ritmo, profundidad y ruidos respiratorios.",
+                                                                                            "Oxigenoterapia: Administrar oxígeno para mejorar la oxigenación.",
+                                                                                            "Posición semifowler, aspiración, control de vía aérea, educación al cuidador.",
+                                                                                            "Precauciones para la aspiración: Prevenir aspiración mediante posición y control de alimentación."
+                                                                                          ],
+                                                                                          "trans": [
+                                                                                            "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                                                                            "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluidos.",
+                                                                                            "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                                                                            "Monitorización de signos vitales: controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos.",
+                                                                                            "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                                                                            "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente.",
+                                                                                            "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos."
+                                                                                          ],
+                                                                                          "b6_por_noc": {
+                                                                                            "Ausencia de signos de aspiración": [
+                                                                                              "1. Nunca demostrado",
+                                                                                              "2. Raramente demostrado",
+                                                                                              "3. A veces demostrado",
+                                                                                              "4. Frecuentemente demostrado",
+                                                                                              "5. Siempre demostrado"
+                                                                                            ],
+                                                                                            "Permeabilidad de las vías aéreas: grado de permeabilidad y ausencia de obstrucciones": [
+                                                                                              "1. Desviación grave del rango normal",
+                                                                                              "2. Desviación sustancial del rango normal",
+                                                                                              "3. Desviación moderada del rango normal",
+                                                                                              "4. Desviación leve del rango normal",
+                                                                                              "5. Sin desviación del rango normal"
+                                                                                            ]
+                                                                                          }
+                                                                                        },
+                              "Riesgo de caídas": {
+                                "noc": [
+                                  "Equilibrio.",
+                                  "Prevención de caídas."
+                                ],
+                                "nic": [
+                                  "Fomento del descanso.",
+                                  "Identificación de riesgos",
+                                  "Manejo ambiental: seguridad",
+                                  "Prevención de caídas",
+                                  "Terapia de ejercicio: equilibrio"
+                                ],
+                                "trans": [
+                                  "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                  "Manejo de líquidos: mantener equilibrio hídrico medianteControl de ingesta, pérdidas y administración de fluidos",
+                                  "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                  "Monitorización de signos vitales:Controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos",
+                                  "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                  "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente",
+                                  "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos"
+                                ],
+                                "b6_por_noc": {
+                                  "Prevención de caídas.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ],
+                                  "Equilibrio.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ]
+                                }
+                              },
+                                                                                      "Riesgo de infección": {
+                                                                                        "noc": [
+                                                                                          "Ajusta las estrategias de control de riesgos",
+                                                                                          "Evita la exposición a amenazas para la salud",
+                                                                                          "Severidad de la infección"
+                                                                                        ],
+                                                                                        "nic": [
+                                                                                          "Asepsia, higiene de manos, educación, aislamiento según necesidad.",
+                                                                                          "Control de infecciones: Supervisar y aplicar políticas de control hospitalario.",
+                                                                                          "Identificación de riesgos: Reconocer y controlar factores predisponentes (heridas, dispositivos, inmunosupresión).",
+                                                                                          "Manejo de la nutrición: Asegurar aporte nutricional que fortalezca la respuesta inmune.",
+                                                                                          "Mantenimiento de dispositivos invasivos: Cuidar y vigilar accesos IV, catéteres o sondas para evitar contaminación.",
+                                                                                          "Protección contra infecciones: Aplicar medidas de aislamiento, asepsia y educación para prevenir infecciones."
+                                                                                        ],
+                                                                                        "trans": [
+                                                                                          "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                                                                          "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluidos.",
+                                                                                          "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                                                                          "Monitorización de signos vitales: controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos.",
+                                                                                          "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                                                                          "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente.",
+                                                                                          "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos."
+                                                                                        ],
+                                                                                        "b6_por_noc": {
+                                                                                          "Ajusta las estrategias de control de riesgos": [
+                                                                                            "1. Nunca demostrado",
+                                                                                            "2. Raramente demostrado",
+                                                                                            "3. A veces demostrado",
+                                                                                            "4. Frecuentemente demostrado",
+                                                                                            "5. Siempre demostrado"
+                                                                                          ],
+                                                                                          "Evita la exposición a amenazas para la salud": [
+                                                                                            "1. Nunca demostrado",
+                                                                                            "2. Raramente demostrado",
+                                                                                            "3. A veces demostrado",
+                                                                                            "4. Frecuentemente demostrado",
+                                                                                            "5. Siempre demostrado"
+                                                                                          ],
+                                                                                          "Severidad de la infección": [
+                                                                                            "1. Grave",
+                                                                                            "2. Sustancial",
+                                                                                            "3. Moderado",
+                                                                                            "4. Leve",
+                                                                                            "5. Ninguno"
+                                                                                          ]
+                                                                                        }
+                                                                                      },
+                              "Riesgo de shock": {
+                                "noc": [
+                                  "Estado cardiovascular: perfusión tisular: eficacia de la circulación sistémica para aportar oxígeno a tejidos.",
+                                  "Estado respiratorio: ventilación: efectividad en el intercambio y movimiento de aire",
+                                  "Severidad del shock: séptico"
+                                ],
+                                "nic": [
+                                  "Cuidados críticos: monitorizar y responder ante cambios hemodinámicos o respiratorios graves.",
+                                  "Manejo de líquidos: restaurar volumen circulante eficaz.",
+                                  "Manejo hemodinámico: mantener presión arterial y gasto cardíaco mediante líquidos o fármacos vasoactivos.",
+                                  "Mantenimiento de dispositivos invasivos: prevenir infecciones y obstrucciones en catéteres o drenajes.",
+                                  "Monitorización hemodinámica, administración de líquidos, antibióticos según indicación, oxigenoterapia.",
+                                  "Reanimación cardiopulmonar: aplicar protocolos de soporte vital avanzado."
+                                ],
+                                "trans": [
+                                  "Control de infecciones: implementar y supervisar prácticas de asepsia e higiene en la atención directa",
+                                  "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluido",
+                                  "Manejo de líquidos: mantener equilibrio hídrico mediante control de ingesta, pérdidas y administración de fluidos.",
+                                  "Manejo de vías respiratorias: asegurar la permeabilidad de las vías respiratorias por posición, succión o humidificación",
+                                  "Monitorización de signos vitales: controlar periódicamente temperatura, FC, FR, PA y SpO₂ para detectar cambios tempranos.",
+                                  "Monitorización respiratoria: vigilar patrones respiratorios, sonidos pulmonares y saturación de O₂",
+                                  "Oxigenoterapia : Administrar oxígeno suplementario y valorar la respuesta del paciente.",
+                                  "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos",
+                                  "Protección contra infecciones: establecer medidas preventivas frente a  exposición a agentes patógenos."
+                                ],
+                                "b6_por_noc": {
+                                  "Severidad del shock: séptico": [
+                                    "1. Grave",
+                                    "2. Sustancial",
+                                    "3. Moderado",
+                                    "4. Leve",
+                                    "5. Ninguno"
+                                  ],
+                                  "Estado cardiovascular: perfusión tisular: eficacia de la circulación sistémica para aportar oxígeno a tejidos.": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ],
+                                  "Estado respiratorio: ventilación: efectividad en el intercambio y movimiento de aire": [
+                                    "1. Desviación grave del rango normal",
+                                    "2. Desviación sustancial del rango normal",
+                                    "3. Desviación moderada del rango normal",
+                                    "4. Desviación leve del rango normal",
+                                    "5. Sin desviación del rango normal"
+                                  ]
+                                }
+                              }
+                            },
+  "Neuropsiquiátrica": {
+                                          "Confusión crónica / demencia": {
+                                            "noc": [
+                                              "Autocuidado: Realizacion de actividades de la vida diaria"
+                                            ],
+                                            "nic": [
+                                              "Ambiente estructurado y de bajo estímulo",
+                                              "Educación familiar",
+                                              "Intervenciones de apoyo para AVD",
+                                              "Medidas de seguridad (etiquetado, supervisión)",
+                                              "Referir a terapia ocupacional"
+                                            ],
+                                            "trans": [
+                                              "Asegurar espacios sin obstaculos",
+                                              "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                              "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                              "Fomentar la participacion de decisiones y rutinas",
+                                              "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                              "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                              "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                              "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                              "Promover higiene del sueño"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Autocuidado: Realizacion de actividades de la vida diaria": [
+                                                "1. Nunca demostrado",
+                                                "2. Raramente demostrado",
+                                                "3. A veces demostrado",
+                                                "4. Frecuentemente demostrado",
+                                                "5. Siempre demostrado"
+                                              ]
+                                            }
+                                          },
+                                                                                              "Alteración de la memoria": {
+                                                                                                "noc": [
+                                                                                                  "Memoria"
+                                                                                                ],
+                                                                                                "nic": [
+                                                                                                  "Apoyo familiar",
+                                                                                                  "Enseñar y practicar estrategias mnemotécnicas",
+                                                                                                  "Establecer rutinas",
+                                                                                                  "Registro escrito/agenda"
+                                                                                                ],
+                                                                                                "trans": [
+                                                                                                  "Asegurar espacios sin obstaculos",
+                                                                                                  "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                                                                                  "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                                                                                  "Fomentar la participacion de decisiones y rutinas",
+                                                                                                  "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                                                                                  "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                                                                                  "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                                                                                  "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                                                                                  "Promover higiene del sueño"
+                                                                                                ],
+                                                                                                "b6_por_noc": {
+                                                                                                  "Memoria": [
+                                                                                                    "1. Nunca demostrado",
+                                                                                                    "2. Raramente demostrado",
+                                                                                                    "3. A veces demostrado",
+                                                                                                    "4. Frecuentemente demostrado",
+                                                                                                    "5. Siempre demostrado"
+                                                                                                  ]
+                                                                                                }
+                                                                                              },
+                                          "Comunicación verbal deteriorada": {
+                                            "noc": [
+                                              "Comunicacion"
+                                            ],
+                                            "nic": [
+                                              "Educar a la familia",
+                                              "Evaluar comunicación",
+                                              "Promover tiempo suficiente para responder",
+                                              "Terapia del habla",
+                                              "Usar comunicación no verbal y ayudas (tablas, dispositivos)"
+                                            ],
+                                            "trans": [
+                                              "Asegurar espacios sin obstaculos",
+                                              "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                              "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                              "Fomentar la participacion de decisiones y rutinas",
+                                              "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                              "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                              "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                              "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                              "Promover higiene del sueño"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Comunicacion": [
+                                                "1. Afectación Grave",
+                                                "2. Afectación Sustancial",
+                                                "3. Afectación Moderada",
+                                                "4. Afectación Leve",
+                                                "5. Sin  afectación"
+                                              ]
+                                            }
+                                          },
+                                                                                            "Confusión aguda": {
+                                                                                              "noc": [
+                                                                                                "Estado cognitivo favorable"
+                                                                                              ],
+                                                                                              "nic": [
+                                                                                                "Evaluación y monitorización neurocognitiva frecuente",
+                                                                                                "Manejo del dolor y del sueño",
+                                                                                                "Reorientación y ambiente calmado",
+                                                                                                "Revisar medicamentos (sedantes/anticolinérgicos) y coordinar con médico",
+                                                                                                "educación a familia."
+                                                                                              ],
+                                                                                              "trans": [
+                                                                                                "Asegurar espacios sin obstaculos",
+                                                                                                "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                                                                                "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                                                                                "Fomentar la participacion de decisiones y rutinas",
+                                                                                                "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                                                                                "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                                                                                "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                                                                                "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                                                                                "Promover higiene del sueño"
+                                                                                              ],
+                                                                                              "b6_por_noc": {
+                                                                                                "Estado cognitivo favorable": [
+                                                                                                  "1. Afectación Grave",
+                                                                                                  "2. Afectación Sustancial",
+                                                                                                  "3. Afectación Moderada",
+                                                                                                  "4. Afectación Leve",
+                                                                                                  "5. Sin  afectación"
+                                                                                                ]
+                                                                                              }
+                                                                                            },
+                                          "Riesgo de aspiración": {
+                                            "noc": [
+                                              "Estado respiratorio estable",
+                                              "Sin episodios de aspiración",
+                                              "Tolerancia a la vía oral segura"
+                                            ],
+                                            "nic": [
+                                              "Higiene oral",
+                                              "Posicionamiento adecuado al comer",
+                                              "Succionar si NVO (nada via oral)",
+                                              "Supervisión al alimentarse",
+                                              "Texturización de dietas",
+                                              "Valoración de disfagia (logopeda)"
+                                            ],
+                                            "trans": [
+                                              "Asegurar espacios sin obstaculos",
+                                              "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                              "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                              "Fomentar la participacion de decisiones y rutinas",
+                                              "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                              "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                              "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                              "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                              "Promover higiene del sueño"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Tolerancia a la vía oral segura": [
+                                                "1. Desviación grave del rango normal",
+                                                "2. Desviación sustancial del rango normal",
+                                                "3. Desviación moderada del rango normal",
+                                                "4. Desviación leve del rango normal",
+                                                "5. Sin desviación del rango normal"
+                                              ],
+                                              "Sin episodios de aspiración": [
+                                                "1. Desviación grave del rango normal",
+                                                "2. Desviación sustancial del rango normal",
+                                                "3. Desviación moderada del rango normal",
+                                                "4. Desviación leve del rango normal",
+                                                "5. Sin desviación del rango normal"
+                                              ],
+                                              "Estado respiratorio estable": [
+                                                "1. Desviación grave del rango normal",
+                                                "2. Desviación sustancial del rango normal",
+                                                "3. Desviación moderada del rango normal",
+                                                "4. Desviación leve del rango normal",
+                                                "5. Sin desviación del rango normal"
+                                              ]
+                                            }
+                                          },
+                                                                                          "Riesgo de caídas": {
+                                                                                            "noc": [
+                                                                                              "Conducta de Prevención de Caídas"
+                                                                                            ],
+                                                                                            "nic": [
+                                                                                              "Educación",
+                                                                                              "Ejercicios de equilibrio",
+                                                                                              "Evaluación de riesgo",
+                                                                                              "Plan de prevención (alarmas, calzado adecuado, ayudas para marcha)",
+                                                                                              "Revisar medicamentos"
+                                                                                            ],
+                                                                                            "trans": [
+                                                                                              "Asegurar espacios sin obstaculos",
+                                                                                              "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                                                                              "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                                                                              "Fomentar la participacion de decisiones y rutinas",
+                                                                                              "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                                                                              "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                                                                              "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                                                                              "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                                                                              "Promover higiene del sueño"
+                                                                                            ],
+                                                                                            "b6_por_noc": {
+                                                                                              "Conducta de Prevención de Caídas": [
+                                                                                                "1. Riesgo Grave",
+                                                                                                "2. Riesgo Sustancial",
+                                                                                                "3. Riesgo Moderado",
+                                                                                                "4. Riesgo Leve",
+                                                                                                "5. Sin  riesgo"
+                                                                                              ]
+                                                                                            }
+                                                                                          },
+                                          "Riesgo de confusión aguda": {
+                                            "noc": [
+                                              "Control Cognitivo"
+                                            ],
+                                            "nic": [
+                                              "Mantener hidratación y oxigenación",
+                                              "Medidas de seguridad y educación a cuidadores.",
+                                              "Vigilancia temprana",
+                                              "evitar polifarmacia"
+                                            ],
+                                            "trans": [
+                                              "Asegurar espacios sin obstaculos",
+                                              "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                              "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                              "Fomentar la participacion de decisiones y rutinas",
+                                              "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                              "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                              "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                              "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                              "Promover higiene del sueño"
+                                            ],
+                                            "b6_por_noc": {
+                                              "Control Cognitivo": [
+                                                "1. Gravemente comprometido",
+                                                "2. Sustancialmente comprometido",
+                                                "3. Moderadamente comprometido",
+                                                "4. Levemente comprometido",
+                                                "5. No comprometido"
+                                              ]
+                                            }
+                                          },
+                                                                                          "Riesgo perfusión cerebral inefectiva": {
+                                                                                            "noc": [
+                                                                                              "Perfusion Tisular Cerebral"
+                                                                                            ],
+                                                                                            "nic": [
+                                                                                              "Colaborar con equipo médico para manejo de factores de riesgo",
+                                                                                              "Monitorización neurovascular, control TA y FC",
+                                                                                              "Posicionamiento (evitar posiciones que reduzcan perfusión)"
+                                                                                            ],
+                                                                                            "trans": [
+                                                                                              "Asegurar espacios sin obstaculos",
+                                                                                              "Comunicacion terapeutica: usar frases cortas, evitar confrontaciones",
+                                                                                              "Evaluar estado neurologico y registrar cambios del compaortamiento o cognicion",
+                                                                                              "Fomentar la participacion de decisiones y rutinas",
+                                                                                              "Manejar dolor, evaluar y tratar molestias fisicas o que generen cambios que aumenten la confusion",
+                                                                                              "Mantener entorno tranquilo, iluminado y con rutinas estable",
+                                                                                              "Ofrecer escucha activa y apoyo emocional frente a la ansiedad, miedo o frustracion",
+                                                                                              "Orientacion y estimulacion cognitiva, reorientar frecuentemente a la persona",
+                                                                                              "Promover higiene del sueño"
+                                                                                            ],
+                                                                                            "b6_por_noc": {
+                                                                                              "Perfusion Tisular Cerebral": [
+                                                                                                "1. Valores con desviación grave del rango normal",
+                                                                                                "2. Valores con desviación sustancial del rango normal",
+                                                                                                "3. Valores con desviación moderada del rango normal",
+                                                                                                "4. Valores con desviación leve del rango normal",
+                                                                                                "5. Valores sin desviación del rango normal"
+                                                                                              ]
+                                                                                            }
+                                                                                          }
+                                                                                        },
+  "Osteomuscular": {
+                                        "Alteración de la integridad tisular": {
+                                          "noc": [
+                                            "Ausencia de infecciones",
+                                            "Cicatrización adecuada de piel y tejidos"
+                                          ],
+                                          "nic": [
+                                            "Cambio de vendajes y apósitos regularmente",
+                                            "Cuidado de heridas según orden",
+                                            "Nutrición adecuada para cicatrización",
+                                            "Valoración de signos de infección"
+                                          ],
+                                          "trans": [
+                                            "Educación al paciente",
+                                            "Fomento de la seguridad",
+                                            "Terapia de ejercicios: ambulación",
+                                            "Valoración de la movilidad"
+                                          ],
+                                          "b6_por_noc": {
+                                            "Cicatrización adecuada de piel y tejidos": [
+                                              "1. Herida nada cicatrizada",
+                                              "2. Herida escasamente cicatrizada",
+                                              "3. Herida moderadamente cicatrizada",
+                                              "4. Herida sustancialmente cicatrizada",
+                                              "5. Herida extensamente cicatrizada"
+                                            ],
+                                            "Ausencia de infecciones": [
+                                              "1. Signos graves de infección",
+                                              "2. Signos sustanciales de infección",
+                                              "3. Signos moderados de infección",
+                                              "4. Signos leves de infección",
+                                              "5. Ningún signo de infección"
+                                            ]
+                                          }
+                                        },
+                                                                                                      "Capacidad reducida para caminar, trasladarse, sentarse o ponerse de pie": {
+                                                                                                        "noc": [
+                                                                                                          "Recuperación de habilidad funcional para transferencias y marcha",
+                                                                                                          "Reducción del riesgo de caídas"
+                                                                                                        ],
+                                                                                                        "nic": [
+                                                                                                          "Adaptación del hogar",
+                                                                                                          "Ejercicios de fortalecimiento",
+                                                                                                          "Entrenamiento de transferencias",
+                                                                                                          "Uso correcto de ayudas",
+                                                                                                          "Valoración de seguridad del paciente"
+                                                                                                        ],
+                                                                                                        "trans": [
+                                                                                                          "Educación al paciente",
+                                                                                                          "Fomento de la seguridad",
+                                                                                                          "Terapia de ejercicios: ambulación",
+                                                                                                          "Valoración de la movilidad"
+                                                                                                        ],
+                                                                                                        "b6_por_noc": {
+                                                                                                          "Recuperación de habilidad funcional para transferencias y marcha": [
+                                                                                                            "1. Habilidad funcional para transferencias y marcha gravemente comprometida",
+                                                                                                            "2. Habilidad funcional para transferencias y marcha sustancialmentemente comprometida",
+                                                                                                            "3. Habilidad funcional para transferencias y marcha moderadamente comprometida",
+                                                                                                            "4. Habilidad funcional para transferencias y marcha levemente comprometida",
+                                                                                                            "5. Habilidad funcional para transferencias y marcha no comprometida"
+                                                                                                          ],
+                                                                                                          "Reducción del riesgo de caídas": [
+                                                                                                            "1. Riesgo de caídas grave",
+                                                                                                            "2. Riesgo de caídas sustancial",
+                                                                                                            "3. Riesgo de caídas moderado",
+                                                                                                            "4. Riesgo de caídas leve",
+                                                                                                            "5. Sin riesgo de caídas"
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      },
+                                        "Deterioro de la movilidad física": {
+                                          "noc": [
+                                            "Incremento de movimiento funcional",
+                                            "Independencia en actividades de la vida diaria según capacidad"
+                                          ],
+                                          "nic": [
+                                            "Control del dolor farmacológico o no farmacológico",
+                                            "Ejercicios terapéuticos progresivos",
+                                            "Movilización precoz"
+                                          ],
+                                          "trans": [
+                                            "Educación al paciente",
+                                            "Fomento de la seguridad",
+                                            "Terapia de ejercicios: ambulación",
+                                            "Valoración de la movilidad"
+                                          ],
+                                          "b6_por_noc": {
+                                            "Incremento de movimiento funcional": [
+                                              "1. Movilidad gravemente comprometida",
+                                              "2. Movilidad sustancialmente comprometida",
+                                              "3. Movilidad moderadamente comprometida",
+                                              "4. Movilidad levemente comprometida",
+                                              "5. Movilidad no comprometida"
+                                            ],
+                                            "Independencia en actividades de la vida diaria según capacidad": [
+                                              "1. Independencia nunca demostrada",
+                                              "2. Independencia raramente demostrada",
+                                              "3. Independencia a veces demostrada",
+                                              "4. Independencia frecuentemente demostrada",
+                                              "5. Independencia siempre demostrada"
+                                            ]
+                                          }
+                                        },
+                                                                                                      "Dolor agudo / crónico": {
+                                                                                                        "noc": [
+                                                                                                          "Control del dolor",
+                                                                                                          "Incremento de la tolerancia y función"
+                                                                                                        ],
+                                                                                                        "nic": [
+                                                                                                          "Administración de analgesia prescrita y uso de técnicas adyuvantes",
+                                                                                                          "Educación sobre manejo del dolor",
+                                                                                                          "Evaluación analgésica regular",
+                                                                                                          "Uso de técnicas adyuvantes para el dolor"
+                                                                                                        ],
+                                                                                                        "trans": [
+                                                                                                          "Educación al paciente",
+                                                                                                          "Fomento de la seguridad",
+                                                                                                          "Terapia de ejercicios: ambulación",
+                                                                                                          "Valoración de la movilidad"
+                                                                                                        ],
+                                                                                                        "b6_por_noc": {
+                                                                                                          "Control del dolor": [
+                                                                                                            "1. Dolor grave",
+                                                                                                            "2. Dolor sustancial",
+                                                                                                            "3. Dolor moderado",
+                                                                                                            "4. Dolor leve",
+                                                                                                            "5. Sin dolor"
+                                                                                                          ],
+                                                                                                          "Incremento de la tolerancia y función": [
+                                                                                                            "1. Afectación funcional grave derivada del dolor",
+                                                                                                            "2. Afectación funcional sustancial derivada del dolor",
+                                                                                                            "3. Afectación funcional  moderada derivada del dolor",
+                                                                                                            "4. Afectación funcional leve derivada del dolor",
+                                                                                                            "5. Sin afectación funcional derivada del dolor"
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      },
+                                        "Movilidad en cama alterada": {
+                                          "noc": [
+                                            "Mejoría en capacidad para cambiar de posición en cama",
+                                            "Menor riesgo de complicaciones por inmovilidad"
+                                          ],
+                                          "nic": [
+                                            "Cambios posturales para prevención de lesiones",
+                                            "Dispositivos de asistencia",
+                                            "Enseñanza de la movilización",
+                                            "Técnicas de transferencia asistida"
+                                          ],
+                                          "trans": [
+                                            "Educación al paciente",
+                                            "Fomento de la seguridad",
+                                            "Terapia de ejercicios: ambulación",
+                                            "Valoración de la movilidad"
+                                          ],
+                                          "b6_por_noc": {
+                                            "Mejoría en capacidad para cambiar de posición en cama": [
+                                              "1. Capacidad de cambio de posición en cama gravemente comprometida",
+                                              "2. Capacidad de cambio de posición en cama sustancialmente comprometida",
+                                              "3. Capacidad de cambio de posición en cama moderadamente comprometida",
+                                              "4. Capacidad de cambio de posición en cama levelmente comprometida",
+                                              "5. Capacidad de cambio de posición en cama no comprometida"
+                                            ],
+                                            "Menor riesgo de complicaciones por inmovilidad": [
+                                              "1. Riesgo de complicaciones por inmovilidad no mitigado",
+                                              "2. Riesgo de complicaciones por inmovilidad levemente mitigado",
+                                              "3. Riesgo de complicaciones por inmovilidad moderadamente mitigado",
+                                              "4. Riesgo de complicaciones por inmovilidad sustancialmente mitigado",
+                                              "5. Riesgo de complicaciones por inmovilidad completamente mitigado"
+                                            ]
+                                          }
+                                        },
+                                                                                                        "Riesgo de alteración en la movilidad física": {
+                                                                                                          "noc": [
+                                                                                                            "Disminución de la pérdida de movilidad",
+                                                                                                            "Mantenimiento del rango de movilidad"
+                                                                                                          ],
+                                                                                                          "nic": [
+                                                                                                            "Educación y soporte familiar",
+                                                                                                            "Ejercicios de rango de movilidad pasivos y activos",
+                                                                                                            "Manejo del dolor",
+                                                                                                            "Plan de movilización temprana"
+                                                                                                          ],
+                                                                                                          "trans": [
+                                                                                                            "Educación al paciente",
+                                                                                                            "Fomento de la seguridad",
+                                                                                                            "Terapia de ejercicios: ambulación",
+                                                                                                            "Valoración de la movilidad"
+                                                                                                          ],
+                                                                                                          "b6_por_noc": {
+                                                                                                            "Disminución de la pérdida de movilidad": [
+                                                                                                              "1. Movilidad gravemente comprometida",
+                                                                                                              "2. Movilidad sustancialmente comprometida",
+                                                                                                              "3. Movilidad moderadamente comprometida",
+                                                                                                              "4. Movilidad levemente comprometida",
+                                                                                                              "5. Movilidad no comprometida"
+                                                                                                            ],
+                                                                                                            "Mantenimiento del rango de movilidad": [
+                                                                                                              "1. Desviación grave del rango de movilidad normal",
+                                                                                                              "2. Desviación sustancial del rango de movilidad normal",
+                                                                                                              "3. Desviación moderada del rango de movilidad normal",
+                                                                                                              "4. Desviación leve del rango de movilidad normal",
+                                                                                                              "5. Sin desviación del rango de movilidad normal"
+                                                                                                            ]
+                                                                                                          }
+                                                                                                        },
+                                        "Riesgo de úlcera por presión": {
+                                          "noc": [
+                                            "Ausencia de lesiones por presión",
+                                            "Mantenimiento de piel intacta en zonas de riesgo"
+                                          ],
+                                          "nic": [
+                                            "Documentar estado de la piel",
+                                            "Optimizar nutrición e hidratación",
+                                            "Plan preventivo de úlceras"
+                                          ],
+                                          "trans": [
+                                            "Educación al paciente",
+                                            "Fomento de la seguridad",
+                                            "Terapia de ejercicios: ambulación",
+                                            "Valoración de la movilidad"
+                                          ],
+                                          "b6_por_noc": {
+                                            "Ausencia de lesiones por presión": [
+                                              "1. Integridad de la piel severamente comprometida",
+                                              "2. Integridad de la piel sustancialmente comprometida",
+                                              "3. Integridad de la piel moderadamente comprometida",
+                                              "4. Integridad de la piel levemente comprometida",
+                                              "5. Integridad de la piel conservada"
+                                            ],
+                                            "Mantenimiento de piel intacta en zonas de riesgo": [
+                                              "1. Perfusión tisular severamente comprometida en zonas de riesgo",
+                                              "2. Perfusión tisular sustancialmente comprometida en zonas de riesgo",
+                                              "3. Perfusión tisular moderadamente comprometida en zonas de riesgo",
+                                              "4. Perfusión tisular levemente comprometida en zonas de riesgo",
+                                              "5. Perfusión tisular no comprometida en zonas de riesgo"
+                                            ]
+                                          }
+                                        }
+                                      },
+  "Quemados": {
+                                "Ansiedad": {
+                                  "noc": [
+                                    "Reducción de ansiedad"
+                                  ],
+                                  "nic": [
+                                    "Información clara",
+                                    "Técnicas de relajación"
+                                  ],
+                                  "trans": [
+                                    "Apoyo a la rehabilitación y movilidad temprana",
+                                    "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                    "Evaluación de riesgos de seguridad",
+                                    "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                    "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Reducción de ansiedad": [
+                                      "1 = Ansiedad severa",
+                                      "2 = Ansiedad moderada–alta",
+                                      "3 = Ansiedad moderada",
+                                      "4 = Ansiedad leve",
+                                      "5 = Sin ansiedad"
+                                    ]
+                                  }
+                                },
+                                                                                    "Deterioro de la integridad cutánea": {
+                                                                                      "noc": [
+                                                                                        "Integridad cutánea preservada",
+                                                                                        "Regeneración epitelial"
+                                                                                      ],
+                                                                                      "nic": [
+                                                                                        "Aplicación de apósitos hidrocoloides",
+                                                                                        "Aseo con soluciones adecuadas"
+                                                                                      ],
+                                                                                      "trans": [
+                                                                                        "Apoyo a la rehabilitación y movilidad temprana",
+                                                                                        "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                                                                        "Evaluación de riesgos de seguridad",
+                                                                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                                                                        "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                                                                      ],
+                                                                                      "b6_por_noc": {
+                                                                                        "Integridad cutánea preservada": [
+                                                                                          "1 = Severamente comprometido",
+                                                                                          "2 = Sustancialmente comprometido",
+                                                                                          "3 = Moderadamente comprometido",
+                                                                                          "4 = Levemente comprometido",
+                                                                                          "5 = No comprometido (óptimo)"
+                                                                                        ],
+                                                                                        "Regeneración epitelial": [
+                                                                                          "1 = Severamente comprometido",
+                                                                                          "2 = Sustancialmente comprometido",
+                                                                                          "3 = Moderadamente comprometido",
+                                                                                          "4 = Levemente comprometido",
+                                                                                          "5 = No comprometido (óptimo)"
+                                                                                        ]
+                                                                                      }
+                                                                                    },
+                                "Deterioro de la integridad tisular": {
+                                  "noc": [
+                                    "Ausencia de infección",
+                                    "Cicatrización progresiva"
+                                  ],
+                                  "nic": [
+                                    "Cuidado de heridas según protocolo de quemaduras",
+                                    "Desbridamiento aséptico"
+                                  ],
+                                  "trans": [
+                                    "Apoyo a la rehabilitación y movilidad temprana",
+                                    "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                    "Evaluación de riesgos de seguridad",
+                                    "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                    "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Cicatrización progresiva": [
+                                      "1 = Severamente comprometido",
+                                      "2 = Sustancialmente comprometido",
+                                      "3 = Moderadamente comprometido",
+                                      "4 = Levemente comprometido",
+                                      "5 = No comprometido (óptimo)"
+                                    ],
+                                    "Ausencia de infección": [
+                                      "1 = Severo",
+                                      "2 = Sustancial",
+                                      "3 = Moderado",
+                                      "4 = Leve",
+                                      "5 = Ninguno"
+                                    ]
+                                  }
+                                },
+                                                                                "Dolor agudo": {
+                                                                                  "noc": [
+                                                                                    "Control del dolor a niveles tolerables"
+                                                                                  ],
+                                                                                  "nic": [
+                                                                                    "Apoyo psicológico",
+                                                                                    "Distracción"
+                                                                                  ],
+                                                                                  "trans": [
+                                                                                    "Apoyo a la rehabilitación y movilidad temprana",
+                                                                                    "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                                                                    "Evaluación de riesgos de seguridad",
+                                                                                    "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                                                                    "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                                                                  ],
+                                                                                  "b6_por_noc": {
+                                                                                    "Control del dolor a niveles tolerables": [
+                                                                                      "1 = Severo",
+                                                                                      "2 = Sustancial",
+                                                                                      "3 = Moderado",
+                                                                                      "4 = Leve",
+                                                                                      "5 = Ninguno"
+                                                                                    ]
+                                                                                  }
+                                                                                },
+                                "Patrón respiratorio ineficaz (quemaduras faciales o inhalación de humo)": {
+                                  "noc": [
+                                    "Ventilación efectiva",
+                                    "Vía aérea permeable"
+                                  ],
+                                  "nic": [
+                                    "Aspiración de secreciones",
+                                    "Oxigenoterapia",
+                                    "Posición semifowler"
+                                  ],
+                                  "trans": [
+                                    "Apoyo a la rehabilitación y movilidad temprana",
+                                    "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                    "Evaluación de riesgos de seguridad",
+                                    "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                    "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Vía aérea permeable": [
+                                      "1 = Severamente comprometido",
+                                      "2 = Sustancialmente comprometido",
+                                      "3 = Moderadamente comprometido",
+                                      "4 = Levemente comprometido",
+                                      "5 = No comprometido (óptimo)"
+                                    ],
+                                    "Ventilación efectiva": [
+                                      "1 = Severamente comprometido",
+                                      "2 = Sustancialmente comprometido",
+                                      "3 = Moderadamente comprometido",
+                                      "4 = Levemente comprometido",
+                                      "5 = No comprometido (óptimo)"
+                                    ]
+                                  }
+                                },
+                                                                                    "Riesgo de caídas (en fase de rehabilitación)": {
+                                                                                      "noc": [
+                                                                                        "No ocurrencia de caídas"
+                                                                                      ],
+                                                                                      "nic": [
+                                                                                        "Rehabilitación supervisada"
+                                                                                      ],
+                                                                                      "trans": [
+                                                                                        "Apoyo a la rehabilitación y movilidad temprana",
+                                                                                        "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                                                                        "Evaluación de riesgos de seguridad",
+                                                                                        "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                                                                        "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                                                                      ],
+                                                                                      "b6_por_noc": {
+                                                                                        "No ocurrencia de caídas": [
+                                                                                          "1 = Alto riesgo o caídas frecuentes",
+                                                                                          "2 = Riesgo moderado-alto",
+                                                                                          "3 = Riesgo moderado",
+                                                                                          "4 = Riesgo leve",
+                                                                                          "5 = Sin riesgo",
+                                                                                          "no ocurrencia de caídas",
+                                                                                          "sin caídas"
+                                                                                        ]
+                                                                                      }
+                                                                                    },
+                                "Riesgo de desequilibrio de volumen de líquidos": {
+                                  "noc": [
+                                    "Equilibrio hídrico mantenido"
+                                  ],
+                                  "nic": [
+                                    "Balance hídrico",
+                                    "Control de diuresis",
+                                    "Reposición con fórmulas"
+                                  ],
+                                  "trans": [
+                                    "Apoyo a la rehabilitación y movilidad temprana",
+                                    "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                    "Evaluación de riesgos de seguridad",
+                                    "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                    "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                  ],
+                                  "b6_por_noc": {
+                                    "Equilibrio hídrico mantenido": [
+                                      "1 = Severamente comprometido",
+                                      "2 = Sustancialmente comprometido",
+                                      "3 = Moderadamente comprometido",
+                                      "4 = Levemente comprometido",
+                                      "5 = No comprometido (óptimo)"
+                                    ]
+                                  }
+                                },
+                                                                                      "Riesgo de infección": {
+                                                                                        "noc": [
+                                                                                          "Ausencia de signos infecciosos"
+                                                                                        ],
+                                                                                        "nic": [
+                                                                                          "Aislamiento",
+                                                                                          "Profilaxis antibiótica"
+                                                                                        ],
+                                                                                        "trans": [
+                                                                                          "Apoyo a la rehabilitación y movilidad temprana",
+                                                                                          "Cuidado de piel: aplicación de apósitos avanzados (hidrocoloides, antimicrobianos)",
+                                                                                          "Evaluación de riesgos de seguridad",
+                                                                                          "Higiene de manos antes y después de cada intervención: Prevención universal de infecciones nosocomiales. Aplica a todos los contactos con el paciente.",
+                                                                                          "Valoración del dolor: control del dolor, analgesia multimodal, evaluación continua del dolor"
+                                                                                        ],
+                                                                                        "b6_por_noc": {
+                                                                                          "Ausencia de signos infecciosos": [
+                                                                                            "1 = Severo",
+                                                                                            "2 = Sustancial",
+                                                                                            "3 = Moderado",
+                                                                                            "4 = Leve",
+                                                                                            "5 = Ninguno"
+                                                                                          ]
+                                                                                        }
+                                                                                      }
+                                                                                    },
+  "Respiratorias": {
+                        "Ansiedad": {
+                          "noc": [
+                            "Nivel de ansiedad reducido"
+                          ],
+                          "nic": [
+                            "Ambiente tranquilo",
+                            "Apoyo emocional",
+                            "Información clara",
+                            "Lavado de manos"
+                          ],
+                          "trans": [
+                            "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                            "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                            "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                            "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                            "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                            "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                            "lavado de manos y manejo estéril de las lesiones."
+                          ],
+                          "b6_por_noc": {
+                            "Nivel de ansiedad reducido": [
+                              "1 - Ansiedad severa",
+                              "2 - Ansiedad moderada",
+                              "3 - Ansiedad leve",
+                              "4 - Ansiedad mínima",
+                              "5 - Sin ansiedad"
+                            ]
+                          }
+                        },
+                                                                        "Intercambio gaseoso deteriorado": {
+                                                                          "noc": [
+                                                                            "Intercambio gaseoso adecuado"
+                                                                          ],
+                                                                          "nic": [
+                                                                            "Broncodilatadores según orden",
+                                                                            "Control de gases arteriales",
+                                                                            "Fisioterapia respiratoria",
+                                                                            "Oxigenoterapia",
+                                                                            "Posición semifowler"
+                                                                          ],
+                                                                          "trans": [
+                                                                            "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                                                                            "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                                                                            "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                                                                            "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                                                                            "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                                                                            "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                                                                            "lavado de manos y manejo estéril de las lesiones."
+                                                                          ],
+                                                                          "b6_por_noc": {
+                                                                            "Intercambio gaseoso adecuado": [
+                                                                              "1 - Severamente disminuida",
+                                                                              "2 - Moderadamente disminuida",
+                                                                              "3 - Levemente disminuida",
+                                                                              "4 - Casi normal",
+                                                                              "5 - Normal"
+                                                                            ]
+                                                                          }
+                                                                        },
+                        "Limpieza ineficaz de vías aéreas": {
+                          "noc": [
+                            "Vías aéreas despejadas"
+                          ],
+                          "nic": [
+                            "Aspiración de secreciones",
+                            "Fisioterapia torácica",
+                            "Hidratación",
+                            "Nebulizaciones"
+                          ],
+                          "trans": [
+                            "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                            "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                            "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                            "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                            "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                            "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                            "lavado de manos y manejo estéril de las lesiones."
+                          ],
+                          "b6_por_noc": {
+                            "Vías aéreas despejadas": [
+                              "1 - Severamente baja",
+                              "2 - Moderadamente baja",
+                              "3 - Levemente baja",
+                              "4 - Casi normal",
+                              "5 - Normal"
+                            ]
+                          }
+                        },
+                                                                          "Náusea": {
+                                                                            "noc": [
+                                                                              "Control de náuseas"
+                                                                            ],
+                                                                            "nic": [
+                                                                              "Antieméticos según indicación",
+                                                                              "Hidratación",
+                                                                              "Manejo ambiental"
+                                                                            ],
+                                                                            "trans": [
+                                                                              "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                                                                              "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                                                                              "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                                                                              "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                                                                              "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                                                                              "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                                                                              "lavado de manos y manejo estéril de las lesiones."
+                                                                            ],
+                                                                            "b6_por_noc": {
+                                                                              "Control de náuseas": [
+                                                                                "1 - No controla las náuseas",
+                                                                                "2 - Control mínimo de las náuseas",
+                                                                                "3 - Control moderado de las náuseas",
+                                                                                "4 - Buen control de las náuseas",
+                                                                                "5 - Control óptimo, no presenta náuseas"
+                                                                              ]
+                                                                            }
+                                                                          },
+                        "Patrón respiratorio ineficaz": {
+                          "noc": [
+                            "Saturación O2 > 92\\%",
+                            "Ventilación eficaz"
+                          ],
+                          "nic": [
+                            "Control de ansiedad",
+                            "Educación sobre respiración diafragmática.",
+                            "Fisioterapia respiratoria",
+                            "Manejo de vías respiratorias",
+                            "Oxigenoterapia"
+                          ],
+                          "trans": [
+                            "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                            "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                            "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                            "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                            "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                            "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                            "lavado de manos y manejo estéril de las lesiones."
+                          ],
+                          "b6_por_noc": {
+                            "Ventilación eficaz": [
+                              "1 - Desviacion grave del rango normal",
+                              "2 - Desviación sustancial del rango normal",
+                              "3 - Desviación moderada del rango normal",
+                              "4 - Desviación leve del rango normal",
+                              "5 - Sin desviación del rango normal"
+                            ],
+                            "Saturación O2 > 92\\%": [
+                              "1 - Severamente comprometido",
+                              "2 - Sustancialmente comprometido",
+                              "3 - Moderadamente comprometido",
+                              "4 - Levemente comprometido",
+                              "5 - No comprometido"
+                            ]
+                          }
+                        },
+                                                                                "Riesgo de caídas (por disnea y debilidad)": {
+                                                                                  "noc": [
+                                                                                    "No ocurrencia de caídas"
+                                                                                  ],
+                                                                                  "nic": [
+                                                                                    "Manejo precautorio (oxígeno portátil)",
+                                                                                    "Supervisión"
+                                                                                  ],
+                                                                                  "trans": [
+                                                                                    "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                                                                                    "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                                                                                    "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                                                                                    "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                                                                                    "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                                                                                    "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                                                                                    "lavado de manos y manejo estéril de las lesiones."
+                                                                                  ],
+                                                                                  "b6_por_noc": {
+                                                                                    "No ocurrencia de caídas": [
+                                                                                      "1 - Caídas frecuentes",
+                                                                                      "2 - Ocasionales caídas",
+                                                                                      "3 - Riesgo moderado de caída, sin caídas recientes",
+                                                                                      "4 - Riesgo mínimo de caída",
+                                                                                      "5 - No presenta caídas y mantiene seguridad óptima"
+                                                                                    ]
+                                                                                  }
+                                                                                },
+                        "Riesgo de desequilibrio de volumen de líquidos": {
+                          "noc": [
+                            "Balance hídrico normal"
+                          ],
+                          "nic": [
+                            "Balance hídrico/líquidos IV según orden",
+                            "Control de ingesta/diuresis",
+                            "Peso diario"
+                          ],
+                          "trans": [
+                            "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                            "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                            "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                            "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                            "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                            "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                            "lavado de manos y manejo estéril de las lesiones."
+                          ],
+                          "b6_por_noc": {
+                            "Balance hídrico normal": [
+                              "1 - Desequilibrio severo",
+                              "2 - Desequilibrio moderado",
+                              "3 - Desequilibrio leve",
+                              "4 - Desequilibrio mínimo",
+                              "5 - Balance adecuado"
+                            ]
+                          }
+                        },
+                                                                                    "Riesgo de infección (por ventilación mecánica o bronquitis crónica)": {
+                                                                                      "noc": [
+                                                                                        "Nivel de Infeccion"
+                                                                                      ],
+                                                                                      "nic": [
+                                                                                        "Aspiración estéril",
+                                                                                        "Balance hídrico",
+                                                                                        "Higiene oral",
+                                                                                        "Respiración guiada"
+                                                                                      ],
+                                                                                      "trans": [
+                                                                                        "Control de infecciones   Aplicar y supervisar técnicas de asepsia",
+                                                                                        "Enseñanza/procedimiento/tratamiento   Educar a paciente y familia sobre el uso del oxígeno, ejercicios respiratorios y medidas preventivas.",
+                                                                                        "Manejo de vías respiratorias   Mantener la permeabilidad de las vías respiratorias mediante posición, succión o humidificación.",
+                                                                                        "Monitorización respiratoria   Vigilar patrones respiratorios, sonidos pulmonares y saturación de O2 para detectar signos de deterioro.",
+                                                                                        "Oxigenoterapia   Administrar oxígeno suplementario y valorar la respuesta de paciente para mantener saturación O2",
+                                                                                        "Protección contra infecciones   Implementar medidas preventivas frente a agentes patógenos y minimizar riesgos de broncoaspiración o colonización.",
+                                                                                        "lavado de manos y manejo estéril de las lesiones."
+                                                                                      ],
+                                                                                      "b6_por_noc": {
+                                                                                        "Nivel de Infeccion": [
+                                                                                          "1 - Infección severa",
+                                                                                          "2 - Infección moderada",
+                                                                                          "3 - Infección leve",
+                                                                                          "4 - Signos mínimos de infección",
+                                                                                          "5 - Sin infección"
+                                                                                        ]
+                          }
+                        }
+                      }
+};
